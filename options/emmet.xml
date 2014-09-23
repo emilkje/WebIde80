@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="CssEmmetOptions">
+    <option name="cssEmmetEnabled" value="true" />
+  </component>
+  <component name="EmmetOptions">
+    <option name="emmetEnabled" value="false" />
+  </component>
+</application>
+

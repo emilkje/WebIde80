@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="php-interpreter-version">
+      <project id="olkweb3" values="not installed" />
+      <project id="untitled" values="not installed" />
+    </group>
+    <group name="deployment server">
+      <project id="olkweb3" values="LOCAL" />
+    </group>
+    <group name="module type">
+      <project id="olkweb3" values="WEB_MODULE" />
+      <project id="untitled" values="WEB_MODULE" />
+    </group>
+    <group name="vcs">
+      <project id="olkweb3" values="Git" />
+    </group>
+    <group name="php-servers">
+      <project id="olkweb3" values="0" />
+      <project id="untitled" values="0" />
+    </group>
+    <group name="php-include-path">
+      <project id="olkweb3" values="0" />
+      <project id="untitled" values="0" />
+    </group>
+    <group name="file-type">
+      <project id="olkweb3" values="ARCHIVE,JSON,PLAIN_TEXT,Images,JavaScript,PATCH,HTML,Ini,LESS,PHP,CoffeeScript,JSHint,YAML,DTD,SmartyConfig,SQL,UNKNOWN,Locale,C++,CSS,XML" />
+      <project id="untitled" values="UNKNOWN,XML,PLAIN_TEXT,PHP" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="olkweb3" values="DEFAULT" />
+      <project id="untitled" values="DEFAULT" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="olkweb3" values="0" />
+      <project id="untitled" values="0" />
+    </group>
+    <group name="php-interpreters">
+      <project id="olkweb3" values="1" />
+      <project id="untitled" values="1" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="olkweb3" values="Project,Project" />
+      <project id="untitled" values="Project,Project" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="1" />
+      <entry feature="NewDirectoryProjectAction.PHP Empty Project" count="1" />
+      <entry feature="NewDirectoryProjectAction.empty" count="1" />
+      <entry feature="ide.settings.Appearance" count="5" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="43" />
+      <entry feature="ide.settings.Composer" count="1" />
+      <entry feature="ide.settings.Diagrams" count="1" />
+      <entry feature="ide.settings.Diff" count="7" />
+      <entry feature="ide.settings.Emmet" count="1" />
+      <entry feature="ide.settings.Font" count="34" />
+      <entry feature="ide.settings.General" count="10" />
+      <entry feature="ide.settings.HTML" count="1" />
+      <entry feature="ide.settings.JavaScript" count="1" />
+      <entry feature="ide.settings.Keymap" count="1" />
+      <entry feature="ide.settings.LESS" count="1" />
+      <entry feature="ide.settings.Language_Defaults" count="1" />
+      <entry feature="ide.settings.PHP" count="11" />
+      <entry feature="ide.settings.Spelling" count="1" />
+      <entry feature="ide.settings.Vagrant" count="1" />
+      <entry feature="ideaapp.started" count="7" />
+    </counts>
+  </component>
+</application>
+
