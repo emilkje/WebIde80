@@ -5,6 +5,8 @@
     <toolWindow group="Find in Path" />
     <toolWindow group="Web Deployment: Remote Host" />
     <toolWindow group="PHP Debugger" />
+    <toolWindow group="Common Version Control Messages" />
+    <toolWindow group="Vcs Messages" />
   </component>
 </application>
 

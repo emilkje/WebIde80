@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <code_scheme name="Default (1)">
+  <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <option name="HTML_TEXT_WRAP" value="0" />
+  <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
+  <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />

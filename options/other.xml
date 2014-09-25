@@ -26,7 +26,14 @@
     <option name="FILE_MASK" />
     <option name="RECENT_FIND_STRINGS">
       <value>
-        <list size="0" />
+        <list size="6">
+          <item index="0" class="java.lang.String" itemvalue="SetCan" />
+          <item index="1" class="java.lang.String" itemvalue="setC" />
+          <item index="2" class="java.lang.String" itemvalue="Je" />
+          <item index="3" class="java.lang.String" itemvalue="context" />
+          <item index="4" class="java.lang.String" itemvalue="panel-bod" />
+          <item index="5" class="java.lang.String" itemvalue="debu" />
+        </list>
       </value>
     </option>
     <option name="RECENT_REPLACE_STRINGS">
@@ -59,6 +66,8 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/pers/kolsrud" />
+        <option value="$USER_HOME$/www/project/CWKFoto" />
         <option value="$USER_HOME$/www/project/olkweb3" />
         <option value="$USER_HOME$/www/project/olkweb3/Olkweb3" />
         <option value="$USER_HOME$/PhpstormProjects/untitled" />
@@ -66,10 +75,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/www/project/olkweb3" />
+        <option value="$USER_HOME$/pers/kolsrud" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/www/project/olkweb3" />
+    <option name="lastPath" value="$USER_HOME$/pers/kolsrud" />
   </component>
   <component name="Registry">
     <entry key="ide.new.settings.dialog" value="false" />
@@ -118,7 +127,7 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1411452795482" />
+    <option name="LAST_TIME_CHECKED" value="1411583501999" />
     <option name="LAST_BUILD_CHECKED" value="PS-138.2001" />
     <option name="UPDATE_CHANNEL_TYPE" value="release" />
   </component>
@@ -173,15 +182,15 @@
     </recent_templates>
   </component>
   <component name="com.intellij.javaee.ExternalResourceManagerExImpl">
-    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="urn:idea:xslt-plugin#extensions" />
-    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
 </application>
