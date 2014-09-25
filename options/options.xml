@@ -29,6 +29,7 @@
     <location key="#com.jetbrains.php.config.servers.PhpEnvironmentValidationDialog#.0.0.2560.1440" x="1666" y="555" />
     <location key="#Servers.0.0.2560.1440" x="1531" y="390" />
     <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.0.0.2560.1440" x="1474" y="487" />
+    <location key="EditParametersPopupWindow.0.0.2560.1440" x="1630" y="609" />
     <size key="OptionsEditor.0.0.1920.1200" width="1349" height="846" />
     <size key="DiffWindow.0.0.1920.1200" width="677" height="800" />
     <size key="DiffWindow.0.0.1440.900" width="1147" height="674" />
