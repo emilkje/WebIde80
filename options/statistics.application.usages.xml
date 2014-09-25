@@ -78,6 +78,7 @@
       <entry feature="ide.settings.Composer" count="1" />
       <entry feature="ide.settings.Console_Colors" count="3" />
       <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.Debugger" count="1" />
       <entry feature="ide.settings.Diagrams" count="1" />
       <entry feature="ide.settings.Diff" count="7" />
       <entry feature="ide.settings.Editor" count="1" />
