@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scheme name="Frontier" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="10" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="292d38" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
     <option name="CARET_COLOR" value="7b7d83" />
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="2b303b" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="36312c" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
@@ -244,7 +246,7 @@
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="7f00" />
+        <option name="FOREGROUND" value="a5c25c" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -298,7 +300,7 @@
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGROUND" value="7f00" />
+        <option name="FOREGROUND" value="67c28b" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
@@ -323,7 +325,7 @@
     </option>
     <option name="CSS.COLOR">
       <value>
-        <option name="FOREGROUND" value="f8bb39" />
+        <option name="FOREGROUND" value="a5c25c" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -341,20 +343,20 @@
     </option>
     <option name="CSS.IDENT">
       <value>
-        <option name="FOREGROUND" value="f23a3a" />
+        <option name="FOREGROUND" value="67c28b" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="CSS.IMPORTANT">
       <value>
-        <option name="FOREGROUND" value="fc803d" />
+        <option name="FOREGROUND" value="d94441" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="CSS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="f23a3a" />
+        <option name="FOREGROUND" value="f3993c" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -366,19 +368,19 @@
     </option>
     <option name="CSS.PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="f23a3a" />
+        <option name="FOREGROUND" value="dddddd" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="dee3ec" />
+        <option name="FOREGROUND" value="98ccf2" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="CSS.STRING">
       <value>
-        <option name="FOREGROUND" value="a5c261" />
+        <option name="FOREGROUND" value="fac000" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -390,7 +392,7 @@
     </option>
     <option name="CSS.URL">
       <value>
-        <option name="FOREGROUND" value="287bde" />
+        <option name="FOREGROUND" value="729dc0" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -469,6 +471,12 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="a5c25c" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="7a7267" />
@@ -488,7 +496,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="f23a3a" />
+        <option name="FOREGROUND" value="67c28b" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -506,7 +514,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="f23a3a" />
+        <option name="FOREGROUND" value="729dc0" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -559,7 +567,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="f23a3a" />
+        <option name="FOREGROUND" value="67c28b" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -841,7 +849,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="f23a3a" />
+        <option name="FOREGROUND" value="a5c25c" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -867,12 +875,6 @@
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
-        <option name="EFFECT_TYPE" value="0" />
-      </value>
-    </option>
-    <option name="HTML_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="2ebf7e" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1120,6 +1122,18 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="67c28b" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="a5c25c" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="JS.PARAMETER">
       <value>
         <option name="EFFECT_COLOR" value="dee3ec" />
@@ -1302,13 +1316,6 @@
     <option name="OC_FORMAT_TOKEN">
       <value>
         <option name="FOREGROUND" value="fc803d" />
-        <option name="EFFECT_TYPE" value="0" />
-      </value>
-    </option>
-    <option name="PHP_CONSTANT">
-      <value>
-        <option name="FOREGROUND" value="f23a3a" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>

@@ -11,10 +11,10 @@
       <project id="CWKFoto" values="WEB_MODULE" />
     </group>
     <group name="file-type">
-      <project id="kolsrud" values="YAML,PHP,UNKNOWN,Images,htaccess,JSON,Blade,XML,PLAIN_TEXT" />
-      <project id="olkweb3" values="PHP,Ini,SmartyConfig,ARCHIVE,Locale,DTD,JSON,UNKNOWN,YAML,XML,Images,HTML,LESS,C++,JSHint,JavaScript,SQL,CSS,PLAIN_TEXT,CoffeeScript,PATCH" />
+      <project id="kolsrud" values="JSON,PHP,XML,Blade,PLAIN_TEXT,YAML,UNKNOWN,htaccess,Images" />
+      <project id="olkweb3" values="C++,PLAIN_TEXT,Ini,YAML,HTML,PHP,Locale,JSHint,PATCH,CoffeeScript,SmartyConfig,LESS,ARCHIVE,SQL,XML,DTD,UNKNOWN,Images,JavaScript,JSON,CSS" />
       <project id="untitled" values="PHP,PLAIN_TEXT,XML,UNKNOWN" />
-      <project id="CWKFoto" values="XML,JSON,PLAIN_TEXT,PHP,UNKNOWN" />
+      <project id="CWKFoto" values="XML,PHP,JSON,PLAIN_TEXT,UNKNOWN" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="kolsrud" values="Project,Project" />
@@ -51,17 +51,17 @@
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="1" />
     </group>
-    <group name="php-debug-skipped-paths">
-      <project id="kolsrud" values="0" />
-      <project id="olkweb3" values="0" />
-      <project id="untitled" values="0" />
-      <project id="CWKFoto" values="0" />
-    </group>
     <group name="JavaScript versions">
       <project id="kolsrud" values="DEFAULT" />
       <project id="olkweb3" values="DEFAULT" />
       <project id="untitled" values="DEFAULT" />
       <project id="CWKFoto" values="DEFAULT" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="kolsrud" values="0" />
+      <project id="olkweb3" values="0" />
+      <project id="untitled" values="0" />
+      <project id="CWKFoto" values="0" />
     </group>
   </component>
   <component name="UsageTrigger">
@@ -70,24 +70,27 @@
       <entry feature="NewDirectoryProjectAction.PHP Empty Project" count="1" />
       <entry feature="NewDirectoryProjectAction.empty" count="2" />
       <entry feature="ide.settings.Appearance" count="5" />
-      <entry feature="ide.settings.Colors_&amp;_Fonts" count="43" />
+      <entry feature="ide.settings.CSS" count="4" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="62" />
       <entry feature="ide.settings.Composer" count="1" />
+      <entry feature="ide.settings.Console_Colors" count="3" />
+      <entry feature="ide.settings.Console_Font" count="1" />
       <entry feature="ide.settings.Diagrams" count="1" />
       <entry feature="ide.settings.Diff" count="7" />
       <entry feature="ide.settings.Editor" count="1" />
       <entry feature="ide.settings.Emmet" count="1" />
-      <entry feature="ide.settings.Font" count="35" />
-      <entry feature="ide.settings.General" count="10" />
-      <entry feature="ide.settings.HTML" count="2" />
+      <entry feature="ide.settings.Font" count="37" />
+      <entry feature="ide.settings.General" count="11" />
+      <entry feature="ide.settings.HTML" count="31" />
       <entry feature="ide.settings.Inspections" count="2" />
-      <entry feature="ide.settings.JavaScript" count="1" />
+      <entry feature="ide.settings.JavaScript" count="20" />
       <entry feature="ide.settings.Keymap" count="2" />
       <entry feature="ide.settings.LESS" count="1" />
-      <entry feature="ide.settings.Language_Defaults" count="1" />
-      <entry feature="ide.settings.PHP" count="11" />
+      <entry feature="ide.settings.Language_Defaults" count="7" />
+      <entry feature="ide.settings.PHP" count="14" />
       <entry feature="ide.settings.Spelling" count="1" />
       <entry feature="ide.settings.Vagrant" count="1" />
-      <entry feature="ideaapp.started" count="8" />
+      <entry feature="ideaapp.started" count="9" />
     </counts>
   </component>
 </application>
