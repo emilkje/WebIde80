@@ -4,7 +4,7 @@
   <component name="CssEmmetOptions" version="1411632446965" />
   <component name="DaemonCodeAnalyzerSettings" version="1411630914176" />
   <component name="DatabaseSettings" version="1411546876907" />
-  <component name="DimensionService" version="1411630914176" />
+  <component name="DimensionService" version="1411633651206" />
   <component name="EditorColorsManagerImpl" version="1411631435173" />
   <component name="EditorSettings" version="1411630914177" />
   <component name="EmmetOptions" version="1411632446966" />
@@ -33,8 +33,9 @@
   <component name="TemplateSettings" version="1411632446969" />
   <component name="TodoConfiguration" version="1411630914189" />
   <component name="UISettings" version="1411630914189" />
+  <component name="UmlConfiguration" version="1411634120181" />
   <component name="UpdatesConfigurable" version="1411630914190" />
-  <component name="UsageTrigger" version="1411632567941" />
+  <component name="UsageTrigger" version="1411633750440" />
   <component name="UsagesStatistic" version="1411630914195" />
   <component name="WebBrowsersConfiguration" version="1411630914197" />
   <component name="WebServers" version="1411630914198" />

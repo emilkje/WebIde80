@@ -1328,13 +1328,13 @@
     </option>
     <option name="PHP_HEREDOC_ID">
       <value>
-        <option name="FOREGROUND" value="fc803d" />
+        <option name="FOREGROUND" value="7d868e" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="PHP_TAG">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FOREGROUND" value="d94441" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
