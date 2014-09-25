@@ -25,6 +25,7 @@
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1440.900" x="636" y="180" />
     <location key="WELCOME_SCREEN.0.0.2560.1440" x="1279" y="300" />
     <location key="replaceTextDialog.0.0.2560.1440" x="1743" y="467" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.2560.1440" x="1764" y="450" />
     <size key="OptionsEditor.0.0.1920.1200" width="1349" height="846" />
     <size key="DiffWindow.0.0.1920.1200" width="677" height="800" />
     <size key="DiffWindow.0.0.1440.900" width="1147" height="674" />

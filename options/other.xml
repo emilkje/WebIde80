@@ -26,7 +26,7 @@
     <option name="FILE_MASK" />
     <option name="RECENT_FIND_STRINGS">
       <value>
-        <list size="7">
+        <list size="8">
           <item index="0" class="java.lang.String" itemvalue="SetCan" />
           <item index="1" class="java.lang.String" itemvalue="setC" />
           <item index="2" class="java.lang.String" itemvalue="Je" />
@@ -34,6 +34,7 @@
           <item index="4" class="java.lang.String" itemvalue="panel-bod" />
           <item index="5" class="java.lang.String" itemvalue="debu" />
           <item index="6" class="java.lang.String" itemvalue="skala" />
+          <item index="7" class="java.lang.String" itemvalue="commonRe" />
         </list>
       </value>
     </option>
