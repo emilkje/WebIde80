@@ -10,7 +10,7 @@
     <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.file" count="13" last-shown="0" last-used="1411559795905" shown-count="0" />
     <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="SearchEverywhere" count="86" last-shown="0" last-used="1411638702475" shown-count="0" />
+    <feature id="SearchEverywhere" count="87" last-shown="0" last-used="1411641772648" shown-count="0" />
     <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -21,7 +21,7 @@
     <feature id="editing.completion.replace" count="1" last-shown="0" last-used="1411583681462" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="107" last-shown="0" last-used="1411641692391" shown-count="0" />
+    <feature id="editing.select.word" count="108" last-shown="0" last-used="1411641805512" shown-count="0" />
     <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="20" last-shown="0" last-used="1411632000869" shown-count="0" />
     <feature id="codeassists.comment.block" count="0" last-shown="0" last-used="0" shown-count="0" />
