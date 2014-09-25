@@ -10,7 +10,7 @@
     <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.file" count="14" last-shown="0" last-used="1411648272205" shown-count="0" />
     <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="SearchEverywhere" count="105" last-shown="0" last-used="1411648925824" shown-count="0" />
+    <feature id="SearchEverywhere" count="106" last-shown="0" last-used="1411649424111" shown-count="0" />
     <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="1" last-shown="0" last-used="1411648420617" shown-count="0" />
@@ -29,7 +29,7 @@
     <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.declaration" count="7" last-shown="0" last-used="1411648679524" shown-count="0" />
     <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="103" last-shown="0" last-used="1411648960152" shown-count="0" />
+    <feature id="editing.completion.basic" count="104" last-shown="0" last-used="1411649482816" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="4" last-shown="0" last-used="1411550518746" shown-count="0" />
     <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
