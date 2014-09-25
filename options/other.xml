@@ -26,7 +26,7 @@
     <option name="FILE_MASK" />
     <option name="RECENT_FIND_STRINGS">
       <value>
-        <list size="13">
+        <list size="14">
           <item index="0" class="java.lang.String" itemvalue="SetCan" />
           <item index="1" class="java.lang.String" itemvalue="setC" />
           <item index="2" class="java.lang.String" itemvalue="Je" />
@@ -40,6 +40,7 @@
           <item index="10" class="java.lang.String" itemvalue="scaleSto" />
           <item index="11" class="java.lang.String" itemvalue="scale" />
           <item index="12" class="java.lang.String" itemvalue="sync" />
+          <item index="13" class="java.lang.String" itemvalue="setScaleid" />
         </list>
       </value>
     </option>
