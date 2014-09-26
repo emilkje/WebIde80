@@ -21,13 +21,13 @@
     <feature id="editing.completion.replace" count="1" last-shown="0" last-used="1411583681462" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="147" last-shown="0" last-used="1411716381772" shown-count="0" />
+    <feature id="editing.select.word" count="149" last-shown="0" last-used="1411716397591" shown-count="0" />
     <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="21" last-shown="0" last-used="1411654330026" shown-count="0" />
     <feature id="codeassists.comment.block" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.class" count="25" last-shown="0" last-used="1411548021117" shown-count="0" />
     <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="11" last-shown="0" last-used="1411715590510" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="14" last-shown="0" last-used="1411716396251" shown-count="0" />
     <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.basic" count="135" last-shown="0" last-used="1411716243048" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="4" last-shown="0" last-used="1411550518746" shown-count="0" />
