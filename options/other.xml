@@ -26,7 +26,7 @@
     <option name="FILE_MASK" />
     <option name="RECENT_FIND_STRINGS">
       <value>
-        <list size="14">
+        <list size="15">
           <item index="0" class="java.lang.String" itemvalue="SetCan" />
           <item index="1" class="java.lang.String" itemvalue="setC" />
           <item index="2" class="java.lang.String" itemvalue="Je" />
@@ -41,6 +41,7 @@
           <item index="11" class="java.lang.String" itemvalue="scale" />
           <item index="12" class="java.lang.String" itemvalue="sync" />
           <item index="13" class="java.lang.String" itemvalue="setScaleid" />
+          <item index="14" class="java.lang.String" itemvalue="plan" />
         </list>
       </value>
     </option>
@@ -130,7 +131,7 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1411583501999" />
+    <option name="LAST_TIME_CHECKED" value="1411669903437" />
     <option name="LAST_BUILD_CHECKED" value="PS-138.2001" />
     <option name="UPDATE_CHANNEL_TYPE" value="release" />
   </component>
