@@ -91,6 +91,11 @@
         <option value="$USER_HOME$/PhpstormProjects/untitled" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/www/project/olkweb3" />
+      </list>
+    </option>
     <option name="lastPath" value="$USER_HOME$/www/project/olkweb3" />
   </component>
   <component name="Registry">
