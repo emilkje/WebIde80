@@ -29,14 +29,14 @@
     <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.declaration" count="37" last-shown="0" last-used="1412169872421" shown-count="0" />
     <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="241" last-shown="0" last-used="1412170531436" shown-count="0" />
+    <feature id="editing.completion.basic" count="243" last-shown="0" last-used="1412172271448" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="5" last-shown="0" last-used="1411999203975" shown-count="0" />
     <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.files" count="30" last-shown="0" last-used="1412153697267" shown-count="0" />
     <feature id="navigation.popup.file.structure" count="4" last-shown="0" last-used="1411994131507" shown-count="0" />
-    <feature id="editing.completion.camelHumps" count="2" last-shown="0" last-used="1411716243035" shown-count="0" />
+    <feature id="editing.completion.camelHumps" count="3" last-shown="0" last-used="1412172258849" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.rename" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickjavadoc" count="3" last-shown="0" last-used="1411650686148" shown-count="0" />
