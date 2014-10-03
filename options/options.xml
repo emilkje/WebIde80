@@ -32,6 +32,7 @@
     <location key="EditParametersPopupWindow.0.0.2560.1440" x="1630" y="609" />
     <location key="StructurePopup.0.0.2560.1440" x="1695" y="498" />
     <location key="findTextDialog.0.0.1920.1200" x="1157" y="372" />
+    <location key="DiffWindow.0.0.2560.1440" x="1393" y="122" />
     <size key="OptionsEditor.0.0.1920.1200" width="1349" height="846" />
     <size key="DiffWindow.0.0.1920.1200" width="677" height="800" />
     <size key="DiffWindow.0.0.1440.900" width="1147" height="674" />
@@ -49,6 +50,7 @@
     <size key="GridCell.Tab.2.right.0.0.2560.1440" width="1227" height="532" />
     <size key="GridCell.Tab.2.bottom.0.0.2560.1440" width="1227" height="532" />
     <size key="StructurePopup.0.0.2560.1440" width="454" height="441" />
+    <size key="DiffWindow.0.0.2560.1440" width="1065" height="1209" />
     <extendedState key="DiffWindow" state="0" />
   </component>
   <component name="LafManager">
