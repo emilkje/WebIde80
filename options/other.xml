@@ -26,35 +26,37 @@
     <option name="FILE_MASK" />
     <option name="RECENT_FIND_STRINGS">
       <value>
-        <list size="28">
-          <item index="0" class="java.lang.String" itemvalue="SetCan" />
-          <item index="1" class="java.lang.String" itemvalue="setC" />
-          <item index="2" class="java.lang.String" itemvalue="Je" />
-          <item index="3" class="java.lang.String" itemvalue="context" />
-          <item index="4" class="java.lang.String" itemvalue="panel-bod" />
-          <item index="5" class="java.lang.String" itemvalue="debu" />
-          <item index="6" class="java.lang.String" itemvalue="skala" />
-          <item index="7" class="java.lang.String" itemvalue="commonRe" />
-          <item index="8" class="java.lang.String" itemvalue="setCommon" />
-          <item index="9" class="java.lang.String" itemvalue="common" />
-          <item index="10" class="java.lang.String" itemvalue="scaleSto" />
-          <item index="11" class="java.lang.String" itemvalue="scale" />
-          <item index="12" class="java.lang.String" itemvalue="sync" />
-          <item index="13" class="java.lang.String" itemvalue="setScaleid" />
-          <item index="14" class="java.lang.String" itemvalue="plan" />
-          <item index="15" class="java.lang.String" itemvalue="parti" />
-          <item index="16" class="java.lang.String" itemvalue="participant" />
-          <item index="17" class="java.lang.String" itemvalue="rbasedate" />
-          <item index="18" class="java.lang.String" itemvalue="input" />
-          <item index="19" class="java.lang.String" itemvalue="media" />
-          <item index="20" class="java.lang.String" itemvalue=".popover" />
-          <item index="21" class="java.lang.String" itemvalue="msg" />
-          <item index="22" class="java.lang.String" itemvalue="$evaluationAdmin" />
-          <item index="23" class="java.lang.String" itemvalue="eval" />
-          <item index="24" class="java.lang.String" itemvalue="loadarea" />
-          <item index="25" class="java.lang.String" itemvalue="ajaxload" />
-          <item index="26" class="java.lang.String" itemvalue="autoload" />
-          <item index="27" class="java.lang.String" itemvalue="form" />
+        <list size="30">
+          <item index="0" class="java.lang.String" itemvalue="setC" />
+          <item index="1" class="java.lang.String" itemvalue="Je" />
+          <item index="2" class="java.lang.String" itemvalue="context" />
+          <item index="3" class="java.lang.String" itemvalue="panel-bod" />
+          <item index="4" class="java.lang.String" itemvalue="debu" />
+          <item index="5" class="java.lang.String" itemvalue="skala" />
+          <item index="6" class="java.lang.String" itemvalue="commonRe" />
+          <item index="7" class="java.lang.String" itemvalue="setCommon" />
+          <item index="8" class="java.lang.String" itemvalue="common" />
+          <item index="9" class="java.lang.String" itemvalue="scaleSto" />
+          <item index="10" class="java.lang.String" itemvalue="scale" />
+          <item index="11" class="java.lang.String" itemvalue="sync" />
+          <item index="12" class="java.lang.String" itemvalue="setScaleid" />
+          <item index="13" class="java.lang.String" itemvalue="plan" />
+          <item index="14" class="java.lang.String" itemvalue="parti" />
+          <item index="15" class="java.lang.String" itemvalue="participant" />
+          <item index="16" class="java.lang.String" itemvalue="rbasedate" />
+          <item index="17" class="java.lang.String" itemvalue="input" />
+          <item index="18" class="java.lang.String" itemvalue="media" />
+          <item index="19" class="java.lang.String" itemvalue=".popover" />
+          <item index="20" class="java.lang.String" itemvalue="msg" />
+          <item index="21" class="java.lang.String" itemvalue="$evaluationAdmin" />
+          <item index="22" class="java.lang.String" itemvalue="eval" />
+          <item index="23" class="java.lang.String" itemvalue="loadarea" />
+          <item index="24" class="java.lang.String" itemvalue="ajaxload" />
+          <item index="25" class="java.lang.String" itemvalue="autoload" />
+          <item index="26" class="java.lang.String" itemvalue="form" />
+          <item index="27" class="java.lang.String" itemvalue="dialog" />
+          <item index="28" class="java.lang.String" itemvalue="openDialo" />
+          <item index="29" class="java.lang.String" itemvalue="openDia" />
         </list>
       </value>
     </option>
