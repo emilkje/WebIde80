@@ -4,30 +4,6 @@
     <group name="vcs">
       <project id="olkweb3" values="Git" />
     </group>
-    <group name="run-configuration-type">
-      <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
-    </group>
-    <group name="module type">
-      <project id="kolsrud" values="WEB_MODULE" />
-      <project id="olkweb3" values="WEB_MODULE" />
-      <project id="untitled" values="WEB_MODULE" />
-      <project id="CWKFoto" values="WEB_MODULE" />
-    </group>
-    <group name="php-server-debug-ext">
-      <project id="olkweb3" values="xdebug" />
-    </group>
-    <group name="file-type">
-      <project id="kolsrud" values="htaccess,XML,YAML,Images,PHP,UNKNOWN,JSON,Blade,PLAIN_TEXT" />
-      <project id="olkweb3" values="JavaScript,CSS,YAML,UNKNOWN,SmartyConfig,HTML,PHP,JSON,CoffeeScript,PATCH,SQL,PLAIN_TEXT,ARCHIVE,C++,LESS,XML,Images,Locale,Ini,JSHint,DTD" />
-      <project id="untitled" values="XML,PLAIN_TEXT,PHP,UNKNOWN" />
-      <project id="CWKFoto" values="UNKNOWN,JSON,PLAIN_TEXT,PHP,XML" />
-    </group>
-    <group name="javaScript Scope Usages">
-      <project id="kolsrud" values="Project,Project" />
-      <project id="olkweb3" values="Project,Project" />
-      <project id="untitled" values="Project,Project" />
-      <project id="CWKFoto" values="Project,Project" />
-    </group>
     <group name="php-interpreter-debug-ext">
       <project id="olkweb3" values="xdebug" />
     </group>
@@ -42,6 +18,15 @@
       <project id="olkweb3" values="5.3.28" />
       <project id="untitled" values="not installed" />
       <project id="CWKFoto" values="not installed" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
+    </group>
+    <group name="module type">
+      <project id="kolsrud" values="WEB_MODULE" />
+      <project id="olkweb3" values="WEB_MODULE" />
+      <project id="untitled" values="WEB_MODULE" />
+      <project id="CWKFoto" values="WEB_MODULE" />
     </group>
     <group name="deployment server">
       <project id="kolsrud" values="LOCAL" />
@@ -60,17 +45,32 @@
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="1" />
     </group>
-    <group name="JavaScript versions">
-      <project id="kolsrud" values="DEFAULT" />
-      <project id="olkweb3" values="DEFAULT" />
-      <project id="untitled" values="DEFAULT" />
-      <project id="CWKFoto" values="DEFAULT" />
+    <group name="php-server-debug-ext">
+      <project id="olkweb3" values="xdebug" />
+    </group>
+    <group name="file-type">
+      <project id="kolsrud" values="Blade,XML,YAML,PLAIN_TEXT,JSON,UNKNOWN,Images,PHP,htaccess" />
+      <project id="olkweb3" values="C++,Ini,SQL,CoffeeScript,DTD,Images,PLAIN_TEXT,JavaScript,XML,ARCHIVE,JSHint,PHP,HTML,JSON,PATCH,SmartyConfig,UNKNOWN,Locale,LESS,CSS,YAML" />
+      <project id="untitled" values="UNKNOWN,PLAIN_TEXT,XML,PHP" />
+      <project id="CWKFoto" values="JSON,PHP,XML,UNKNOWN,PLAIN_TEXT" />
     </group>
     <group name="php-debug-skipped-paths">
       <project id="kolsrud" values="0" />
       <project id="olkweb3" values="0" />
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="0" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="kolsrud" values="Project,Project" />
+      <project id="olkweb3" values="Project,Project" />
+      <project id="untitled" values="Project,Project" />
+      <project id="CWKFoto" values="Project,Project" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="kolsrud" values="DEFAULT" />
+      <project id="olkweb3" values="DEFAULT" />
+      <project id="untitled" values="DEFAULT" />
+      <project id="CWKFoto" values="DEFAULT" />
     </group>
   </component>
   <component name="UsageTrigger">
@@ -104,7 +104,7 @@
       <entry feature="ide.settings.PHP" count="20" />
       <entry feature="ide.settings.Spelling" count="1" />
       <entry feature="ide.settings.Vagrant" count="1" />
-      <entry feature="ideaapp.started" count="10" />
+      <entry feature="ideaapp.started" count="11" />
     </counts>
   </component>
 </application>
