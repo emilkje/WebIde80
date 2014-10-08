@@ -23,7 +23,7 @@
     <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.select.word" count="689" last-shown="0" last-used="1412765733841" shown-count="0" />
     <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.tree.speedsearch" count="35" last-shown="0" last-used="1412671734983" shown-count="0" />
+    <feature id="ui.tree.speedsearch" count="36" last-shown="0" last-used="1412765792079" shown-count="0" />
     <feature id="codeassists.comment.block" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.class" count="25" last-shown="0" last-used="1411548021117" shown-count="0" />
     <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -34,7 +34,7 @@
     <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.recent.files" count="35" last-shown="0" last-used="1412671734703" shown-count="0" />
+    <feature id="navigation.recent.files" count="36" last-shown="0" last-used="1412765791797" shown-count="0" />
     <feature id="navigation.popup.file.structure" count="6" last-shown="0" last-used="1412428676240" shown-count="0" />
     <feature id="editing.completion.camelHumps" count="4" last-shown="0" last-used="1412587914235" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
