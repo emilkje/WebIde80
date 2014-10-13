@@ -103,6 +103,7 @@
     <property name="FileStructurePopup.narrowDown" value="true" />
     <property name="evlsprt.8" value="1493ba32bf1" />
     <property name="evlsprt2.8" value="148f8b0961b" />
+    <property name="run.configuration.edit.ad" value="true" />
   </component>
 </application>
 
