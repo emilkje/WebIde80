@@ -10,7 +10,7 @@
     <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.file" count="18" last-shown="0" last-used="1412687538283" shown-count="0" />
     <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="SearchEverywhere" count="682" last-shown="0" last-used="1413204678168" shown-count="0" />
+    <feature id="SearchEverywhere" count="684" last-shown="0" last-used="1413204871228" shown-count="0" />
     <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="2" last-shown="0" last-used="1412320110670" shown-count="0" />
@@ -35,7 +35,7 @@
     <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.files" count="36" last-shown="0" last-used="1412765791797" shown-count="0" />
-    <feature id="navigation.popup.file.structure" count="7" last-shown="0" last-used="1412858201456" shown-count="0" />
+    <feature id="navigation.popup.file.structure" count="8" last-shown="0" last-used="1413204842932" shown-count="0" />
     <feature id="editing.completion.camelHumps" count="4" last-shown="0" last-used="1412587914235" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.rename" count="0" last-shown="0" last-used="0" shown-count="0" />
