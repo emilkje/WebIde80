@@ -45,18 +45,18 @@
           <item index="15" class="java.lang.String" itemvalue="ul.b" />
           <item index="16" class="java.lang.String" itemvalue="blockli" />
           <item index="17" class="java.lang.String" itemvalue="tag" />
-          <item index="18" class="java.lang.String" itemvalue="canEditCompany" />
-          <item index="19" class="java.lang.String" itemvalue="statusAs" />
-          <item index="20" class="java.lang.String" itemvalue="canEditSelection" />
-          <item index="21" class="java.lang.String" itemvalue="comment" />
-          <item index="22" class="java.lang.String" itemvalue="feedback" />
-          <item index="23" class="java.lang.String" itemvalue="autoload" />
-          <item index="24" class="java.lang.String" itemvalue="ajaxpost" />
-          <item index="25" class="java.lang.String" itemvalue="autocomplete" />
-          <item index="26" class="java.lang.String" itemvalue="lib" />
-          <item index="27" class="java.lang.String" itemvalue="mplete" />
-          <item index="28" class="java.lang.String" itemvalue="currentEval" />
-          <item index="29" class="java.lang.String" itemvalue="jaxpost" />
+          <item index="18" class="java.lang.String" itemvalue="statusAs" />
+          <item index="19" class="java.lang.String" itemvalue="canEditSelection" />
+          <item index="20" class="java.lang.String" itemvalue="comment" />
+          <item index="21" class="java.lang.String" itemvalue="feedback" />
+          <item index="22" class="java.lang.String" itemvalue="autoload" />
+          <item index="23" class="java.lang.String" itemvalue="ajaxpost" />
+          <item index="24" class="java.lang.String" itemvalue="autocomplete" />
+          <item index="25" class="java.lang.String" itemvalue="lib" />
+          <item index="26" class="java.lang.String" itemvalue="mplete" />
+          <item index="27" class="java.lang.String" itemvalue="currentEval" />
+          <item index="28" class="java.lang.String" itemvalue="jaxpost" />
+          <item index="29" class="java.lang.String" itemvalue="canEditCompany" />
         </list>
       </value>
     </option>
