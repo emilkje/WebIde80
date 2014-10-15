@@ -54,9 +54,9 @@
           <item index="24" class="java.lang.String" itemvalue="statusAs" />
           <item index="25" class="java.lang.String" itemvalue="canEditSelection" />
           <item index="26" class="java.lang.String" itemvalue="comment" />
-          <item index="27" class="java.lang.String" itemvalue="ajaxpost" />
-          <item index="28" class="java.lang.String" itemvalue="feedback" />
-          <item index="29" class="java.lang.String" itemvalue="autoload" />
+          <item index="27" class="java.lang.String" itemvalue="feedback" />
+          <item index="28" class="java.lang.String" itemvalue="autoload" />
+          <item index="29" class="java.lang.String" itemvalue="ajaxpost" />
         </list>
       </value>
     </option>
