@@ -18,7 +18,7 @@
     </group>
     <group name="file-type">
       <project id="kolsrud" values="JSON,YAML,htaccess,Blade,XML,PLAIN_TEXT,Images,UNKNOWN,PHP" />
-      <project id="olkweb3" values="PHP,Images,JSON,XML,YAML,DTD,CSS,LESS,Locale,PATCH,Ini,JavaScript,C++,SQL,UNKNOWN,SmartyConfig,CoffeeScript,ARCHIVE,HTML,PLAIN_TEXT,JSHint" />
+      <project id="olkweb3" values="Locale,DTD,JSON,UNKNOWN,JavaScript,SQL,CSS,XML,PLAIN_TEXT,JSHint,PATCH,PHP,Images,SmartyConfig,LESS,HTML,ARCHIVE,C++,CoffeeScript,Ini,YAML" />
       <project id="untitled" values="PLAIN_TEXT,XML,UNKNOWN,PHP" />
       <project id="CWKFoto" values="PLAIN_TEXT,UNKNOWN,PHP,JSON,XML" />
     </group>
