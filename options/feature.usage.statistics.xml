@@ -10,12 +10,12 @@
     <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.file" count="23" last-shown="0" last-used="1413545995682" shown-count="0" />
     <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="SearchEverywhere" count="955" last-shown="0" last-used="1413790140297" shown-count="0" />
+    <feature id="SearchEverywhere" count="963" last-shown="0" last-used="1413790966942" shown-count="0" />
     <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="2" last-shown="0" last-used="1412320110670" shown-count="0" />
     <feature id="navigation.popup.action" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.quickjavadoc.ctrln" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.ctrln" count="1" last-shown="0" last-used="1413790977694" shown-count="0" />
     <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.replace" count="2" last-shown="0" last-used="1411727942187" shown-count="0" />
@@ -50,10 +50,10 @@
       <option name="lastDate" value="1413669600000" />
     </completionStatsTag>
     <fixesStatsTag>
-      <option name="invocations" value="5" />
+      <option name="invocations" value="6" />
       <option name="startDate" value="1411423200000" />
-      <option name="dayCount" value="2" />
-      <option name="lastDate" value="1411509600000" />
+      <option name="dayCount" value="3" />
+      <option name="lastDate" value="1413756000000" />
     </fixesStatsTag>
   </component>
 </application>
