@@ -43,8 +43,8 @@
     <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="3979" />
-      <option name="invocations" value="583" />
+      <option name="sparedCharacters" value="3987" />
+      <option name="invocations" value="584" />
       <option name="startDate" value="1411423200000" />
       <option name="dayCount" value="22" />
       <option name="lastDate" value="1413756000000" />
