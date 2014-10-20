@@ -16,7 +16,7 @@
     <location key="DiffWindow.0.0.1440.900" x="100" y="122" />
     <location key="CommitChangelistDialog2.0.0.1440.900" x="93" y="167" />
     <location key="RollbackChangesDialog.0.0.1440.900" x="395" y="192" />
-    <location key="OptionsEditor.0.0.2560.1440" x="1076" y="151" />
+    <location key="OptionsEditor.0.0.2560.1440" x="631" y="177" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" x="1408" y="390" />
     <location key="findTextDialog.0.0.2560.1440" x="1737" y="492" />
     <location key="WELCOME_SCREEN.0.0.1440.900" x="719" y="300" />
