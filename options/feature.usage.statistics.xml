@@ -8,9 +8,9 @@
     <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.comment.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.popup.file" count="85" last-shown="0" last-used="1413876477398" shown-count="0" />
+    <feature id="navigation.popup.file" count="86" last-shown="0" last-used="1413878333992" shown-count="0" />
     <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="SearchEverywhere" count="1149" last-shown="0" last-used="1413876456838" shown-count="0" />
+    <feature id="SearchEverywhere" count="1150" last-shown="0" last-used="1413878394849" shown-count="0" />
     <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="2" last-shown="0" last-used="1412320110670" shown-count="0" />
@@ -35,7 +35,7 @@
     <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.files" count="36" last-shown="0" last-used="1412765791797" shown-count="0" />
-    <feature id="navigation.popup.file.structure" count="8" last-shown="0" last-used="1413204842932" shown-count="0" />
+    <feature id="navigation.popup.file.structure" count="10" last-shown="0" last-used="1413878410001" shown-count="0" />
     <feature id="editing.completion.camelHumps" count="4" last-shown="0" last-used="1412587914235" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.rename" count="2" last-shown="0" last-used="1413381328269" shown-count="0" />
