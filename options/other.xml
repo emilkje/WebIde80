@@ -53,10 +53,10 @@
           <item index="23" class="java.lang.String" itemvalue="objec" />
           <item index="24" class="java.lang.String" itemvalue="objectivee" />
           <item index="25" class="java.lang.String" itemvalue="attachment" />
-          <item index="26" class="java.lang.String" itemvalue="ajaxpost" />
-          <item index="27" class="java.lang.String" itemvalue="validate" />
-          <item index="28" class="java.lang.String" itemvalue="valid()" />
-          <item index="29" class="java.lang.String" itemvalue="required" />
+          <item index="26" class="java.lang.String" itemvalue="valid()" />
+          <item index="27" class="java.lang.String" itemvalue="required" />
+          <item index="28" class="java.lang.String" itemvalue="ajaxpost" />
+          <item index="29" class="java.lang.String" itemvalue="validate" />
         </list>
       </value>
     </option>
