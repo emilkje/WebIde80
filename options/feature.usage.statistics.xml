@@ -29,7 +29,7 @@
     <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.declaration" count="121" last-shown="0" last-used="1413876415595" shown-count="0" />
     <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="763" last-shown="0" last-used="1413814864736" shown-count="0" />
+    <feature id="editing.completion.basic" count="764" last-shown="0" last-used="1413878609544" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="5" last-shown="0" last-used="1411999203975" shown-count="0" />
     <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
