@@ -5,6 +5,9 @@
       <webServer id="cf3a0c50-b5e7-4615-ad32-12a9327869bf" name="Olkweb3" url="http://olkweb3.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="16804b39-f2b8-47b1-b4b7-63f4260ede12" name="Olk3School" url="http://olk3skole.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />

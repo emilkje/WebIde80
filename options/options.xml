@@ -114,6 +114,7 @@
     <property name="run.configuration.edit.ad" value="true" />
     <property name="ShowDocumentationInToolWindow" value="true" />
     <property name="DocumentationAutoUpdateEnabled" value="false" />
+    <property name="javascript.grunt_toolwindow_splitter" value="0.2" />
   </component>
 </application>
 

@@ -9,6 +9,7 @@
     <toolWindow group="Vcs Messages" />
     <toolWindow group="Debugger messages" />
     <toolWindow group="JavaScript debugger" />
+    <toolWindow group="Grunt Console" />
   </component>
 </application>
 
