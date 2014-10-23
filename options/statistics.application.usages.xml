@@ -5,6 +5,35 @@
       <project id="trunk" values="svn" />
       <project id="olkweb3" values="Git" />
     </group>
+    <group name="run-configuration-type">
+      <project id="trunk" values="PhpWebAppRunConfigurationType" />
+      <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
+    </group>
+    <group name="module type">
+      <project id="kolsrud" values="WEB_MODULE" />
+      <project id="trunk" values="WEB_MODULE" />
+      <project id="olkweb3" values="WEB_MODULE" />
+      <project id="untitled" values="WEB_MODULE" />
+      <project id="CWKFoto" values="WEB_MODULE" />
+    </group>
+    <group name="php-server-debug-ext">
+      <project id="trunk" values="xdebug" />
+      <project id="olkweb3" values="xdebug" />
+    </group>
+    <group name="file-type">
+      <project id="kolsrud" values="XML,Images,htaccess,Blade,YAML,PLAIN_TEXT,UNKNOWN,PHP,JSON" />
+      <project id="trunk" values="Native,XML,PLAIN_TEXT,HTML,PHP,SourceMap,Locale,SmartyConfig,UNKNOWN,YAML,CSS,Ini,Images,JavaScript,JSON,SQL" />
+      <project id="olkweb3" values="UNKNOWN,JSON,SmartyConfig,XML,YAML,LESS,JavaScript,Images,HTML,Locale,Ini,Native,PLAIN_TEXT,DTD,JSHint,PHP,PATCH,CoffeeScript,C++,ARCHIVE,SQL,CSS" />
+      <project id="untitled" values="UNKNOWN,PHP,XML,PLAIN_TEXT" />
+      <project id="CWKFoto" values="PHP,UNKNOWN,JSON,PLAIN_TEXT,XML" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="kolsrud" values="Project,Project" />
+      <project id="trunk" values="Project,Project" />
+      <project id="olkweb3" values="Project,Project" />
+      <project id="untitled" values="Project,Project" />
+      <project id="CWKFoto" values="Project,Project" />
+    </group>
     <group name="php-interpreter-debug-ext">
       <project id="olkweb3" values="xdebug" />
     </group>
@@ -25,21 +54,11 @@
       <project id="untitled" values="not installed" />
       <project id="CWKFoto" values="not installed" />
     </group>
-    <group name="run-configuration-type">
-      <project id="trunk" values="PhpWebAppRunConfigurationType" />
-      <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
-    </group>
-    <group name="module type">
-      <project id="kolsrud" values="WEB_MODULE" />
-      <project id="trunk" values="WEB_MODULE" />
-      <project id="olkweb3" values="WEB_MODULE" />
-      <project id="untitled" values="WEB_MODULE" />
-      <project id="CWKFoto" values="WEB_MODULE" />
-    </group>
     <group name="deployment server">
       <project id="kolsrud" values="LOCAL" />
       <project id="trunk" values="LOCAL" />
       <project id="olkweb3" values="LOCAL" />
+      <project id="untitled" values="LOCAL" />
       <project id="CWKFoto" values="LOCAL" />
     </group>
     <group name="php-servers">
@@ -56,24 +75,6 @@
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="1" />
     </group>
-    <group name="php-server-debug-ext">
-      <project id="trunk" values="xdebug" />
-      <project id="olkweb3" values="xdebug" />
-    </group>
-    <group name="file-type">
-      <project id="kolsrud" values="XML,Images,htaccess,Blade,YAML,PLAIN_TEXT,UNKNOWN,PHP,JSON" />
-      <project id="trunk" values="Native,XML,PLAIN_TEXT,HTML,PHP,SourceMap,Locale,SmartyConfig,UNKNOWN,YAML,CSS,Ini,Images,JavaScript,JSON,SQL" />
-      <project id="olkweb3" values="UNKNOWN,JSON,SmartyConfig,XML,YAML,LESS,JavaScript,Images,HTML,Locale,Ini,Native,PLAIN_TEXT,DTD,JSHint,PHP,PATCH,CoffeeScript,C++,ARCHIVE,SQL,CSS" />
-      <project id="untitled" values="UNKNOWN,PHP,PLAIN_TEXT,XML" />
-      <project id="CWKFoto" values="PHP,UNKNOWN,JSON,PLAIN_TEXT,XML" />
-    </group>
-    <group name="php-debug-skipped-paths">
-      <project id="kolsrud" values="0" />
-      <project id="trunk" values="0" />
-      <project id="olkweb3" values="0" />
-      <project id="untitled" values="0" />
-      <project id="CWKFoto" values="0" />
-    </group>
     <group name="JavaScript versions">
       <project id="kolsrud" values="DEFAULT" />
       <project id="trunk" values="DEFAULT" />
@@ -81,12 +82,12 @@
       <project id="untitled" values="DEFAULT" />
       <project id="CWKFoto" values="DEFAULT" />
     </group>
-    <group name="javaScript Scope Usages">
-      <project id="kolsrud" values="Project,Project" />
-      <project id="trunk" values="Project,Project" />
-      <project id="olkweb3" values="Project,Project" />
-      <project id="untitled" values="Project,Project" />
-      <project id="CWKFoto" values="Project,Project" />
+    <group name="php-debug-skipped-paths">
+      <project id="kolsrud" values="0" />
+      <project id="trunk" values="0" />
+      <project id="olkweb3" values="0" />
+      <project id="untitled" values="0" />
+      <project id="CWKFoto" values="0" />
     </group>
   </component>
   <component name="UsageTrigger">
