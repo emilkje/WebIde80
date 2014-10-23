@@ -17,10 +17,10 @@
       <project id="olkweb3" values="xdebug" />
     </group>
     <group name="file-type">
-      <project id="kolsrud" values="YAML,Blade,JSON,PHP,XML,Images,htaccess,PLAIN_TEXT,UNKNOWN" />
-      <project id="olkweb3" values="UNKNOWN,LESS,PHP,SmartyConfig,JSON,CSS,JSHint,JavaScript,CoffeeScript,Images,PLAIN_TEXT,YAML,Native,ARCHIVE,PATCH,C++,HTML,DTD,Ini,XML,SQL,Locale" />
-      <project id="untitled" values="PHP,XML,PLAIN_TEXT,UNKNOWN" />
-      <project id="CWKFoto" values="XML,UNKNOWN,PHP,JSON,PLAIN_TEXT" />
+      <project id="kolsrud" values="PLAIN_TEXT,JSON,YAML,htaccess,Images,XML,Blade,UNKNOWN,PHP" />
+      <project id="olkweb3" values="PLAIN_TEXT,CoffeeScript,Locale,JavaScript,ARCHIVE,YAML,XML,Native,LESS,HTML,CSS,SmartyConfig,JSHint,Images,Ini,JSON,DTD,C++,UNKNOWN,PATCH,SQL,PHP" />
+      <project id="untitled" values="UNKNOWN,PHP,XML,PLAIN_TEXT" />
+      <project id="CWKFoto" values="UNKNOWN,XML,JSON,PHP,PLAIN_TEXT" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="kolsrud" values="Project,Project" />
@@ -105,7 +105,7 @@
       <entry feature="ide.settings.Servers" count="1" />
       <entry feature="ide.settings.Spelling" count="1" />
       <entry feature="ide.settings.Vagrant" count="1" />
-      <entry feature="ideaapp.started" count="15" />
+      <entry feature="ideaapp.started" count="16" />
     </counts>
   </component>
 </application>
