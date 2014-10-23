@@ -20,8 +20,8 @@
     </group>
     <group name="file-type">
       <project id="kolsrud" values="PLAIN_TEXT,JSON,YAML,htaccess,Images,XML,Blade,UNKNOWN,PHP" />
-      <project id="trunk" values="YAML,Ini,SQL,JSON,Locale,PLAIN_TEXT,JavaScript,Native,SmartyConfig,CSS,SourceMap,Images,XML,UNKNOWN,PHP,HTML" />
-      <project id="olkweb3" values="DTD,SQL,JSHint,Native,CoffeeScript,XML,Images,JavaScript,ARCHIVE,YAML,UNKNOWN,CSS,JSON,SmartyConfig,PLAIN_TEXT,Ini,LESS,C++,PATCH,PHP,Locale,HTML" />
+      <project id="trunk" values="SmartyConfig,JSON,YAML,JavaScript,HTML,Images,SQL,CSS,PLAIN_TEXT,XML,Locale,UNKNOWN,Ini,Native,PHP,SourceMap" />
+      <project id="olkweb3" values="DTD,XML,LESS,HTML,SQL,UNKNOWN,PATCH,ARCHIVE,C++,JavaScript,Locale,CSS,JSHint,JSON,PHP,PLAIN_TEXT,YAML,CoffeeScript,SmartyConfig,Native,Images,Ini" />
       <project id="untitled" values="UNKNOWN,PHP,XML,PLAIN_TEXT" />
       <project id="CWKFoto" values="UNKNOWN,XML,JSON,PHP,PLAIN_TEXT" />
     </group>
