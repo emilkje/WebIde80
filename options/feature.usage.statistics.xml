@@ -8,7 +8,7 @@
     <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.comment.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.popup.file" count="119" last-shown="0" last-used="1414420876309" shown-count="0" />
+    <feature id="navigation.popup.file" count="120" last-shown="0" last-used="1414421182341" shown-count="0" />
     <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="SearchEverywhere" count="1324" last-shown="0" last-used="1414421007069" shown-count="0" />
     <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -21,7 +21,7 @@
     <feature id="editing.completion.replace" count="5" last-shown="0" last-used="1414067093781" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="1428" last-shown="0" last-used="1414419826114" shown-count="0" />
+    <feature id="editing.select.word" count="1429" last-shown="0" last-used="1414421189752" shown-count="0" />
     <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="37" last-shown="0" last-used="1414398962859" shown-count="0" />
     <feature id="codeassists.comment.block" count="0" last-shown="0" last-used="0" shown-count="0" />
