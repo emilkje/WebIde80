@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versions>
-  <component name="CodeStyleSchemeSettings" version="1414396901677" />
+  <component name="CodeStyleSchemeSettings" version="1414574799469" />
   <component name="CssEmmetOptions" version="1414402618444" />
-  <component name="DaemonCodeAnalyzerSettings" version="1414396901678" />
+  <component name="DaemonCodeAnalyzerSettings" version="1414574799470" />
   <component name="DatabaseSettings" version="1414060519418" />
-  <component name="DimensionService" version="1414396901678" />
-  <component name="EditorColorsManagerImpl" version="1414396901678" />
-  <component name="EditorSettings" version="1414396901679" />
+  <component name="DimensionService" version="1414574799471" />
+  <component name="EditorColorsManagerImpl" version="1414574799471" />
+  <component name="EditorSettings" version="1414574799471" />
   <component name="EmmetOptions" version="1414400639192" />
-  <component name="Encoding" version="1414396901679" />
+  <component name="Encoding" version="1414574799471" />
   <component name="ExportableTemplateSettings" version="1414400639192" />
   <component name="FeatureUsageStatistics" version="1414422096864" />
-  <component name="FileBasedIndex" version="1414396901679" />
-  <component name="FileTypeManager" version="1414396901682" />
-  <component name="FindSettings" version="1414421210249" />
-  <component name="GeneralSettings" version="1414396901682" />
-  <component name="Git.Application.Settings" version="1414396901683" />
+  <component name="FileBasedIndex" version="1414574799471" />
+  <component name="FileTypeManager" version="1414574799479" />
+  <component name="FindSettings" version="1414574799479" />
+  <component name="GeneralSettings" version="1414574799479" />
+  <component name="Git.Application.Settings" version="1414574799480" />
   <component name="GithubSettings" version="1413884736610" />
-  <component name="HgGlobalSettings" version="1414396901683" />
-  <component name="KeymapManager" version="1414396901684" />
-  <component name="LafManager" version="1414396901684" />
-  <component name="LanguageInjectionConfiguration" version="1414396901685" />
-  <component name="NotificationConfiguration" version="1414396901685" />
+  <component name="HgGlobalSettings" version="1414574799480" />
+  <component name="KeymapManager" version="1414574799481" />
+  <component name="LafManager" version="1414574799481" />
+  <component name="LanguageInjectionConfiguration" version="1414574799482" />
+  <component name="NotificationConfiguration" version="1414574799482" />
   <component name="PhpInterpreters" version="1414398864880" />
   <component name="PhpInterpretersPhpInfoCache" version="1414053390955" />
-  <component name="PluginManagerConfigurable" version="1414396901685" />
-  <component name="ProjectManager" version="1414396901686" />
-  <component name="PropertiesComponent" version="1414396901686" />
-  <component name="RecentDirectoryProjectsManager" version="1414396901686" />
-  <component name="Registry" version="1414396901686" />
+  <component name="PluginManagerConfigurable" version="1414574799482" />
+  <component name="ProjectManager" version="1414574799482" />
+  <component name="PropertiesComponent" version="1414574799482" />
+  <component name="RecentDirectoryProjectsManager" version="1414574799482" />
+  <component name="Registry" version="1414574799482" />
   <component name="RunnerLayoutSettings" version="1414063787125" />
-  <component name="StatisticsApplicationUsages" version="1414567840239" />
+  <component name="StatisticsApplicationUsages" version="1414574799483" />
   <component name="TemplateSettings" version="1414400639199" />
-  <component name="TodoConfiguration" version="1414396901688" />
-  <component name="UISettings" version="1414396901689" />
+  <component name="TodoConfiguration" version="1414574799485" />
+  <component name="UISettings" version="1414574799485" />
   <component name="UmlConfiguration" version="1411634120181" />
-  <component name="UpdatesConfigurable" version="1414567840239" />
-  <component name="UsageTrigger" version="1414418144566" />
-  <component name="UsagesStatistic" version="1414396901689" />
-  <component name="WebBrowsersConfiguration" version="1414396901691" />
-  <component name="WebServers" version="1414396901691" />
-  <component name="WindowManager" version="1414567840239" />
+  <component name="UpdatesConfigurable" version="1414574799485" />
+  <component name="UsageTrigger" version="1414574799485" />
+  <component name="UsagesStatistic" version="1414574799486" />
+  <component name="WebBrowsersConfiguration" version="1414574799488" />
+  <component name="WebServers" version="1414574799489" />
+  <component name="WindowManager" version="1414574799489" />
   <component name="XDebuggerSettings" version="1414400639208" />
-  <component name="XPathView.XPathViewPlugin" version="1414396901692" />
-  <component name="XSLT-Support.Configuration" version="1414396901692" />
-  <component name="XmlEditorOptions" version="1414396901692" />
-  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl" version="1414398864884" />
-  <component name="com.intellij.javaee.ExternalResourceManagerExImpl" version="1414396901692" />
+  <component name="XPathView.XPathViewPlugin" version="1414574799489" />
+  <component name="XSLT-Support.Configuration" version="1414574799489" />
+  <component name="XmlEditorOptions" version="1414574799490" />
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl" version="1414574799490" />
+  <component name="com.intellij.javaee.ExternalResourceManagerExImpl" version="1414574799490" />
 </versions>
 
