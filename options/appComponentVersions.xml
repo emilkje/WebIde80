@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versions>
   <component name="CodeStyleSchemeSettings" version="1414574799469" />
-  <component name="CssEmmetOptions" version="1414402618444" />
+  <component name="CssEmmetOptions" version="1414575020446" />
   <component name="DaemonCodeAnalyzerSettings" version="1414574799470" />
   <component name="DatabaseSettings" version="1414060519418" />
   <component name="DimensionService" version="1414574799471" />
   <component name="EditorColorsManagerImpl" version="1414574799471" />
   <component name="EditorSettings" version="1414574799471" />
-  <component name="EmmetOptions" version="1414400639192" />
+  <component name="EmmetOptions" version="1414575020447" />
   <component name="Encoding" version="1414574799471" />
-  <component name="ExportableTemplateSettings" version="1414400639192" />
-  <component name="FeatureUsageStatistics" version="1414422096864" />
+  <component name="ExportableTemplateSettings" version="1414575020447" />
+  <component name="FeatureUsageStatistics" version="1414575020448" />
   <component name="FileBasedIndex" version="1414574799471" />
   <component name="FileTypeManager" version="1414574799479" />
   <component name="FindSettings" version="1414574799479" />
@@ -31,7 +31,7 @@
   <component name="Registry" version="1414574799482" />
   <component name="RunnerLayoutSettings" version="1414063787125" />
   <component name="StatisticsApplicationUsages" version="1414574799483" />
-  <component name="TemplateSettings" version="1414400639199" />
+  <component name="TemplateSettings" version="1414575020453" />
   <component name="TodoConfiguration" version="1414574799485" />
   <component name="UISettings" version="1414574799485" />
   <component name="UmlConfiguration" version="1411634120181" />
