@@ -100,12 +100,6 @@
         <option value="$USER_HOME$/www/project/olkweb3/Olkweb3" />
       </list>
     </option>
-    <option name="openPaths">
-      <list>
-        <option value="$USER_HOME$/www/project/olk3school/trunk" />
-      </list>
-    </option>
-    <option name="lastPath" value="$USER_HOME$/www/project/olk3school/trunk" />
   </component>
   <component name="RecentTaskRepositories">
     <JIRA shared="false" url="http://jira.innit.no:8081">
@@ -169,7 +163,7 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1414574770145" />
+    <option name="LAST_TIME_CHECKED" value="1414661175519" />
     <option name="LAST_BUILD_CHECKED" value="PS-138.2001" />
     <option name="UPDATE_CHANNEL_TYPE" value="release" />
   </component>
