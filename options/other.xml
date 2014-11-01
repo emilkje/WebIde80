@@ -100,6 +100,11 @@
         <option value="$USER_HOME$/www/project/olkweb3/Olkweb3" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/www/project/olk3school/trunk" />
+      </list>
+    </option>
     <option name="lastPath" value="$USER_HOME$/www/project/olk3school/trunk" />
   </component>
   <component name="RecentTaskRepositories">

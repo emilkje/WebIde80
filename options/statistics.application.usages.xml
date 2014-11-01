@@ -22,7 +22,7 @@
     </group>
     <group name="file-type">
       <project id="kolsrud" values="htaccess,PHP,XML,UNKNOWN,JSON,YAML,Images,PLAIN_TEXT,Blade" />
-      <project id="trunk" values="CSS,SQL,PLAIN_TEXT,Native,Locale,UNKNOWN,YAML,JavaScript,Images,XML,JSON,Ini,SourceMap,HTML,PHP,SmartyConfig" />
+      <project id="trunk" values="SourceMap,Ini,SmartyConfig,HTML,JSON,YAML,JavaScript,Images,PLAIN_TEXT,Native,PHP,XML,Locale,CSS,UNKNOWN,SQL" />
       <project id="olkweb3" values="PATCH,LESS,CSS,CoffeeScript,DTD,UNKNOWN,HTML,Locale,XML,JSON,Images,PLAIN_TEXT,YAML,C++,Native,SmartyConfig,JavaScript,Ini,ARCHIVE,JSHint,PHP,SQL" />
       <project id="untitled" values="PHP,XML,PLAIN_TEXT,UNKNOWN" />
       <project id="CWKFoto" values="XML,UNKNOWN,PHP,JSON,PLAIN_TEXT" />
