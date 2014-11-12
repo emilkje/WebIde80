@@ -8,9 +8,9 @@
     <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.comment.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.popup.file" count="125" last-shown="0" last-used="1414594449232" shown-count="0" />
+    <feature id="navigation.popup.file" count="126" last-shown="0" last-used="1415787354163" shown-count="0" />
     <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="SearchEverywhere" count="1360" last-shown="0" last-used="1415787127821" shown-count="0" />
+    <feature id="SearchEverywhere" count="1362" last-shown="0" last-used="1415787350731" shown-count="0" />
     <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="2" last-shown="0" last-used="1412320110670" shown-count="0" />
@@ -21,7 +21,7 @@
     <feature id="editing.completion.replace" count="5" last-shown="0" last-used="1414067093781" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="1515" last-shown="0" last-used="1415787119727" shown-count="0" />
+    <feature id="editing.select.word" count="1517" last-shown="0" last-used="1415787370021" shown-count="0" />
     <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="37" last-shown="0" last-used="1414398962859" shown-count="0" />
     <feature id="codeassists.comment.block" count="0" last-shown="0" last-used="0" shown-count="0" />
