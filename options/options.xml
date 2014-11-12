@@ -41,6 +41,7 @@
     <location key="CommitChangelistDialog2.0.0.2560.1440" x="1464" y="312" />
     <location key="git4idea.push.GitPushDialog.0.0.2560.1440" x="1592" y="451" />
     <location key="git4idea.merge.GitPullDialog.0.0.2560.1440" x="1664" y="528" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="959" y="300" />
     <size key="OptionsEditor.0.0.1920.1200" width="1349" height="846" />
     <size key="DiffWindow.0.0.1920.1200" width="677" height="800" />
     <size key="DiffWindow.0.0.1440.900" width="1147" height="674" />

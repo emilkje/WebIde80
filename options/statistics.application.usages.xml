@@ -21,11 +21,11 @@
       <project id="olkweb3" values="xdebug" />
     </group>
     <group name="file-type">
-      <project id="kolsrud" values="htaccess,Blade,YAML,PLAIN_TEXT,PHP,Images,UNKNOWN,XML,JSON" />
-      <project id="trunk" values="HTML,YAML,Native,UNKNOWN,JSON,SQL,Locale,SmartyConfig,CSS,PLAIN_TEXT,XML,PHP,SourceMap,JavaScript,Ini,Images" />
-      <project id="olkweb3" values="SQL,PLAIN_TEXT,Images,JavaScript,LESS,CSS,DTD,ARCHIVE,YAML,JSHint,PHP,Ini,C++,Native,JSON,HTML,Locale,SmartyConfig,PATCH,UNKNOWN,XML,CoffeeScript" />
-      <project id="untitled" values="PLAIN_TEXT,XML,PHP,UNKNOWN" />
-      <project id="CWKFoto" values="XML,PHP,PLAIN_TEXT,UNKNOWN,JSON" />
+      <project id="kolsrud" values="PLAIN_TEXT,Blade,htaccess,UNKNOWN,XML,JSON,Images,PHP,YAML" />
+      <project id="trunk" values="PLAIN_TEXT,SourceMap,SmartyConfig,UNKNOWN,JavaScript,Images,Locale,YAML,Ini,XML,JSON,SQL,PHP,Native,CSS,HTML" />
+      <project id="olkweb3" values="UNKNOWN,HTML,XML,Native,ARCHIVE,PLAIN_TEXT,YAML,Images,CSS,DTD,PHP,Locale,CoffeeScript,JavaScript,LESS,JSHint,PATCH,C++,SQL,SmartyConfig,Ini,JSON" />
+      <project id="untitled" values="UNKNOWN,XML,PLAIN_TEXT,PHP" />
+      <project id="CWKFoto" values="PHP,XML,UNKNOWN,JSON,PLAIN_TEXT" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="kolsrud" values="Project,Project" />
@@ -122,7 +122,7 @@
       <entry feature="ide.settings.Servers" count="1" />
       <entry feature="ide.settings.Spelling" count="1" />
       <entry feature="ide.settings.Vagrant" count="1" />
-      <entry feature="ideaapp.started" count="22" />
+      <entry feature="ideaapp.started" count="23" />
     </counts>
   </component>
 </application>
