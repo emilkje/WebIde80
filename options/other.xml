@@ -27,36 +27,36 @@
     <option name="RECENT_FIND_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="content" />
-          <item index="1" class="java.lang.String" itemvalue="z-in" />
-          <item index="2" class="java.lang.String" itemvalue="close" />
-          <item index="3" class="java.lang.String" itemvalue="btn" />
-          <item index="4" class="java.lang.String" itemvalue="_category" />
-          <item index="5" class="java.lang.String" itemvalue="_competence" />
-          <item index="6" class="java.lang.String" itemvalue="_task" />
-          <item index="7" class="java.lang.String" itemvalue="attachment" />
-          <item index="8" class="java.lang.String" itemvalue="scaledes" />
-          <item index="9" class="java.lang.String" itemvalue="sync" />
-          <item index="10" class="java.lang.String" itemvalue="data-toggle" />
-          <item index="11" class="java.lang.String" itemvalue="Oppdater fra mal" />
-          <item index="12" class="java.lang.String" itemvalue="plancontainer" />
-          <item index="13" class="java.lang.String" itemvalue="navigation" />
-          <item index="14" class="java.lang.String" itemvalue="data('" />
-          <item index="15" class="java.lang.String" itemvalue="tinymce" />
-          <item index="16" class="java.lang.String" itemvalue="wizard-body" />
-          <item index="17" class="java.lang.String" itemvalue="'.wizard-body'" />
-          <item index="18" class="java.lang.String" itemvalue="rbasew" />
-          <item index="19" class="java.lang.String" itemvalue="init" />
-          <item index="20" class="java.lang.String" itemvalue="drag" />
-          <item index="21" class="java.lang.String" itemvalue="drop" />
-          <item index="22" class="java.lang.String" itemvalue="wiza" />
-          <item index="23" class="java.lang.String" itemvalue=".wizard" />
-          <item index="24" class="java.lang.String" itemvalue="timep" />
-          <item index="25" class="java.lang.String" itemvalue="styles" />
-          <item index="26" class="java.lang.String" itemvalue="app/" />
-          <item index="27" class="java.lang.String" itemvalue="dist/" />
-          <item index="28" class="java.lang.String" itemvalue="uncss" />
-          <item index="29" class="java.lang.String" itemvalue="image" />
+          <item index="0" class="java.lang.String" itemvalue="z-in" />
+          <item index="1" class="java.lang.String" itemvalue="close" />
+          <item index="2" class="java.lang.String" itemvalue="btn" />
+          <item index="3" class="java.lang.String" itemvalue="_category" />
+          <item index="4" class="java.lang.String" itemvalue="_competence" />
+          <item index="5" class="java.lang.String" itemvalue="_task" />
+          <item index="6" class="java.lang.String" itemvalue="attachment" />
+          <item index="7" class="java.lang.String" itemvalue="scaledes" />
+          <item index="8" class="java.lang.String" itemvalue="sync" />
+          <item index="9" class="java.lang.String" itemvalue="data-toggle" />
+          <item index="10" class="java.lang.String" itemvalue="Oppdater fra mal" />
+          <item index="11" class="java.lang.String" itemvalue="plancontainer" />
+          <item index="12" class="java.lang.String" itemvalue="navigation" />
+          <item index="13" class="java.lang.String" itemvalue="data('" />
+          <item index="14" class="java.lang.String" itemvalue="tinymce" />
+          <item index="15" class="java.lang.String" itemvalue="wizard-body" />
+          <item index="16" class="java.lang.String" itemvalue="'.wizard-body'" />
+          <item index="17" class="java.lang.String" itemvalue="rbasew" />
+          <item index="18" class="java.lang.String" itemvalue="init" />
+          <item index="19" class="java.lang.String" itemvalue="drag" />
+          <item index="20" class="java.lang.String" itemvalue="drop" />
+          <item index="21" class="java.lang.String" itemvalue="wiza" />
+          <item index="22" class="java.lang.String" itemvalue=".wizard" />
+          <item index="23" class="java.lang.String" itemvalue="timep" />
+          <item index="24" class="java.lang.String" itemvalue="styles" />
+          <item index="25" class="java.lang.String" itemvalue="app/" />
+          <item index="26" class="java.lang.String" itemvalue="dist/" />
+          <item index="27" class="java.lang.String" itemvalue="uncss" />
+          <item index="28" class="java.lang.String" itemvalue="image" />
+          <item index="29" class="java.lang.String" itemvalue="main" />
         </list>
       </value>
     </option>
