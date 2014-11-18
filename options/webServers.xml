@@ -8,6 +8,9 @@
       <webServer id="16804b39-f2b8-47b1-b4b7-63f4260ede12" name="Olk3School" url="http://olk3skole.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="1e166c0d-51b0-4038-be64-d6182822dd3d" name="ssp.dev" url="http://ssp.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
