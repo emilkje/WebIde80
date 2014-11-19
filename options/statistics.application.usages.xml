@@ -27,7 +27,7 @@
       <project id="olkweb3" values="JSHint,Native,C++,SmartyConfig,LESS,HTML,Locale,PLAIN_TEXT,XML,Ini,CoffeeScript,YAML,ARCHIVE,SQL,JavaScript,UNKNOWN,JSON,Images,PATCH,DTD,PHP,CSS" />
       <project id="untitled" values="PHP,XML,UNKNOWN,PLAIN_TEXT" />
       <project id="CWKFoto" values="UNKNOWN,JSON,XML,PHP,PLAIN_TEXT" />
-      <project id="sponsorportalen" values="UNKNOWN,Ini,PLAIN_TEXT,SmartyConfig,PHP,Images,CSS,JavaScript,XML" />
+      <project id="sponsorportalen" values="Images,PHP,CSS,LESS,SmartyConfig,Ini,XML,JSON,PLAIN_TEXT,UNKNOWN,JavaScript" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="kolsrud" values="Project,Project" />
