@@ -8,7 +8,7 @@
     <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.comment.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.popup.file" count="129" last-shown="0" last-used="1416482824318" shown-count="0" />
+    <feature id="navigation.popup.file" count="132" last-shown="0" last-used="1416482856411" shown-count="0" />
     <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="SearchEverywhere" count="1383" last-shown="0" last-used="1416482825256" shown-count="0" />
     <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -43,8 +43,8 @@
     <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="5783" />
-      <option name="invocations" value="835" />
+      <option name="sparedCharacters" value="5788" />
+      <option name="invocations" value="836" />
       <option name="startDate" value="1411423200000" />
       <option name="dayCount" value="31" />
       <option name="lastDate" value="1416438000000" />
