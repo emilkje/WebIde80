@@ -24,7 +24,7 @@
     <group name="file-type">
       <project id="kolsrud" values="XML,htaccess,PHP,YAML,JSON,Images,UNKNOWN,PLAIN_TEXT,Blade" />
       <project id="trunk" values="JavaScript,SmartyConfig,CSS,SourceMap,PHP,Locale,Ini,YAML,UNKNOWN,JSON,SQL,Images,HTML,XML,PLAIN_TEXT,Native" />
-      <project id="olkweb3" values="JSHint,Native,C++,SmartyConfig,LESS,HTML,Locale,PLAIN_TEXT,XML,Ini,CoffeeScript,YAML,ARCHIVE,SQL,JavaScript,UNKNOWN,JSON,Images,PATCH,DTD,PHP,CSS" />
+      <project id="olkweb3" values="Native,LESS,PHP,ARCHIVE,Locale,UNKNOWN,JSON,Images,PATCH,YAML,SQL,PLAIN_TEXT,JavaScript,HTML,JSHint,C++,Ini,XML,DTD,CoffeeScript,CSS,SmartyConfig" />
       <project id="untitled" values="PHP,XML,UNKNOWN,PLAIN_TEXT" />
       <project id="CWKFoto" values="UNKNOWN,JSON,XML,PHP,PLAIN_TEXT" />
       <project id="sponsorportalen" values="CSS,JSON,JavaScript,UNKNOWN,XML,Images,Ini,SmartyConfig,PLAIN_TEXT,LESS,PHP" />
