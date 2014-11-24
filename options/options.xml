@@ -37,7 +37,7 @@
     <location key="#Olkweb3.0.0.2560.1440" x="1649" y="478" />
     <location key="#Web_Browsers.0.0.2560.1440" x="1728" y="560" />
     <location key="ProcessPopupWindow.0.0.2560.1440" x="1474" y="528" />
-    <location key="SimpleOpenTaskDialog.0.0.2560.1440" x="1680" y="618" />
+    <location key="SimpleOpenTaskDialog.0.0.2560.1440" x="1696" y="389" />
     <location key="CommitChangelistDialog2.0.0.2560.1440" x="1162" y="530" />
     <location key="git4idea.push.GitPushDialog.0.0.2560.1440" x="1592" y="451" />
     <location key="git4idea.merge.GitPullDialog.0.0.2560.1440" x="1664" y="528" />
