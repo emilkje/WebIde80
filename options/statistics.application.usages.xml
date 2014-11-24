@@ -133,6 +133,7 @@
       <entry feature="ide.settings.Servers" count="1" />
       <entry feature="ide.settings.Spelling" count="1" />
       <entry feature="ide.settings.Vagrant" count="1" />
+      <entry feature="ide.settings.Version_Control" count="1" />
       <entry feature="ideaapp.started" count="24" />
     </counts>
   </component>
