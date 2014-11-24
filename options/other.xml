@@ -113,7 +113,7 @@
       <option name="apiType" value="REST_2_0" />
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
       <password>dfebdfc6dfccdfcbdfc8dfcfdfdedf9bdf98</password>
-      <option name="jiraVersion" value="6.3.6" />
+      <option name="jiraVersion" value="6.3.10" />
       <option name="loginAnonymously" value="false" />
       <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
       <option name="shouldFormatCommitMessage" value="false" />
