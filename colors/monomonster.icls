@@ -665,7 +665,7 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="BACKGROUND" value="8f5247" />
         <option name="ERROR_STRIPE_COLOR" value="8f5247" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
@@ -686,7 +686,7 @@
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="BACKGROUND" value="43698d" />
         <option name="ERROR_STRIPE_COLOR" value="43698d" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
