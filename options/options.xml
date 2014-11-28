@@ -54,6 +54,7 @@
     <location key="#index.php.0.0.2560.1440" x="1748" y="240" />
     <location key="VCS.ChangeListViewerDialog.0.0.2560.1440" x="1761" y="258" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1200" x="1108" y="502" />
+    <location key="#Changelist_Conflicts.0.0.1440.900" x="718" y="266" />
     <size key="OptionsEditor.0.0.1920.1200" width="1349" height="846" />
     <size key="DiffWindow.0.0.1920.1200" width="677" height="800" />
     <size key="DiffWindow.0.0.1440.900" width="1147" height="674" />
