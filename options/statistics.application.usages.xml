@@ -102,14 +102,14 @@
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="62" />
+      <entry feature="CreateFile.CreateFileAction" count="64" />
       <entry feature="NewDirectoryProjectAction.PHP Empty Project" count="1" />
       <entry feature="NewDirectoryProjectAction.empty" count="2" />
       <entry feature="execute.JavascriptDebugType.Debug" count="2" />
       <entry feature="execute.PhpLocalRunConfigurationType.Debug" count="4" />
       <entry feature="execute.PhpLocalRunConfigurationType.Run" count="1" />
       <entry feature="execute.PhpWebAppRunConfigurationType.Debug" count="46" />
-      <entry feature="execute.js.build_tools.gulp.Run" count="42" />
+      <entry feature="execute.js.build_tools.gulp.Run" count="44" />
       <entry feature="ide.settings.Appearance" count="5" />
       <entry feature="ide.settings.CSS" count="4" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="78" />
