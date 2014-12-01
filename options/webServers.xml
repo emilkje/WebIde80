@@ -11,6 +11,9 @@
       <webServer id="1e166c0d-51b0-4038-be64-d6182822dd3d" name="ssp.dev" url="http://ssp.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="5419a1b4-b8c2-4bc8-912b-1b6980affd01" name="localhost" url="http://localhost:8100">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />

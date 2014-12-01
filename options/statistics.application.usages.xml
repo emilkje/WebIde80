@@ -6,43 +6,6 @@
       <project id="olkweb3" values="Git" />
       <project id="sponsorportalen" values="Git" />
     </group>
-    <group name="run-configuration-type">
-      <project id="trunk" values="PhpWebAppRunConfigurationType" />
-      <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
-      <project id="sponsorportalen" values="PhpWebAppRunConfigurationType" />
-    </group>
-    <group name="module type">
-      <project id="kolsrud" values="WEB_MODULE" />
-      <project id="trunk" values="WEB_MODULE" />
-      <project id="olkweb3" values="WEB_MODULE" />
-      <project id="untitled" values="WEB_MODULE" />
-      <project id="CWKFoto" values="WEB_MODULE" />
-      <project id="sponsorportalen" values="WEB_MODULE" />
-    </group>
-    <group name="php-server-debug-ext">
-      <project id="trunk" values="xdebug" />
-      <project id="olkweb3" values="xdebug" />
-      <project id="sponsorportalen" values="xdebug" />
-    </group>
-    <group name="file-type">
-      <project id="kolsrud" values="XML,htaccess,PHP,YAML,JSON,Images,UNKNOWN,PLAIN_TEXT,Blade" />
-      <project id="trunk" values="JavaScript,SmartyConfig,CSS,SourceMap,PHP,Locale,Ini,YAML,UNKNOWN,JSON,SQL,Images,HTML,XML,PLAIN_TEXT,Native" />
-      <project id="olkweb3" values="Native,LESS,PHP,ARCHIVE,Locale,UNKNOWN,JSON,Images,PATCH,YAML,SQL,PLAIN_TEXT,JavaScript,HTML,JSHint,C++,Ini,XML,DTD,CoffeeScript,CSS,SmartyConfig" />
-      <project id="untitled" values="PHP,XML,UNKNOWN,PLAIN_TEXT" />
-      <project id="CWKFoto" values="UNKNOWN,JSON,XML,PHP,PLAIN_TEXT" />
-      <project id="sponsorportalen" values="SQL,Images,XML,UNKNOWN,JSON,PLAIN_TEXT,SmartyConfig,Ini,JavaScript,CSS,PHP,LESS" />
-    </group>
-    <group name="run-configuration-type-temp">
-      <project id="sponsorportalen" values="js.build_tools.gulp" />
-    </group>
-    <group name="javaScript Scope Usages">
-      <project id="kolsrud" values="Project,Project" />
-      <project id="trunk" values="Project,Project" />
-      <project id="olkweb3" values="Project,Project" />
-      <project id="untitled" values="Project,Project" />
-      <project id="CWKFoto" values="Project,Project" />
-      <project id="sponsorportalen" values="Project,Project" />
-    </group>
     <group name="php-interpreter-debug-ext">
       <project id="olkweb3" values="xdebug" />
       <project id="sponsorportalen" values="xdebug" />
@@ -65,6 +28,19 @@
       <project id="untitled" values="not installed" />
       <project id="CWKFoto" values="not installed" />
       <project id="sponsorportalen" values="5.3.28" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="trunk" values="PhpWebAppRunConfigurationType" />
+      <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
+      <project id="sponsorportalen" values="PhpWebAppRunConfigurationType" />
+    </group>
+    <group name="module type">
+      <project id="kolsrud" values="WEB_MODULE" />
+      <project id="trunk" values="WEB_MODULE" />
+      <project id="olkweb3" values="WEB_MODULE" />
+      <project id="untitled" values="WEB_MODULE" />
+      <project id="CWKFoto" values="WEB_MODULE" />
+      <project id="sponsorportalen" values="WEB_MODULE" />
     </group>
     <group name="deployment server">
       <project id="kolsrud" values="LOCAL" />
@@ -90,13 +66,21 @@
       <project id="CWKFoto" values="1" />
       <project id="sponsorportalen" values="2" />
     </group>
-    <group name="JavaScript versions">
-      <project id="kolsrud" values="DEFAULT" />
-      <project id="trunk" values="DEFAULT" />
-      <project id="olkweb3" values="DEFAULT" />
-      <project id="untitled" values="DEFAULT" />
-      <project id="CWKFoto" values="DEFAULT" />
-      <project id="sponsorportalen" values="DEFAULT" />
+    <group name="php-server-debug-ext">
+      <project id="trunk" values="xdebug" />
+      <project id="olkweb3" values="xdebug" />
+      <project id="sponsorportalen" values="xdebug" />
+    </group>
+    <group name="file-type">
+      <project id="kolsrud" values="Images,XML,Blade,PHP,UNKNOWN,htaccess,PLAIN_TEXT,JSON,YAML" />
+      <project id="trunk" values="SQL,JavaScript,YAML,JSON,CSS,SourceMap,XML,Native,PHP,Ini,PLAIN_TEXT,SmartyConfig,HTML,Images,UNKNOWN,Locale" />
+      <project id="olkweb3" values="Ini,YAML,LESS,PLAIN_TEXT,JSHint,JSON,Images,SmartyConfig,Native,PHP,JavaScript,C++,Locale,UNKNOWN,PATCH,SQL,CSS,ARCHIVE,HTML,CoffeeScript,XML,DTD" />
+      <project id="untitled" values="PLAIN_TEXT,UNKNOWN,XML,PHP" />
+      <project id="CWKFoto" values="UNKNOWN,JSON,XML,PHP,PLAIN_TEXT" />
+      <project id="sponsorportalen" values="UNKNOWN,CSS,SQL,XML,PLAIN_TEXT,Ini,LESS,PHP,JavaScript,Images,SmartyConfig,JSON" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="sponsorportalen" values="js.build_tools.gulp" />
     </group>
     <group name="php-debug-skipped-paths">
       <project id="kolsrud" values="0" />
@@ -105,6 +89,22 @@
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="0" />
       <project id="sponsorportalen" values="0" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="kolsrud" values="DEFAULT" />
+      <project id="trunk" values="DEFAULT" />
+      <project id="olkweb3" values="DEFAULT" />
+      <project id="untitled" values="DEFAULT" />
+      <project id="CWKFoto" values="DEFAULT" />
+      <project id="sponsorportalen" values="DEFAULT" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="kolsrud" values="Project,Project" />
+      <project id="trunk" values="Project,Project" />
+      <project id="olkweb3" values="Project,Project" />
+      <project id="untitled" values="Project,Project" />
+      <project id="CWKFoto" values="Project,Project" />
+      <project id="sponsorportalen" values="Project,Project" />
     </group>
   </component>
   <component name="UsageTrigger">
@@ -142,7 +142,7 @@
       <entry feature="ide.settings.Spelling" count="1" />
       <entry feature="ide.settings.Vagrant" count="1" />
       <entry feature="ide.settings.Version_Control" count="1" />
-      <entry feature="ideaapp.started" count="24" />
+      <entry feature="ideaapp.started" count="25" />
     </counts>
   </component>
 </application>
