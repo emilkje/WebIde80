@@ -4,10 +4,12 @@
     <group name="vcs">
       <project id="trunk" values="svn" />
       <project id="olkweb3" values="Git" />
+      <project id="sponsorportalen" values="Git" />
     </group>
     <group name="run-configuration-type">
       <project id="trunk" values="PhpWebAppRunConfigurationType" />
       <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
+      <project id="sponsorportalen" values="PhpWebAppRunConfigurationType" />
     </group>
     <group name="module type">
       <project id="kolsrud" values="WEB_MODULE" />
@@ -20,6 +22,7 @@
     <group name="php-server-debug-ext">
       <project id="trunk" values="xdebug" />
       <project id="olkweb3" values="xdebug" />
+      <project id="sponsorportalen" values="xdebug" />
     </group>
     <group name="file-type">
       <project id="kolsrud" values="XML,htaccess,PHP,YAML,JSON,Images,UNKNOWN,PLAIN_TEXT,Blade" />
@@ -27,7 +30,10 @@
       <project id="olkweb3" values="Native,LESS,PHP,ARCHIVE,Locale,UNKNOWN,JSON,Images,PATCH,YAML,SQL,PLAIN_TEXT,JavaScript,HTML,JSHint,C++,Ini,XML,DTD,CoffeeScript,CSS,SmartyConfig" />
       <project id="untitled" values="PHP,XML,UNKNOWN,PLAIN_TEXT" />
       <project id="CWKFoto" values="UNKNOWN,JSON,XML,PHP,PLAIN_TEXT" />
-      <project id="sponsorportalen" values="CSS,JSON,JavaScript,UNKNOWN,XML,Images,Ini,SmartyConfig,PLAIN_TEXT,LESS,PHP" />
+      <project id="sponsorportalen" values="SQL,Images,XML,UNKNOWN,JSON,PLAIN_TEXT,SmartyConfig,Ini,JavaScript,CSS,PHP,LESS" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="sponsorportalen" values="js.build_tools.gulp" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="kolsrud" values="Project,Project" />
@@ -39,6 +45,7 @@
     </group>
     <group name="php-interpreter-debug-ext">
       <project id="olkweb3" values="xdebug" />
+      <project id="sponsorportalen" values="xdebug" />
     </group>
     <group name="svn working copy format">
       <project id="trunk" values="1.7" />
@@ -57,7 +64,7 @@
       <project id="olkweb3" values="5.3.28" />
       <project id="untitled" values="not installed" />
       <project id="CWKFoto" values="not installed" />
-      <project id="sponsorportalen" values="not installed" />
+      <project id="sponsorportalen" values="5.3.28" />
     </group>
     <group name="deployment server">
       <project id="kolsrud" values="LOCAL" />
@@ -73,7 +80,7 @@
       <project id="olkweb3" values="1" />
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="0" />
-      <project id="sponsorportalen" values="0" />
+      <project id="sponsorportalen" values="1" />
     </group>
     <group name="php-include-path">
       <project id="kolsrud" values="0" />
@@ -81,7 +88,7 @@
       <project id="olkweb3" values="0" />
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="1" />
-      <project id="sponsorportalen" values="0" />
+      <project id="sponsorportalen" values="2" />
     </group>
     <group name="JavaScript versions">
       <project id="kolsrud" values="DEFAULT" />
