@@ -92,8 +92,8 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/cordova/ionic-webcadet" />
         <option value="$USER_HOME$/www/project/sponsorportalen" />
+        <option value="$USER_HOME$/cordova/ionic-webcadet" />
         <option value="$USER_HOME$/www/project/olkweb3" />
         <option value="$USER_HOME$/www/project/olk3school/trunk" />
         <option value="$USER_HOME$/PhpstormProjects/untitled" />
@@ -102,12 +102,7 @@
         <option value="$USER_HOME$/www/project/olkweb3/Olkweb3" />
       </list>
     </option>
-    <option name="openPaths">
-      <list>
-        <option value="$USER_HOME$/cordova/ionic-webcadet" />
-      </list>
-    </option>
-    <option name="lastPath" value="$USER_HOME$/cordova/ionic-webcadet" />
+    <option name="lastPath" value="$USER_HOME$/www/project/sponsorportalen" />
   </component>
   <component name="RecentTaskRepositories">
     <JIRA shared="false" url="http://jira.innit.no:8081">
@@ -226,15 +221,15 @@
     </recent_templates>
   </component>
   <component name="com.intellij.javaee.ExternalResourceManagerExImpl">
-    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="urn:idea:xslt-plugin#extensions" />
-    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
 </application>
