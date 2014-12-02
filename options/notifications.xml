@@ -10,6 +10,7 @@
     <toolWindow group="Debugger messages" />
     <toolWindow group="JavaScript debugger" />
     <toolWindow group="Grunt Console" />
+    <toolWindow group="Inspection Results" />
   </component>
 </application>
 
