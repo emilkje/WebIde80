@@ -57,6 +57,7 @@
     <location key="#Changelist_Conflicts.0.0.1440.900" x="718" y="266" />
     <location key="#Servers.0.0.1440.900" x="586" y="183" />
     <location key="SimpleOpenTaskDialog.0.0.1440.900" x="640" y="348" />
+    <location key="VCS.ChangelistChooser.0.0.1440.900" x="768" y="298" />
     <size key="OptionsEditor.0.0.1920.1200" width="1349" height="846" />
     <size key="DiffWindow.0.0.1920.1200" width="677" height="800" />
     <size key="DiffWindow.0.0.1440.900" width="1147" height="674" />
