@@ -56,6 +56,7 @@
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1200" x="1108" y="502" />
     <location key="#Changelist_Conflicts.0.0.1440.900" x="718" y="266" />
     <location key="#Servers.0.0.1440.900" x="586" y="183" />
+    <location key="SimpleOpenTaskDialog.0.0.1440.900" x="640" y="348" />
     <size key="OptionsEditor.0.0.1920.1200" width="1349" height="846" />
     <size key="DiffWindow.0.0.1920.1200" width="677" height="800" />
     <size key="DiffWindow.0.0.1440.900" width="1147" height="674" />
