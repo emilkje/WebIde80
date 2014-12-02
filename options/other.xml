@@ -22,7 +22,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="false" />
     <option name="WITH_SUBDIRECTORIES" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="false" />
-    <option name="SEARCH_SCOPE" value="All Project Classes" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
     <option name="FILE_MASK" />
     <option name="RECENT_FIND_STRINGS">
       <value>
@@ -67,8 +67,9 @@
     </option>
     <option name="RECENT_DIR_STRINGS">
       <value>
-        <list size="1">
+        <list size="2">
           <item index="0" class="java.lang.String" itemvalue="$USER_HOME$/www/project/olkweb3/www" />
+          <item index="1" class="java.lang.String" itemvalue="$USER_HOME$/www/project/sponsorportalen" />
         </list>
       </value>
     </option>

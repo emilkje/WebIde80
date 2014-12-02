@@ -58,6 +58,7 @@
     <location key="#Servers.0.0.1440.900" x="586" y="183" />
     <location key="SimpleOpenTaskDialog.0.0.1440.900" x="640" y="348" />
     <location key="VCS.ChangelistChooser.0.0.1440.900" x="768" y="298" />
+    <location key="scopes.0.0.1440.900" x="282" y="417" />
     <size key="OptionsEditor.0.0.1920.1200" width="1349" height="846" />
     <size key="DiffWindow.0.0.1920.1200" width="677" height="800" />
     <size key="DiffWindow.0.0.1440.900" width="1147" height="674" />
@@ -93,6 +94,7 @@
     <size key="GridCell.Tab.0.center.0.0.1440.900" width="544" height="257" />
     <size key="GridCell.Tab.0.right.0.0.1440.900" width="544" height="257" />
     <size key="GridCell.Tab.0.bottom.0.0.1440.900" width="544" height="257" />
+    <size key="findTextDialog.0.0.1440.900" width="412" height="553" />
     <extendedState key="DiffWindow" state="0" />
   </component>
   <component name="LafManager">
