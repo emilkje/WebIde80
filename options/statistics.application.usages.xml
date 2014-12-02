@@ -138,6 +138,7 @@
       <entry feature="ide.settings.Diagrams" count="1" />
       <entry feature="ide.settings.Diff" count="13" />
       <entry feature="ide.settings.Editor" count="1" />
+      <entry feature="ide.settings.Editor_Tabs" count="1" />
       <entry feature="ide.settings.Emmet" count="1" />
       <entry feature="ide.settings.Font" count="39" />
       <entry feature="ide.settings.General" count="11" />
@@ -148,7 +149,7 @@
       <entry feature="ide.settings.Keymap" count="3" />
       <entry feature="ide.settings.LESS" count="1" />
       <entry feature="ide.settings.Language_Defaults" count="7" />
-      <entry feature="ide.settings.PHP" count="20" />
+      <entry feature="ide.settings.PHP" count="21" />
       <entry feature="ide.settings.Servers" count="1" />
       <entry feature="ide.settings.Spelling" count="1" />
       <entry feature="ide.settings.Vagrant" count="1" />
