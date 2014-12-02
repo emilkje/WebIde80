@@ -31,7 +31,7 @@
     </group>
     <group name="file-type">
       <project id="kolsrud" values="Images,XML,Blade,PHP,UNKNOWN,htaccess,PLAIN_TEXT,JSON,YAML" />
-      <project id="ionic-webcadet" values="ARCHIVE,SASS,Images,XML,HTML,JSON,JavaScript,PHP,SourceMap,YAML,CSS,UNKNOWN,PLAIN_TEXT,SCSS,LESS" />
+      <project id="ionic-webcadet" values="Images,SourceMap,ARCHIVE,HTML,PLAIN_TEXT,CSS,JSON,YAML,JavaScript,UNKNOWN,PHP,XML,LESS,SCSS,SASS" />
       <project id="trunk" values="SQL,JavaScript,YAML,JSON,CSS,SourceMap,XML,Native,PHP,Ini,PLAIN_TEXT,SmartyConfig,HTML,Images,UNKNOWN,Locale" />
       <project id="olkweb3" values="Ini,YAML,LESS,PLAIN_TEXT,JSHint,JSON,Images,SmartyConfig,Native,PHP,JavaScript,C++,Locale,UNKNOWN,PATCH,SQL,CSS,ARCHIVE,HTML,CoffeeScript,XML,DTD" />
       <project id="untitled" values="PLAIN_TEXT,UNKNOWN,XML,PHP" />
