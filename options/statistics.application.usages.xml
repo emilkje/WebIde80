@@ -32,7 +32,7 @@
       <project id="olkweb3" values="DTD,LESS,CoffeeScript,ARCHIVE,JSON,Native,CSS,SmartyConfig,UNKNOWN,PATCH,PHP,HTML,JSHint,XML,PLAIN_TEXT,JavaScript,YAML,Images,SQL,C++,Locale,Ini" />
       <project id="untitled" values="PLAIN_TEXT,UNKNOWN,PHP,XML" />
       <project id="CWKFoto" values="JSON,PLAIN_TEXT,PHP,XML,UNKNOWN" />
-      <project id="sponsorportalen" values="LESS,SQL,Images,Ini,PHP,CSS,XML,SmartyConfig,UNKNOWN,PLAIN_TEXT,JSON,JavaScript" />
+      <project id="sponsorportalen" values="PLAIN_TEXT,SmartyConfig,CSS,JSON,JavaScript,Ini,PHP,XML,Images,LESS,SQL,UNKNOWN" />
     </group>
     <group name="run-configuration-type-temp">
       <project id="ionic-webcadet" values="js.build_tools.gulp" />
