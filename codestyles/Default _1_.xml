@@ -26,6 +26,26 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="LESS">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="METHOD_BRACE_STYLE" value="1" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
@@ -34,6 +54,12 @@
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SASS">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="82" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
