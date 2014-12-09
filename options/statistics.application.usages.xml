@@ -36,7 +36,7 @@
       <project id="olkweb3" values="Ini,Locale,LESS,PHP,UNKNOWN,C++,JSON,CSS,HTML,ARCHIVE,PATCH,YAML,SmartyConfig,DTD,Native,PLAIN_TEXT,JSHint,Images,SQL,CoffeeScript,JavaScript,XML" />
       <project id="untitled" values="PLAIN_TEXT,XML,UNKNOWN,PHP" />
       <project id="CWKFoto" values="PHP,JSON,XML,PLAIN_TEXT,UNKNOWN" />
-      <project id="sponsorportalen" values="JSON,JavaScript,Images,XML,Ini,UNKNOWN,CSS,LESS,PHP,SmartyConfig,PLAIN_TEXT,SQL" />
+      <project id="sponsorportalen" values="CSS,Ini,SQL,LESS,JSON,Images,UNKNOWN,PLAIN_TEXT,JavaScript,XML,PHP,SmartyConfig" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="kolsrud" values="Project,Project" />
@@ -127,7 +127,7 @@
       <entry feature="execute.PhpLocalRunConfigurationType.Debug" count="4" />
       <entry feature="execute.PhpLocalRunConfigurationType.Run" count="1" />
       <entry feature="execute.PhpWebAppRunConfigurationType.Debug" count="46" />
-      <entry feature="execute.js.build_tools.gulp.Run" count="56" />
+      <entry feature="execute.js.build_tools.gulp.Run" count="57" />
       <entry feature="ide.settings.Appearance" count="5" />
       <entry feature="ide.settings.CSS" count="4" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="78" />
