@@ -4,6 +4,7 @@
     <group name="vcs">
       <project id="trunk" values="svn" />
       <project id="olkweb3" values="Git" />
+      <project id="rbase3.0" values="svn" />
       <project id="sponsorportalen" values="Git" />
     </group>
     <group name="run-configuration-type">
@@ -16,6 +17,7 @@
       <project id="ionic-webcadet" values="WEB_MODULE" />
       <project id="trunk" values="WEB_MODULE" />
       <project id="olkweb3" values="WEB_MODULE" />
+      <project id="rbase3.0" values="WEB_MODULE" />
       <project id="untitled" values="WEB_MODULE" />
       <project id="CWKFoto" values="WEB_MODULE" />
       <project id="sponsorportalen" values="WEB_MODULE" />
@@ -34,15 +36,17 @@
       <project id="ionic-webcadet" values="SASS,ARCHIVE,PLAIN_TEXT,SCSS,UNKNOWN,JSON,XML,PHP,LESS,SourceMap,Images,JavaScript,HTML,CSS" />
       <project id="trunk" values="PHP,UNKNOWN,Locale,SmartyConfig,JSON,Images,YAML,Ini,XML,SourceMap,CSS,SQL,PLAIN_TEXT,HTML,Native,JavaScript" />
       <project id="olkweb3" values="Ini,Locale,LESS,PHP,UNKNOWN,C++,JSON,CSS,HTML,ARCHIVE,PATCH,YAML,SmartyConfig,DTD,Native,PLAIN_TEXT,JSHint,Images,SQL,CoffeeScript,JavaScript,XML" />
+      <project id="rbase3.0" values="JavaScript,CSS,PLAIN_TEXT,Images,Locale,SQL,PHP,SourceMap,JSON,UNKNOWN,HTML,XML,Ini" />
       <project id="untitled" values="PLAIN_TEXT,XML,UNKNOWN,PHP" />
       <project id="CWKFoto" values="PHP,JSON,XML,PLAIN_TEXT,UNKNOWN" />
-      <project id="sponsorportalen" values="CSS,Ini,SQL,LESS,JSON,Images,UNKNOWN,PLAIN_TEXT,JavaScript,XML,PHP,SmartyConfig" />
+      <project id="sponsorportalen" values="CSS,Images,SQL,PLAIN_TEXT,JSON,XML,JavaScript,LESS,Ini,UNKNOWN,PHP,SmartyConfig" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="kolsrud" values="Project,Project" />
       <project id="ionic-webcadet" values="Project,Project" />
       <project id="trunk" values="Project,Project" />
       <project id="olkweb3" values="Project,Project" />
+      <project id="rbase3.0" values="Project,Project" />
       <project id="untitled" values="Project,Project" />
       <project id="CWKFoto" values="Project,Project" />
       <project id="sponsorportalen" values="Project,Project" />
@@ -53,12 +57,14 @@
     </group>
     <group name="svn working copy format">
       <project id="trunk" values="1.7" />
+      <project id="rbase3.0" values="1.7" />
     </group>
     <group name="php-interpreters">
       <project id="kolsrud" values="1" />
       <project id="ionic-webcadet" values="1" />
       <project id="trunk" values="1" />
       <project id="olkweb3" values="1" />
+      <project id="rbase3.0" values="1" />
       <project id="untitled" values="1" />
       <project id="CWKFoto" values="1" />
       <project id="sponsorportalen" values="1" />
@@ -68,6 +74,7 @@
       <project id="ionic-webcadet" values="not installed" />
       <project id="trunk" values="not installed" />
       <project id="olkweb3" values="5.3.28" />
+      <project id="rbase3.0" values="not installed" />
       <project id="untitled" values="not installed" />
       <project id="CWKFoto" values="not installed" />
       <project id="sponsorportalen" values="5.3.28" />
@@ -77,6 +84,7 @@
       <project id="ionic-webcadet" values="LOCAL" />
       <project id="trunk" values="LOCAL" />
       <project id="olkweb3" values="LOCAL" />
+      <project id="rbase3.0" values="LOCAL" />
       <project id="untitled" values="LOCAL" />
       <project id="CWKFoto" values="LOCAL" />
       <project id="sponsorportalen" values="LOCAL" />
@@ -86,6 +94,7 @@
       <project id="ionic-webcadet" values="0" />
       <project id="trunk" values="1" />
       <project id="olkweb3" values="1" />
+      <project id="rbase3.0" values="0" />
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="0" />
       <project id="sponsorportalen" values="1" />
@@ -95,6 +104,7 @@
       <project id="ionic-webcadet" values="0" />
       <project id="trunk" values="0" />
       <project id="olkweb3" values="0" />
+      <project id="rbase3.0" values="0" />
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="1" />
       <project id="sponsorportalen" values="2" />
@@ -104,6 +114,7 @@
       <project id="ionic-webcadet" values="DEFAULT" />
       <project id="trunk" values="DEFAULT" />
       <project id="olkweb3" values="DEFAULT" />
+      <project id="rbase3.0" values="DEFAULT" />
       <project id="untitled" values="DEFAULT" />
       <project id="CWKFoto" values="DEFAULT" />
       <project id="sponsorportalen" values="DEFAULT" />
@@ -113,6 +124,7 @@
       <project id="ionic-webcadet" values="0" />
       <project id="trunk" values="0" />
       <project id="olkweb3" values="0" />
+      <project id="rbase3.0" values="0" />
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="0" />
       <project id="sponsorportalen" values="0" />
