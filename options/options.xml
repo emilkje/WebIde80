@@ -133,7 +133,7 @@
     <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="file.chooser.recent.files" value="/Applications/MAMP/bin/php/php5.3.28/bin&#10;/Applications/MAMP/bin/php/php5.3.28" />
     <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
-    <property name="ColorChooser.RecentColors" value="248-187-57-255,,,217-68-65-255,,,93-88-81-255,,,80-75-68-255,,,70-65-58-255,,,201-225-240-255,,,211-229-240-255,,,232-219-173-255,,,67-105-141-255,,,143-82-71-255,,,101-110-118-255,,,68-113-82-255,,,97-158-112-255,,,115-180-130-255,,,122-191-137-255,,,219-132-97-255,,,141-243-170-255,,,117-212-146-255,,,229-142-97-255,,,255-18-45-255" />
+    <property name="ColorChooser.RecentColors" value="217-68-65-255,,,93-88-81-255,,,80-75-68-255,,,70-65-58-255,,,201-225-240-255,,,211-229-240-255,,,232-219-173-255,,,67-105-141-255,,,143-82-71-255,,,101-110-118-255,,,68-113-82-255,,,97-158-112-255,,,115-180-130-255,,,122-191-137-255,,,219-132-97-255,,,141-243-170-255,,,117-212-146-255,,,229-142-97-255,,,255-18-45-255,,,255-52-69-255" />
     <property name="INSPECTION_FILTER_HISTORY" value="&quot;New in 13&quot;" />
     <property name="LayoutCode.optimizeImports" value="false" />
     <property name="LayoutCode.processChangedText" value="false" />
