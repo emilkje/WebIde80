@@ -36,10 +36,10 @@
       <project id="ionic-webcadet" values="SASS,ARCHIVE,PLAIN_TEXT,SCSS,UNKNOWN,JSON,XML,PHP,LESS,SourceMap,Images,JavaScript,HTML,CSS" />
       <project id="trunk" values="PHP,UNKNOWN,Locale,SmartyConfig,JSON,Images,YAML,Ini,XML,SourceMap,CSS,SQL,PLAIN_TEXT,HTML,Native,JavaScript" />
       <project id="olkweb3" values="Ini,Locale,LESS,PHP,UNKNOWN,C++,JSON,CSS,HTML,ARCHIVE,PATCH,YAML,SmartyConfig,DTD,Native,PLAIN_TEXT,JSHint,Images,SQL,CoffeeScript,JavaScript,XML" />
-      <project id="rbase3.0" values="JavaScript,CSS,PLAIN_TEXT,Images,Locale,SQL,PHP,SourceMap,JSON,UNKNOWN,HTML,XML,Ini" />
+      <project id="rbase3.0" values="HTML,PHP,JavaScript,JSON,SQL,Ini,PLAIN_TEXT,Images,UNKNOWN,Locale,CSS,XML,SourceMap,YAML" />
       <project id="untitled" values="PLAIN_TEXT,XML,UNKNOWN,PHP" />
       <project id="CWKFoto" values="PHP,JSON,XML,PLAIN_TEXT,UNKNOWN" />
-      <project id="sponsorportalen" values="CSS,Images,SQL,PLAIN_TEXT,JSON,XML,JavaScript,LESS,Ini,UNKNOWN,PHP,SmartyConfig" />
+      <project id="sponsorportalen" values="LESS,Images,JSON,UNKNOWN,SmartyConfig,JavaScript,XML,PHP,SQL,PLAIN_TEXT,Ini,CSS" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="kolsrud" values="Project,Project" />
