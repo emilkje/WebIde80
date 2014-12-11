@@ -54,9 +54,9 @@
           <item index="24" class="java.lang.String" itemvalue="access" />
           <item index="25" class="java.lang.String" itemvalue="PDOException" />
           <item index="26" class="java.lang.String" itemvalue="extrat" />
-          <item index="27" class="java.lang.String" itemvalue="console.log" />
-          <item index="28" class="java.lang.String" itemvalue="console" />
-          <item index="29" class="java.lang.String" itemvalue="console.lo" />
+          <item index="27" class="java.lang.String" itemvalue="console" />
+          <item index="28" class="java.lang.String" itemvalue="console.lo" />
+          <item index="29" class="java.lang.String" itemvalue="console.log" />
         </list>
       </value>
     </option>
