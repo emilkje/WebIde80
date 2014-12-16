@@ -5,6 +5,8 @@
       <find>emplo</find>
       <find>include</find>
       <find>denied</find>
+      <find>JSON</find>
+      <find>json</find>
     </findStrings>
   </component>
 </application>
