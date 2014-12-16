@@ -7,6 +7,8 @@
       <find>denied</find>
       <find>JSON</find>
       <find>json</find>
+      <find>canOut</find>
+      <find>outputOnl</find>
     </findStrings>
   </component>
 </application>
