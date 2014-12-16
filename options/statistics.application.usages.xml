@@ -39,7 +39,7 @@
       <project id="rbase3.0" values="HTML,PHP,JavaScript,JSON,SQL,Ini,PLAIN_TEXT,Images,UNKNOWN,Locale,CSS,XML,SourceMap,YAML" />
       <project id="untitled" values="PLAIN_TEXT,XML,UNKNOWN,PHP" />
       <project id="CWKFoto" values="PHP,JSON,XML,PLAIN_TEXT,UNKNOWN" />
-      <project id="sponsorportalen" values="LESS,Images,JSON,UNKNOWN,SmartyConfig,JavaScript,XML,PHP,SQL,PLAIN_TEXT,Ini,CSS" />
+      <project id="sponsorportalen" values="PHP,PLAIN_TEXT,UNKNOWN,XML,JavaScript,SQL,LESS,SmartyConfig,Images,JSON,CSS,Ini" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="kolsrud" values="Project,Project" />
