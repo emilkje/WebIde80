@@ -10,7 +10,7 @@
   <component name="Encoding" version="1418723649582" />
   <component name="ExportableTemplateSettings" version="1417764446039" />
   <component name="ExternalResourceManagerImpl" version="1418723649582" />
-  <component name="FeatureUsageStatistics" version="1418723107836" />
+  <component name="FeatureUsageStatistics" version="1418723789265" />
   <component name="FileBasedIndex" version="1417764272859" />
   <component name="FileTypeManager" version="1417764272863" />
   <component name="FindSettings" version="1418723649588" />
@@ -22,7 +22,9 @@
   <component name="KeymapManager" version="1417764272865" />
   <component name="LafManager" version="1418723649591" />
   <component name="LanguageInjectionConfiguration" version="1417764272866" />
+  <component name="LocalDatabaseDriverManager" version="1418723789267" />
   <component name="NotificationConfiguration" version="1417764272866" />
+  <component name="PasswordDatabase" version="1418723789267" />
   <component name="PhpInterpreters" version="1417764865161" />
   <component name="PhpInterpretersPhpInfoCache" version="1418046001402" />
   <component name="PluginManagerConfigurable" version="1418723649592" />
@@ -43,7 +45,7 @@
   <component name="UsagesStatistic" version="1417764272872" />
   <component name="WebBrowsersConfiguration" version="1417764272874" />
   <component name="WebServers" version="1417764272875" />
-  <component name="WindowManager" version="1418723649605" />
+  <component name="WindowManager" version="1418723789273" />
   <component name="XDebuggerSettings" version="1417764669607" />
   <component name="XPathView.XPathViewPlugin" version="1418723649605" />
   <component name="XSLT-Support.Configuration" version="1418723649605" />

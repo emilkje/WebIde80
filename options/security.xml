@@ -1,14 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="PasswordDatabase">
     <option name="PASSWORDS">
       <array>
         <array>
           <option value="fc81b2b50489b627e9772ced8eb5d30b68248f037fd27f1506e68442259160c4" />
+          <option value="0edbd19a635e4919ecaaa51b2548dd31f5d42f3bc63a0fa86fa5aa37b33f4664" />
           <option value="5435bb107a44bf73c7d1f77580b5b8916586e34418340be2b5690465dd7f76de" />
         </array>
         <array>
           <option value="02eefff716e995df189e5eafa39488bf6174b74b6d4b13fdf29b9d91b308979b" />
+          <option value="9275f746c5ee0fab5542fe49d0f2e5fa" />
           <option value="525c0830b0d74cc1af07e5a1c423139b" />
         </array>
       </array>
@@ -18,4 +19,3 @@
     <successfulAuthentication user="git@stash.innit.no:7999" method="publickey" />
   </component>
 </application>
-
