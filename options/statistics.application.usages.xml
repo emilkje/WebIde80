@@ -6,6 +6,7 @@
       <project id="olkweb3" values="Git" />
       <project id="rbase3.0" values="svn" />
       <project id="sponsorportalen" values="Git" />
+      <project id="interfacelift" values="Git" />
     </group>
     <group name="run-configuration-type">
       <project id="trunk" values="PhpWebAppRunConfigurationType" />
@@ -21,6 +22,7 @@
       <project id="untitled" values="WEB_MODULE" />
       <project id="CWKFoto" values="WEB_MODULE" />
       <project id="sponsorportalen" values="WEB_MODULE" />
+      <project id="interfacelift" values="WEB_MODULE" />
     </group>
     <group name="php-server-debug-ext">
       <project id="trunk" values="xdebug" />
@@ -40,6 +42,7 @@
       <project id="untitled" values="PLAIN_TEXT,XML,UNKNOWN,PHP" />
       <project id="CWKFoto" values="PHP,JSON,XML,PLAIN_TEXT,UNKNOWN" />
       <project id="sponsorportalen" values="PHP,XML,JavaScript,Ini,JSON,SmartyConfig,UNKNOWN,CSS,Images,LESS,SQL,PLAIN_TEXT" />
+      <project id="interfacelift" values="JavaScript,XML,JSON,PLAIN_TEXT,UNKNOWN" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="kolsrud" values="Project,Project" />
@@ -50,6 +53,7 @@
       <project id="untitled" values="Project,Project" />
       <project id="CWKFoto" values="Project,Project" />
       <project id="sponsorportalen" values="Project,Project" />
+      <project id="interfacelift" values="Project,Project" />
     </group>
     <group name="php-interpreter-debug-ext">
       <project id="olkweb3" values="xdebug" />
@@ -68,6 +72,7 @@
       <project id="untitled" values="1" />
       <project id="CWKFoto" values="1" />
       <project id="sponsorportalen" values="1" />
+      <project id="interfacelift" values="1" />
     </group>
     <group name="php-interpreter-version">
       <project id="kolsrud" values="not installed" />
@@ -78,6 +83,7 @@
       <project id="untitled" values="not installed" />
       <project id="CWKFoto" values="not installed" />
       <project id="sponsorportalen" values="5.3.28" />
+      <project id="interfacelift" values="not installed" />
     </group>
     <group name="deployment server">
       <project id="kolsrud" values="LOCAL" />
@@ -88,6 +94,7 @@
       <project id="untitled" values="LOCAL" />
       <project id="CWKFoto" values="LOCAL" />
       <project id="sponsorportalen" values="LOCAL" />
+      <project id="interfacelift" values="LOCAL" />
     </group>
     <group name="php-servers">
       <project id="kolsrud" values="0" />
@@ -98,6 +105,7 @@
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="0" />
       <project id="sponsorportalen" values="1" />
+      <project id="interfacelift" values="0" />
     </group>
     <group name="php-include-path">
       <project id="kolsrud" values="0" />
@@ -108,6 +116,7 @@
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="1" />
       <project id="sponsorportalen" values="2" />
+      <project id="interfacelift" values="0" />
     </group>
     <group name="JavaScript versions">
       <project id="kolsrud" values="DEFAULT" />
@@ -118,6 +127,7 @@
       <project id="untitled" values="DEFAULT" />
       <project id="CWKFoto" values="DEFAULT" />
       <project id="sponsorportalen" values="DEFAULT" />
+      <project id="interfacelift" values="DEFAULT" />
     </group>
     <group name="php-debug-skipped-paths">
       <project id="kolsrud" values="0" />
@@ -128,6 +138,7 @@
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="0" />
       <project id="sponsorportalen" values="0" />
+      <project id="interfacelift" values="0" />
     </group>
   </component>
   <component name="UsageTrigger">
