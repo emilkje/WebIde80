@@ -9,6 +9,7 @@
       <find>json</find>
       <find>canOut</find>
       <find>outputOnl</find>
+      <find>$outputOnlyIfCommandLine</find>
     </findStrings>
   </component>
 </application>
