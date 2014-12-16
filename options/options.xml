@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="DimensionService">
     <location key="WELCOME_SCREEN.0.0.1920.1200" x="959" y="300" />
@@ -153,6 +152,6 @@
     <property name="DocumentationAutoUpdateEnabled" value="false" />
     <property name="javascript.grunt_toolwindow_splitter" value="0.2" />
     <property name="COMPOSER_PACKAGE_FILTER" value="doctrine/&#10;Symfony/H" />
+    <property name="SqlStructureView.SqlDdlStatement.file.structure.state" value="true" />
   </component>
 </application>
-
