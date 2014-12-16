@@ -20,7 +20,7 @@
     <feature id="editing.completion.replace" count="6" last-shown="0" last-used="1416924172456" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="2925" last-shown="0" last-used="1418738372023" shown-count="0" />
+    <feature id="editing.select.word" count="2926" last-shown="0" last-used="1418738519727" shown-count="0" />
     <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="41" last-shown="0" last-used="1417509989817" shown-count="0" />
     <feature id="codeassists.comment.block" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -42,8 +42,8 @@
     <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="3" last-shown="1418200723227" last-used="1418200726948" shown-count="2" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="10674" />
-      <option name="invocations" value="1597" />
+      <option name="sparedCharacters" value="10681" />
+      <option name="invocations" value="1598" />
       <option name="startDate" value="1411423200000" />
       <option name="dayCount" value="44" />
       <option name="lastDate" value="1418684400000" />
