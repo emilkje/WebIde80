@@ -36,7 +36,7 @@
       <project id="rbase3.0" values="SourceMap,PHP,PLAIN_TEXT,HTML,JavaScript,Images,SQL,JSON,XML,YAML,Locale,CSS,UNKNOWN,Ini" />
       <project id="untitled" values="PHP,PLAIN_TEXT,XML,UNKNOWN" />
       <project id="CWKFoto" values="PLAIN_TEXT,XML,UNKNOWN,JSON,PHP" />
-      <project id="sponsorportalen" values="PLAIN_TEXT,PHP,SQL,UNKNOWN,CSS,SmartyConfig,XML,LESS,JSON,Ini,DATASOURCE_STORAGE,JavaScript,Images" />
+      <project id="sponsorportalen" values="SQL,PLAIN_TEXT,Ini,Images,JavaScript,DATASOURCE_STORAGE,UNKNOWN,CSS,LESS,SmartyConfig,XML,PHP,JSON" />
       <project id="interfacelift" values="PLAIN_TEXT,JSON,UNKNOWN,JavaScript,XML" />
     </group>
     <group name="run-configuration-type-temp">
