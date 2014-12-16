@@ -3,6 +3,7 @@
     <findStrings>
       <find>Depa</find>
       <find>emplo</find>
+      <find>include</find>
     </findStrings>
   </component>
 </application>
