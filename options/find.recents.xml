@@ -10,6 +10,9 @@
       <find>canOut</find>
       <find>outputOnl</find>
       <find>$outputOnlyIfCommandLine</find>
+      <find>Conta</find>
+      <find>Empl</find>
+      <find>Depar</find>
     </findStrings>
   </component>
 </application>
