@@ -13,6 +13,7 @@
       <find>Conta</find>
       <find>Empl</find>
       <find>Depar</find>
+      <find>onErr</find>
     </findStrings>
   </component>
 </application>
