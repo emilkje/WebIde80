@@ -1,6 +1,7 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="vcs">
+      <project id="ionic-webcadet" values="Git" />
       <project id="trunk" values="svn" />
       <project id="olkweb3" values="Git" />
       <project id="rbase3.0" values="svn" />
@@ -31,7 +32,7 @@
     <group name="file-type">
       <project id="kolsrud" values="PLAIN_TEXT,YAML,XML,JSON,UNKNOWN,Images,PHP,htaccess,Blade" />
       <project id="trunk" values="SmartyConfig,Images,PLAIN_TEXT,CSS,YAML,JavaScript,XML,Ini,SQL,UNKNOWN,HTML,PHP,SourceMap,Locale,JSON,Native" />
-      <project id="ionic-webcadet" values="SASS,SourceMap,PHP,HTML,SCSS,UNKNOWN,JavaScript,JSON,LESS,XML,ARCHIVE,CSS,Images,PLAIN_TEXT" />
+      <project id="ionic-webcadet" values="UNKNOWN,CSS,HTML,PLAIN_TEXT,Images,JSON,JavaScript,SourceMap,ARCHIVE,LESS,XML,SASS,SCSS,PHP" />
       <project id="olkweb3" values="JSON,Native,PLAIN_TEXT,C++,Ini,XML,JSHint,CSS,Locale,SmartyConfig,PHP,HTML,JavaScript,LESS,ARCHIVE,Images,UNKNOWN,PATCH,SQL,YAML,DTD,CoffeeScript" />
       <project id="rbase3.0" values="SourceMap,PHP,PLAIN_TEXT,HTML,JavaScript,Images,SQL,JSON,XML,YAML,Locale,CSS,UNKNOWN,Ini" />
       <project id="untitled" values="PHP,PLAIN_TEXT,XML,UNKNOWN" />
