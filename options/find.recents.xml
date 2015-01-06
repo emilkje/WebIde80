@@ -17,6 +17,7 @@
       <find>notify</find>
       <find>proxy</find>
       <find>prox</find>
+      <find>model</find>
     </findStrings>
   </component>
 </application>
