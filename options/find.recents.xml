@@ -18,6 +18,9 @@
       <find>proxy</find>
       <find>prox</find>
       <find>model</find>
+      <find>check</find>
+      <find>Documentation</find>
+      <find>get</find>
     </findStrings>
   </component>
 </application>
