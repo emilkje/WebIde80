@@ -21,6 +21,7 @@
       <find>check</find>
       <find>Documentation</find>
       <find>get</find>
+      <find>update</find>
     </findStrings>
   </component>
 </application>
