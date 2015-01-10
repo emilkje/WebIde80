@@ -23,6 +23,7 @@
       <find>get</find>
       <find>update</find>
       <find>save</find>
+      <find>max</find>
     </findStrings>
   </component>
 </application>
