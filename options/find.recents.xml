@@ -24,6 +24,7 @@
       <find>update</find>
       <find>max</find>
       <find>save</find>
+      <find>$q.all</find>
     </findStrings>
   </component>
 </application>
