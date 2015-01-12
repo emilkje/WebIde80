@@ -30,6 +30,7 @@
       <find>get</find>
       <find>usn</find>
       <find>getRemote</find>
+      <find>-1</find>
     </findStrings>
   </component>
 </application>
