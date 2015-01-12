@@ -17,7 +17,6 @@
       <find>prox</find>
       <find>model</find>
       <find>check</find>
-      <find>Documentation</find>
       <find>update</find>
       <find>max</find>
       <find>save</find>
@@ -31,6 +30,7 @@
       <find>-1</find>
       <find>dirty</find>
       <find>Book</find>
+      <find>Documentation</find>
     </findStrings>
   </component>
 </application>
