@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>emplo</find>
       <find>include</find>
       <find>denied</find>
       <find>JSON</find>
@@ -31,6 +30,7 @@
       <find>getRemote</find>
       <find>-1</find>
       <find>dirty</find>
+      <find>Book</find>
     </findStrings>
   </component>
 </application>
