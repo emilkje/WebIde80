@@ -28,6 +28,8 @@
       <find>save(</find>
       <find>id</find>
       <find>get</find>
+      <find>usn</find>
+      <find>getRemote</find>
     </findStrings>
   </component>
 </application>
