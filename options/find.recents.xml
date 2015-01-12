@@ -25,6 +25,7 @@
       <find>max</find>
       <find>save</find>
       <find>$q.all</find>
+      <find>trying</find>
     </findStrings>
   </component>
 </application>
