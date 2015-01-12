@@ -20,13 +20,14 @@
       <find>model</find>
       <find>check</find>
       <find>Documentation</find>
-      <find>get</find>
       <find>update</find>
       <find>max</find>
       <find>save</find>
       <find>$q.all</find>
       <find>trying</find>
       <find>save(</find>
+      <find>id</find>
+      <find>get</find>
     </findStrings>
   </component>
 </application>
