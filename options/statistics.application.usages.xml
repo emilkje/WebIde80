@@ -41,7 +41,7 @@
       <project id="rbase3.0" values="Locale,SourceMap,XML,PLAIN_TEXT,YAML,CSS,JSON,Ini,PHP,HTML,Images,UNKNOWN,JavaScript,SQL" />
       <project id="untitled" values="PHP,UNKNOWN,PLAIN_TEXT,XML" />
       <project id="CWKFoto" values="PHP,UNKNOWN,JSON,XML,PLAIN_TEXT" />
-      <project id="sponsorportalen" values="SQL,Ini,LESS,Images,JSON,DATASOURCE_STORAGE,PHP,JavaScript,CSS,PLAIN_TEXT,UNKNOWN,SmartyConfig,XML" />
+      <project id="sponsorportalen" values="DATASOURCE_STORAGE,LESS,Ini,PHP,XML,Images,CSS,UNKNOWN,SmartyConfig,SQL,PLAIN_TEXT,JavaScript,JSON" />
       <project id="interfacelift" values="UNKNOWN,XML,PLAIN_TEXT,JSON,JavaScript" />
     </group>
     <group name="javaScript Scope Usages">
