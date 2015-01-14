@@ -35,7 +35,7 @@
     </group>
     <group name="file-type">
       <project id="kolsrud" values="YAML,Blade,htaccess,UNKNOWN,JSON,PLAIN_TEXT,XML,PHP,Images" />
-      <project id="ionic-webcadet" values="SASS,Images,LESS,SourceMap,UNKNOWN,PLAIN_TEXT,ARCHIVE,JavaScript,CSS,XML,PHP,HTML,JSON,SCSS" />
+      <project id="ionic-webcadet" values="CSS,Images,JSON,ARCHIVE,PLAIN_TEXT,XML,PHP,SASS,UNKNOWN,LESS,HTML,SCSS,SourceMap,JavaScript" />
       <project id="trunk" values="Locale,SourceMap,YAML,XML,UNKNOWN,Images,JavaScript,PLAIN_TEXT,Ini,CSS,SQL,JSON,Native,SmartyConfig,PHP,HTML" />
       <project id="olkweb3" values="CoffeeScript,PATCH,JSHint,Locale,C++,HTML,UNKNOWN,XML,LESS,Ini,PHP,SQL,JSON,SmartyConfig,YAML,ARCHIVE,PLAIN_TEXT,Images,Native,JavaScript,DTD,CSS" />
       <project id="rbase3.0" values="Locale,SourceMap,XML,PLAIN_TEXT,YAML,CSS,JSON,Ini,PHP,HTML,Images,UNKNOWN,JavaScript,SQL" />
