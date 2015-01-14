@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>JSON</find>
-      <find>json</find>
       <find>canOut</find>
       <find>outputOnl</find>
       <find>$outputOnlyIfCommandLine</find>
@@ -31,6 +29,8 @@
       <find>Documentation</find>
       <find>consol</find>
       <find>dbname</find>
+      <find>select</find>
+      <find>filter</find>
     </findStrings>
   </component>
 </application>
