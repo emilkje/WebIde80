@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>canOut</find>
       <find>outputOnl</find>
       <find>$outputOnlyIfCommandLine</find>
       <find>Conta</find>
@@ -31,6 +30,7 @@
       <find>dbname</find>
       <find>select</find>
       <find>filter</find>
+      <find>getMaxUsn</find>
     </findStrings>
   </component>
 </application>
