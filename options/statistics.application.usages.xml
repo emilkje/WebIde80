@@ -35,7 +35,7 @@
     </group>
     <group name="file-type">
       <project id="kolsrud" values="YAML,Blade,htaccess,UNKNOWN,JSON,PLAIN_TEXT,XML,PHP,Images" />
-      <project id="ionic-webcadet" values="ARCHIVE,PHP,XML,CSS,JSON,SourceMap,Images,JavaScript,HTML,LESS,SASS,UNKNOWN,SCSS,PLAIN_TEXT" />
+      <project id="ionic-webcadet" values="SASS,Images,LESS,SourceMap,UNKNOWN,PLAIN_TEXT,ARCHIVE,JavaScript,CSS,XML,PHP,HTML,JSON,SCSS" />
       <project id="trunk" values="Locale,SourceMap,YAML,XML,UNKNOWN,Images,JavaScript,PLAIN_TEXT,Ini,CSS,SQL,JSON,Native,SmartyConfig,PHP,HTML" />
       <project id="olkweb3" values="CoffeeScript,PATCH,JSHint,Locale,C++,HTML,UNKNOWN,XML,LESS,Ini,PHP,SQL,JSON,SmartyConfig,YAML,ARCHIVE,PLAIN_TEXT,Images,Native,JavaScript,DTD,CSS" />
       <project id="rbase3.0" values="Locale,SourceMap,XML,PLAIN_TEXT,YAML,CSS,JSON,Ini,PHP,HTML,Images,UNKNOWN,JavaScript,SQL" />
@@ -157,7 +157,7 @@
       <entry feature="execute.PhpLocalRunConfigurationType.Run" count="1" />
       <entry feature="execute.PhpWebAppRunConfigurationType.Debug" count="46" />
       <entry feature="execute.js.build_tools.gulp.Debug" count="1" />
-      <entry feature="execute.js.build_tools.gulp.Run" count="72" />
+      <entry feature="execute.js.build_tools.gulp.Run" count="75" />
       <entry feature="ide.settings.Appearance" count="5" />
       <entry feature="ide.settings.CSS" count="4" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="78" />
