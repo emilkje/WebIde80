@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>onErr</find>
       <find>notify</find>
       <find>proxy</find>
       <find>prox</find>
@@ -31,6 +30,7 @@
       <find>created</find>
       <find>importid</find>
       <find>importso</find>
+      <find>Send</find>
     </findStrings>
   </component>
 </application>
