@@ -17,7 +17,6 @@
       <find>dirty</find>
       <find>Book</find>
       <find>Documentation</find>
-      <find>consol</find>
       <find>dbname</find>
       <find>select</find>
       <find>filter</find>
@@ -31,6 +30,7 @@
       <find>edit_</find>
       <find>partnerc</find>
       <find>doc.plani</find>
+      <find>consol</find>
     </findStrings>
   </component>
 </application>
