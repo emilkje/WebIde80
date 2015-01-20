@@ -1,10 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>$outputOnlyIfCommandLine</find>
-      <find>Conta</find>
-      <find>Empl</find>
-      <find>Depar</find>
       <find>onErr</find>
       <find>notify</find>
       <find>proxy</find>
@@ -31,6 +27,10 @@
       <find>filter</find>
       <find>getMaxUsn</find>
       <find>person</find>
+      <find>deleted</find>
+      <find>created</find>
+      <find>importid</find>
+      <find>importso</find>
     </findStrings>
   </component>
 </application>
