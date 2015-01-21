@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>model</find>
-      <find>check</find>
       <find>update</find>
       <find>max</find>
       <find>save</find>
@@ -31,6 +29,8 @@
       <find>partnerc</find>
       <find>doc.plani</find>
       <find>consol</find>
+      <find>spoca</find>
+      <find>userid</find>
     </findStrings>
   </component>
 </application>
