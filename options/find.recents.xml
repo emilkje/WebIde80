@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>max</find>
       <find>save</find>
       <find>$q.all</find>
       <find>trying</find>
@@ -31,6 +30,7 @@
       <find>spoca</find>
       <find>userid</find>
       <find>setDbname</find>
+      <find>formrows.external</find>
     </findStrings>
   </component>
 </application>
