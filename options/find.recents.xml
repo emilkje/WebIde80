@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>Book</find>
       <find>Documentation</find>
       <find>dbname</find>
       <find>select</find>
@@ -31,6 +30,7 @@
       <find>contact(</find>
       <find>table</find>
       <find>urica</find>
+      <find>kontak</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
