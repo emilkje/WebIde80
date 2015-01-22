@@ -61,6 +61,7 @@
     <location key="FileChooserDialogImpl.0.0.1440.900" x="553" y="206" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1440.900" x="212" y="120" />
     <location key="MultipleFileMergeDialog.0.0.1440.900" x="609" y="204" />
+    <location key="git4idea.ui.GitStashDialog.0.0.1440.900" x="691" y="369" />
     <size key="OptionsEditor.0.0.1920.1200" width="1349" height="846" />
     <size key="DiffWindow.0.0.1920.1200" width="677" height="800" />
     <size key="DiffWindow.0.0.1440.900" width="1147" height="674" />
