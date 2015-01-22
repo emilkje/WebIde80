@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>trying</find>
-      <find>save(</find>
       <find>id</find>
       <find>get</find>
       <find>usn</find>
@@ -31,6 +29,8 @@
       <find>formrows.external</find>
       <find>ul</find>
       <find>monthsLef</find>
+      <find>extern</find>
+      <find>externa</find>
     </findStrings>
   </component>
 </application>
