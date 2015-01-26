@@ -5,6 +5,7 @@
       <project id="trunk" values="svn" />
       <project id="olkweb3" values="Git" />
       <project id="rbase3.0" values="svn" />
+      <project id="trysil" values="Git" />
       <project id="sponsorportalen" values="Git" />
       <project id="interfacelift" values="Git" />
     </group>
@@ -19,6 +20,7 @@
       <project id="ionic-webcadet" values="WEB_MODULE" />
       <project id="olkweb3" values="WEB_MODULE" />
       <project id="rbase3.0" values="WEB_MODULE" />
+      <project id="trysil" values="WEB_MODULE" />
       <project id="untitled" values="WEB_MODULE" />
       <project id="CWKFoto" values="WEB_MODULE" />
       <project id="sponsorportalen" values="WEB_MODULE" />
@@ -35,6 +37,7 @@
       <project id="ionic-webcadet" values="JavaScript,CSS,JSON,HTML,SourceMap,SCSS,LESS,PLAIN_TEXT,PHP,XML,UNKNOWN,SASS,Images,ARCHIVE" />
       <project id="olkweb3" values="CoffeeScript,DTD,Images,JavaScript,Ini,C++,XML,Native,UNKNOWN,HTML,ARCHIVE,YAML,PLAIN_TEXT,LESS,PHP,JSON,SQL,Locale,PATCH,SmartyConfig,CSS,JSHint" />
       <project id="rbase3.0" values="JavaScript,CSS,Ini,PLAIN_TEXT,PHP,SourceMap,JSON,HTML,YAML,SQL,Images,UNKNOWN,Locale,XML" />
+      <project id="trysil" values="CoffeeScript,htaccess,HTML,YAML,PHP,Native,LESS,PLAIN_TEXT,Cucumber,Images,C++,JSHint,SQL,PATCH,Ini,CSS,ARCHIVE,JSON,JavaScript,SCSS,UNKNOWN,XML,SmartyConfig,SourceMap" />
       <project id="untitled" values="UNKNOWN,PLAIN_TEXT,PHP,XML" />
       <project id="CWKFoto" values="UNKNOWN,PLAIN_TEXT,PHP,JSON,XML" />
       <project id="sponsorportalen" values="PHP,PLAIN_TEXT,XML,Ini,JavaScript,UNKNOWN,Images,JSON,SQL,SmartyConfig,DATASOURCE_STORAGE,LESS,CSS" />
@@ -50,6 +53,7 @@
       <project id="ionic-webcadet" values="Project,Project" />
       <project id="olkweb3" values="Project,Project" />
       <project id="rbase3.0" values="Project,Project" />
+      <project id="trysil" values="Project,Project" />
       <project id="untitled" values="Project,Project" />
       <project id="CWKFoto" values="Project,Project" />
       <project id="sponsorportalen" values="Project,Project" />
@@ -72,6 +76,7 @@
       <project id="ionic-webcadet" values="1" />
       <project id="olkweb3" values="1" />
       <project id="rbase3.0" values="1" />
+      <project id="trysil" values="1" />
       <project id="untitled" values="1" />
       <project id="CWKFoto" values="1" />
       <project id="sponsorportalen" values="1" />
@@ -83,6 +88,7 @@
       <project id="ionic-webcadet" values="not installed" />
       <project id="olkweb3" values="5.3.28" />
       <project id="rbase3.0" values="not installed" />
+      <project id="trysil" values="not installed" />
       <project id="untitled" values="not installed" />
       <project id="CWKFoto" values="not installed" />
       <project id="sponsorportalen" values="5.3.28" />
@@ -94,6 +100,7 @@
       <project id="ionic-webcadet" values="LOCAL" />
       <project id="olkweb3" values="LOCAL" />
       <project id="rbase3.0" values="LOCAL" />
+      <project id="trysil" values="LOCAL" />
       <project id="untitled" values="LOCAL" />
       <project id="CWKFoto" values="LOCAL" />
       <project id="sponsorportalen" values="LOCAL" />
@@ -105,6 +112,7 @@
       <project id="ionic-webcadet" values="0" />
       <project id="olkweb3" values="1" />
       <project id="rbase3.0" values="0" />
+      <project id="trysil" values="0" />
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="0" />
       <project id="sponsorportalen" values="1" />
@@ -116,6 +124,7 @@
       <project id="ionic-webcadet" values="0" />
       <project id="olkweb3" values="0" />
       <project id="rbase3.0" values="0" />
+      <project id="trysil" values="1" />
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="1" />
       <project id="sponsorportalen" values="4" />
@@ -127,6 +136,7 @@
       <project id="ionic-webcadet" values="DEFAULT" />
       <project id="olkweb3" values="DEFAULT" />
       <project id="rbase3.0" values="DEFAULT" />
+      <project id="trysil" values="DEFAULT" />
       <project id="untitled" values="DEFAULT" />
       <project id="CWKFoto" values="DEFAULT" />
       <project id="sponsorportalen" values="DEFAULT" />
@@ -138,6 +148,7 @@
       <project id="ionic-webcadet" values="0" />
       <project id="olkweb3" values="0" />
       <project id="rbase3.0" values="0" />
+      <project id="trysil" values="0" />
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="0" />
       <project id="sponsorportalen" values="0" />
