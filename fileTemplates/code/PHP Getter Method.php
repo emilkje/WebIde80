@@ -1,7 +1,7 @@
 /**
  * @return ${TYPE_HINT}
  */
-public ${STATIC} function ${NAME}()
+public ${STATIC} function ${FIELD_NAME}()
 {
 #if (${STATIC} == "static")
     return self::$${FIELD_NAME};
