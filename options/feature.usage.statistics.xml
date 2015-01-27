@@ -37,7 +37,7 @@
     <feature id="navigation.popup.file.structure" count="12" last-shown="0" last-used="1414398969145" shown-count="0" />
     <feature id="editing.completion.camelHumps" count="17" last-shown="0" last-used="1421873153739" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="refactoring.rename" count="55" last-shown="0" last-used="1422351284107" shown-count="0" />
+    <feature id="refactoring.rename" count="57" last-shown="0" last-used="1422351322883" shown-count="0" />
     <feature id="codeassists.quickjavadoc" count="3" last-shown="0" last-used="1411650686148" shown-count="0" />
     <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="3" last-shown="1418200723227" last-used="1418200726948" shown-count="2" />
