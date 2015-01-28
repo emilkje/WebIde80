@@ -44,7 +44,7 @@
       <project id="trysil" values="UNKNOWN,PHP,ARCHIVE,SilverStripe,Ini,XML,SCSS,CSS,YAML,Images,PLAIN_TEXT,Cucumber,C++,JSHint,PATCH,SmartyConfig,LESS,JavaScript,JSON,htaccess,SQL,CoffeeScript,HTML,Native,SourceMap" />
       <project id="untitled" values="PHP,UNKNOWN,XML,PLAIN_TEXT" />
       <project id="CWKFoto" values="JSON,PLAIN_TEXT,PHP,UNKNOWN,XML" />
-      <project id="sponsorportalen" values="Ini,XML,PLAIN_TEXT,UNKNOWN,JavaScript,LESS,DATASOURCE_STORAGE,SQL,PHP,Images,JSON,SmartyConfig,CSS" />
+      <project id="sponsorportalen" values="JavaScript,UNKNOWN,Images,JSON,LESS,PHP,PLAIN_TEXT,DATASOURCE_STORAGE,SQL,CSS,Ini,XML,SmartyConfig" />
       <project id="interfacelift" values="UNKNOWN,JavaScript,JSON,XML,PLAIN_TEXT" />
     </group>
     <group name="javaScript Scope Usages">
