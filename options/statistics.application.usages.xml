@@ -7,6 +7,7 @@
       <project id="rbase3.0" values="svn" />
       <project id="trysil" values="Git" />
       <project id="sponsorportalen" values="Git" />
+      <project id="exchange" values="Git" />
       <project id="interfacelift" values="Git" />
     </group>
     <group name="run-configuration-type">
@@ -24,6 +25,7 @@
       <project id="untitled" values="WEB_MODULE" />
       <project id="CWKFoto" values="WEB_MODULE" />
       <project id="sponsorportalen" values="WEB_MODULE" />
+      <project id="exchange" values="WEB_MODULE" />
       <project id="interfacelift" values="WEB_MODULE" />
     </group>
     <group name="php-server-debug-ext">
@@ -45,6 +47,7 @@
       <project id="untitled" values="PHP,UNKNOWN,XML,PLAIN_TEXT" />
       <project id="CWKFoto" values="JSON,PLAIN_TEXT,PHP,UNKNOWN,XML" />
       <project id="sponsorportalen" values="JavaScript,UNKNOWN,Images,JSON,LESS,PHP,PLAIN_TEXT,DATASOURCE_STORAGE,SQL,CSS,Ini,XML,SmartyConfig" />
+      <project id="exchange" values="Images,CSS,PLAIN_TEXT,JavaScript,SQL,PHP,XML,SCSS,Twig,htaccess,UNKNOWN,JSON" />
       <project id="interfacelift" values="UNKNOWN,JavaScript,JSON,XML,PLAIN_TEXT" />
     </group>
     <group name="javaScript Scope Usages">
@@ -57,6 +60,7 @@
       <project id="untitled" values="Project,Project" />
       <project id="CWKFoto" values="Project,Project" />
       <project id="sponsorportalen" values="Project,Project" />
+      <project id="exchange" values="Project,Project" />
       <project id="interfacelift" values="Project,Project" />
     </group>
     <group name="php-interpreter-debug-ext">
@@ -80,6 +84,7 @@
       <project id="untitled" values="1" />
       <project id="CWKFoto" values="1" />
       <project id="sponsorportalen" values="1" />
+      <project id="exchange" values="1" />
       <project id="interfacelift" values="1" />
     </group>
     <group name="php-interpreter-version">
@@ -92,6 +97,7 @@
       <project id="untitled" values="not installed" />
       <project id="CWKFoto" values="not installed" />
       <project id="sponsorportalen" values="5.3.28" />
+      <project id="exchange" values="not installed" />
       <project id="interfacelift" values="not installed" />
     </group>
     <group name="deployment server">
@@ -104,6 +110,7 @@
       <project id="untitled" values="LOCAL" />
       <project id="CWKFoto" values="LOCAL" />
       <project id="sponsorportalen" values="LOCAL" />
+      <project id="exchange" values="LOCAL" />
       <project id="interfacelift" values="LOCAL" />
     </group>
     <group name="php-servers">
@@ -116,6 +123,7 @@
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="0" />
       <project id="sponsorportalen" values="1" />
+      <project id="exchange" values="0" />
       <project id="interfacelift" values="0" />
     </group>
     <group name="php-include-path">
@@ -128,6 +136,7 @@
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="1" />
       <project id="sponsorportalen" values="4" />
+      <project id="exchange" values="0" />
       <project id="interfacelift" values="0" />
     </group>
     <group name="JavaScript versions">
@@ -140,6 +149,7 @@
       <project id="untitled" values="DEFAULT" />
       <project id="CWKFoto" values="DEFAULT" />
       <project id="sponsorportalen" values="DEFAULT" />
+      <project id="exchange" values="DEFAULT" />
       <project id="interfacelift" values="DEFAULT" />
     </group>
     <group name="php-debug-skipped-paths">
@@ -152,6 +162,7 @@
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="0" />
       <project id="sponsorportalen" values="0" />
+      <project id="exchange" values="0" />
       <project id="interfacelift" values="0" />
     </group>
     <group name="jdbc-driver">
