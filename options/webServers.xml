@@ -16,6 +16,9 @@
       <webServer id="6fa6adf3-84ac-4947-8bfb-f7034ed4ea9b" name="Trysil" url="http://trysil.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="eb4d7b29-64b1-49ef-80d4-dc19d8fce3f0" name="exchange.dev" url="http://exchange.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
