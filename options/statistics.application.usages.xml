@@ -47,7 +47,7 @@
       <project id="untitled" values="PHP,UNKNOWN,XML,PLAIN_TEXT" />
       <project id="CWKFoto" values="JSON,PLAIN_TEXT,PHP,UNKNOWN,XML" />
       <project id="sponsorportalen" values="JavaScript,UNKNOWN,Images,JSON,LESS,PHP,PLAIN_TEXT,DATASOURCE_STORAGE,SQL,CSS,Ini,XML,SmartyConfig" />
-      <project id="exchange" values="Images,CSS,PLAIN_TEXT,JavaScript,SQL,PHP,XML,SCSS,Twig,htaccess,UNKNOWN,JSON" />
+      <project id="exchange" values="PHP,XML,UNKNOWN,PLAIN_TEXT,YAML" />
       <project id="interfacelift" values="UNKNOWN,JavaScript,JSON,XML,PLAIN_TEXT" />
     </group>
     <group name="javaScript Scope Usages">
