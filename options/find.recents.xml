@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>getMaxUsn</find>
       <find>person</find>
       <find>deleted</find>
       <find>created</find>
@@ -31,6 +30,7 @@
       <find>Spoavtale</find>
       <find>seksj</find>
       <find>element</find>
+      <find>date</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
