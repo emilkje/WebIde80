@@ -20,7 +20,7 @@
     <feature id="editing.completion.replace" count="7" last-shown="0" last-used="1421081367703" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="3869" last-shown="0" last-used="1422531765650" shown-count="0" />
+    <feature id="editing.select.word" count="3870" last-shown="0" last-used="1422535803344" shown-count="0" />
     <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="43" last-shown="0" last-used="1421223612985" shown-count="0" />
     <feature id="codeassists.comment.block" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -28,7 +28,7 @@
     <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.declaration" count="264" last-shown="0" last-used="1422529876606" shown-count="0" />
     <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="2763" last-shown="0" last-used="1422531575559" shown-count="0" />
+    <feature id="editing.completion.basic" count="2776" last-shown="0" last-used="1422535855683" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="5" last-shown="0" last-used="1411999203975" shown-count="0" />
     <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -42,8 +42,8 @@
     <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="3" last-shown="1418200723227" last-used="1418200726948" shown-count="2" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="12267" />
-      <option name="invocations" value="1815" />
+      <option name="sparedCharacters" value="12343" />
+      <option name="invocations" value="1827" />
       <option name="startDate" value="1411423200000" />
       <option name="dayCount" value="54" />
       <option name="lastDate" value="1422486000000" />
