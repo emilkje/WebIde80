@@ -1,6 +1,6 @@
 <application>
   <component name="DimensionService">
-    <location key="WELCOME_SCREEN.0.0.1920.1200" x="959" y="300" />
+    <location key="WELCOME_SCREEN.0.0.1920.1200" x="960" y="300" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1200" x="678" y="435" />
     <location key="OptionsEditor.0.0.1920.1200" x="571" y="94" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1200" x="525" y="309" />
@@ -82,10 +82,10 @@
     <size key="StructurePopup.0.0.2560.1440" width="454" height="441" />
     <size key="DiffWindow.0.0.2560.1440" width="1246" height="1209" />
     <size key="XDebugger.FullValuePopup.0.0.2560.1440" width="632" height="704" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1200" width="813" height="435" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1200" width="813" height="435" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1200" width="813" height="435" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1200" width="813" height="435" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1200" width="1427" height="254" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1200" width="1427" height="254" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1200" width="1427" height="254" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1200" width="1427" height="254" />
     <size key="GridCell.Tab.1.left.0.0.1920.1200" width="813" height="435" />
     <size key="GridCell.Tab.1.center.0.0.1920.1200" width="813" height="435" />
     <size key="GridCell.Tab.1.right.0.0.1920.1200" width="813" height="435" />
