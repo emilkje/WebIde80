@@ -40,7 +40,7 @@
     <group name="file-type">
       <project id="kolsrud" values="htaccess,Images,PHP,XML,PLAIN_TEXT,JSON,YAML,UNKNOWN,Blade" />
       <project id="ionic-webcadet" values="XML,ARCHIVE,PLAIN_TEXT,HTML,CSS,JavaScript,PHP,SASS,SCSS,UNKNOWN,JSON,LESS,Images,SourceMap" />
-      <project id="trunk" values="Ini,SourceMap,PHP,HTML,JSON,SmartyConfig,UNKNOWN,Locale,Native,SQL,YAML,PLAIN_TEXT,XML,Images,CSS,JavaScript" />
+      <project id="trunk" values="Locale,Images,YAML,XML,PLAIN_TEXT,UNKNOWN,JSON,Native,PHP,SQL,SmartyConfig,SourceMap,JavaScript,Ini,CSS,HTML" />
       <project id="olkweb3" values="JSON,Ini,LESS,XML,UNKNOWN,SmartyConfig,JavaScript,Locale,Native,PLAIN_TEXT,ARCHIVE,Images,CSS,PHP,CoffeeScript,PATCH,HTML,SQL,JSHint,DTD,C++,YAML" />
       <project id="rbase3.0" values="SourceMap,JavaScript,CSS,Locale,HTML,Ini,XML,PHP,Images,SQL,UNKNOWN,PLAIN_TEXT,YAML,JSON" />
       <project id="trysil" values="UNKNOWN,PHP,ARCHIVE,SilverStripe,Ini,XML,SCSS,CSS,YAML,Images,PLAIN_TEXT,Cucumber,C++,JSHint,PATCH,SmartyConfig,LESS,JavaScript,JSON,htaccess,SQL,CoffeeScript,HTML,Native,SourceMap" />
