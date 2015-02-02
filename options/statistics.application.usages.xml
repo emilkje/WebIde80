@@ -1,14 +1,67 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="vcs">
-      <project id="trunk" values="svn" />
       <project id="ionic-webcadet" values="Git" />
+      <project id="trunk" values="svn" />
       <project id="olkweb3" values="Git" />
       <project id="rbase3.0" values="svn" />
       <project id="trysil" values="Git" />
       <project id="sponsorportalen" values="Git" />
-      <project id="exchange" values="Git" />
       <project id="interfacelift" values="Git" />
+      <project id="exchange" values="Git" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="trunk" values="PhpWebAppRunConfigurationType" />
+      <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
+      <project id="sponsorportalen" values="PhpWebAppRunConfigurationType" />
+    </group>
+    <group name="module type">
+      <project id="kolsrud" values="WEB_MODULE" />
+      <project id="trunk" values="WEB_MODULE" />
+      <project id="ionic-webcadet" values="WEB_MODULE" />
+      <project id="olkweb3" values="WEB_MODULE" />
+      <project id="rbase3.0" values="WEB_MODULE" />
+      <project id="trysil" values="WEB_MODULE" />
+      <project id="untitled" values="WEB_MODULE" />
+      <project id="CWKFoto" values="WEB_MODULE" />
+      <project id="sponsorportalen" values="WEB_MODULE" />
+      <project id="interfacelift" values="WEB_MODULE" />
+      <project id="exchange" values="WEB_MODULE" />
+    </group>
+    <group name="php-server-debug-ext">
+      <project id="trunk" values="xdebug" />
+      <project id="olkweb3" values="xdebug" />
+      <project id="sponsorportalen" values="xdebug" />
+    </group>
+    <group name="file-type">
+      <project id="kolsrud" values="PHP,Images,UNKNOWN,JSON,PLAIN_TEXT,htaccess,YAML,Blade,XML" />
+      <project id="trunk" values="PHP,YAML,JavaScript,JSON,Images,XML,SmartyConfig,HTML,SQL,Ini,SourceMap,Locale,Native,PLAIN_TEXT,CSS,UNKNOWN" />
+      <project id="ionic-webcadet" values="PLAIN_TEXT,LESS,UNKNOWN,SASS,ARCHIVE,SourceMap,XML,PHP,HTML,Images,JavaScript,JSON,SCSS,CSS" />
+      <project id="olkweb3" values="JSON,DTD,CoffeeScript,LESS,SmartyConfig,Native,C++,PHP,YAML,Ini,JSHint,HTML,UNKNOWN,JavaScript,SQL,CSS,PATCH,PLAIN_TEXT,Images,Locale,XML,ARCHIVE" />
+      <project id="rbase3.0" values="Ini,HTML,YAML,Images,CSS,UNKNOWN,SQL,XML,JavaScript,Locale,PHP,JSON,PLAIN_TEXT,SourceMap" />
+      <project id="trysil" values="PLAIN_TEXT,JSON,CSS,HTML,Cucumber,Images,JavaScript,Native,XML,LESS,CoffeeScript,SCSS,YAML,htaccess,SourceMap,JSHint,ARCHIVE,UNKNOWN,PHP,PATCH,SmartyConfig,Ini,SilverStripe,SQL,C++" />
+      <project id="untitled" values="UNKNOWN,PHP,PLAIN_TEXT,XML" />
+      <project id="CWKFoto" values="PLAIN_TEXT,UNKNOWN,XML,PHP,JSON" />
+      <project id="sponsorportalen" values="SmartyConfig,PHP,UNKNOWN,XML,JavaScript,Ini,CSS,Images,LESS,PLAIN_TEXT,DATASOURCE_STORAGE,JSON,SQL" />
+      <project id="interfacelift" values="JavaScript,PLAIN_TEXT,JSON,UNKNOWN,XML" />
+      <project id="exchange" values="PHP,YAML,UNKNOWN,XML,PLAIN_TEXT" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="ionic-webcadet" values="js.build_tools.gulp" />
+      <project id="sponsorportalen" values="js.build_tools.gulp" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="kolsrud" values="Project,Project" />
+      <project id="trunk" values="Project,Project" />
+      <project id="ionic-webcadet" values="Project,Project" />
+      <project id="olkweb3" values="Project,Project" />
+      <project id="rbase3.0" values="Project,Project" />
+      <project id="trysil" values="Project,Project" />
+      <project id="untitled" values="Project,Project" />
+      <project id="CWKFoto" values="Project,Project" />
+      <project id="sponsorportalen" values="Project,Project" />
+      <project id="interfacelift" values="Project,Project" />
+      <project id="exchange" values="Project,Project" />
     </group>
     <group name="php-interpreter-debug-ext">
       <project id="olkweb3" values="xdebug" />
@@ -23,150 +76,97 @@
     </group>
     <group name="php-interpreters">
       <project id="kolsrud" values="1" />
-      <project id="ionic-webcadet" values="1" />
       <project id="trunk" values="1" />
+      <project id="ionic-webcadet" values="1" />
       <project id="olkweb3" values="1" />
       <project id="rbase3.0" values="1" />
       <project id="trysil" values="1" />
       <project id="untitled" values="1" />
       <project id="CWKFoto" values="1" />
       <project id="sponsorportalen" values="1" />
-      <project id="exchange" values="1" />
       <project id="interfacelift" values="1" />
+      <project id="exchange" values="1" />
     </group>
     <group name="php-interpreter-version">
       <project id="kolsrud" values="not installed" />
-      <project id="ionic-webcadet" values="not installed" />
       <project id="trunk" values="not installed" />
+      <project id="ionic-webcadet" values="not installed" />
       <project id="olkweb3" values="5.3.28" />
       <project id="rbase3.0" values="not installed" />
       <project id="trysil" values="not installed" />
       <project id="untitled" values="not installed" />
       <project id="CWKFoto" values="not installed" />
       <project id="sponsorportalen" values="5.3.28" />
-      <project id="exchange" values="not installed" />
       <project id="interfacelift" values="not installed" />
-    </group>
-    <group name="run-configuration-type">
-      <project id="trunk" values="PhpWebAppRunConfigurationType" />
-      <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
-      <project id="sponsorportalen" values="PhpWebAppRunConfigurationType" />
-    </group>
-    <group name="module type">
-      <project id="kolsrud" values="WEB_MODULE" />
-      <project id="ionic-webcadet" values="WEB_MODULE" />
-      <project id="trunk" values="WEB_MODULE" />
-      <project id="olkweb3" values="WEB_MODULE" />
-      <project id="rbase3.0" values="WEB_MODULE" />
-      <project id="trysil" values="WEB_MODULE" />
-      <project id="untitled" values="WEB_MODULE" />
-      <project id="CWKFoto" values="WEB_MODULE" />
-      <project id="sponsorportalen" values="WEB_MODULE" />
-      <project id="exchange" values="WEB_MODULE" />
-      <project id="interfacelift" values="WEB_MODULE" />
+      <project id="exchange" values="not installed" />
     </group>
     <group name="deployment server">
       <project id="kolsrud" values="LOCAL" />
-      <project id="ionic-webcadet" values="LOCAL" />
       <project id="trunk" values="LOCAL" />
+      <project id="ionic-webcadet" values="LOCAL" />
       <project id="olkweb3" values="LOCAL" />
       <project id="rbase3.0" values="LOCAL" />
       <project id="trysil" values="LOCAL" />
       <project id="untitled" values="LOCAL" />
       <project id="CWKFoto" values="LOCAL" />
       <project id="sponsorportalen" values="LOCAL" />
-      <project id="exchange" values="LOCAL" />
       <project id="interfacelift" values="LOCAL" />
+      <project id="exchange" values="LOCAL" />
     </group>
     <group name="php-servers">
       <project id="kolsrud" values="0" />
-      <project id="ionic-webcadet" values="0" />
       <project id="trunk" values="1" />
+      <project id="ionic-webcadet" values="0" />
       <project id="olkweb3" values="1" />
       <project id="rbase3.0" values="0" />
       <project id="trysil" values="0" />
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="0" />
       <project id="sponsorportalen" values="1" />
-      <project id="exchange" values="0" />
       <project id="interfacelift" values="0" />
+      <project id="exchange" values="0" />
     </group>
     <group name="php-include-path">
       <project id="kolsrud" values="0" />
-      <project id="ionic-webcadet" values="0" />
       <project id="trunk" values="0" />
+      <project id="ionic-webcadet" values="0" />
       <project id="olkweb3" values="0" />
       <project id="rbase3.0" values="0" />
       <project id="trysil" values="1" />
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="1" />
       <project id="sponsorportalen" values="4" />
-      <project id="exchange" values="0" />
       <project id="interfacelift" values="0" />
-    </group>
-    <group name="php-server-debug-ext">
-      <project id="trunk" values="xdebug" />
-      <project id="olkweb3" values="xdebug" />
-      <project id="sponsorportalen" values="xdebug" />
-    </group>
-    <group name="file-type">
-      <project id="kolsrud" values="PHP,UNKNOWN,YAML,Images,Blade,htaccess,XML,PLAIN_TEXT,JSON" />
-      <project id="ionic-webcadet" values="SCSS,Images,CSS,SourceMap,XML,PHP,JavaScript,SASS,PLAIN_TEXT,JSON,HTML,ARCHIVE,LESS,UNKNOWN" />
-      <project id="trunk" values="JavaScript,Native,JSON,PHP,YAML,SmartyConfig,SQL,Ini,Locale,HTML,SourceMap,PLAIN_TEXT,CSS,Images,UNKNOWN,XML" />
-      <project id="olkweb3" values="JavaScript,ARCHIVE,YAML,Ini,CSS,SQL,SmartyConfig,HTML,PATCH,Images,JSHint,UNKNOWN,C++,Native,XML,LESS,DTD,CoffeeScript,Locale,PHP,JSON,PLAIN_TEXT" />
-      <project id="rbase3.0" values="PHP,Ini,UNKNOWN,SQL,JSON,HTML,CSS,XML,YAML,Locale,SourceMap,Images,JavaScript,PLAIN_TEXT" />
-      <project id="trysil" values="SQL,LESS,CoffeeScript,XML,SmartyConfig,JSON,Images,PATCH,PHP,Cucumber,Ini,Native,JavaScript,CSS,C++,JSHint,YAML,UNKNOWN,ARCHIVE,HTML,htaccess,SCSS,PLAIN_TEXT,SilverStripe,SourceMap" />
-      <project id="untitled" values="PHP,XML,UNKNOWN,PLAIN_TEXT" />
-      <project id="CWKFoto" values="PHP,XML,JSON,PLAIN_TEXT,UNKNOWN" />
-      <project id="sponsorportalen" values="Ini,CSS,PLAIN_TEXT,DATASOURCE_STORAGE,JSON,SQL,LESS,UNKNOWN,JavaScript,PHP,Images,XML,SmartyConfig" />
-      <project id="exchange" values="PHP,YAML,XML,UNKNOWN,PLAIN_TEXT" />
-      <project id="interfacelift" values="XML,JavaScript,JSON,UNKNOWN,PLAIN_TEXT" />
-    </group>
-    <group name="run-configuration-type-temp">
-      <project id="ionic-webcadet" values="js.build_tools.gulp" />
-      <project id="sponsorportalen" values="js.build_tools.gulp" />
+      <project id="exchange" values="0" />
     </group>
     <group name="jdbc-driver">
       <project id="sponsorportalen" values="com.mysql.jdbc.Driver" />
     </group>
     <group name="php-debug-skipped-paths">
       <project id="kolsrud" values="0" />
-      <project id="ionic-webcadet" values="0" />
       <project id="trunk" values="0" />
+      <project id="ionic-webcadet" values="0" />
       <project id="olkweb3" values="0" />
       <project id="rbase3.0" values="0" />
       <project id="trysil" values="0" />
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="0" />
       <project id="sponsorportalen" values="0" />
-      <project id="exchange" values="0" />
       <project id="interfacelift" values="0" />
+      <project id="exchange" values="0" />
     </group>
     <group name="JavaScript versions">
       <project id="kolsrud" values="DEFAULT" />
-      <project id="ionic-webcadet" values="DEFAULT" />
       <project id="trunk" values="DEFAULT" />
+      <project id="ionic-webcadet" values="DEFAULT" />
       <project id="olkweb3" values="DEFAULT" />
       <project id="rbase3.0" values="DEFAULT" />
       <project id="trysil" values="DEFAULT" />
       <project id="untitled" values="DEFAULT" />
       <project id="CWKFoto" values="DEFAULT" />
       <project id="sponsorportalen" values="DEFAULT" />
-      <project id="exchange" values="DEFAULT" />
       <project id="interfacelift" values="DEFAULT" />
-    </group>
-    <group name="javaScript Scope Usages">
-      <project id="kolsrud" values="Project,Project" />
-      <project id="ionic-webcadet" values="Project,Project" />
-      <project id="trunk" values="Project,Project" />
-      <project id="olkweb3" values="Project,Project" />
-      <project id="rbase3.0" values="Project,Project" />
-      <project id="trysil" values="Project,Project" />
-      <project id="untitled" values="Project,Project" />
-      <project id="CWKFoto" values="Project,Project" />
-      <project id="sponsorportalen" values="Project,Project" />
-      <project id="exchange" values="Project,Project" />
-      <project id="interfacelift" values="Project,Project" />
+      <project id="exchange" values="DEFAULT" />
     </group>
   </component>
   <component name="UsageTrigger">
@@ -208,7 +208,7 @@
       <entry feature="ide.settings.Spelling" count="1" />
       <entry feature="ide.settings.Vagrant" count="1" />
       <entry feature="ide.settings.Version_Control" count="1" />
-      <entry feature="ideaapp.started" count="35" />
+      <entry feature="ideaapp.started" count="36" />
       <entry feature="uml.ShowDiagram.DIFF.popup" count="1" />
     </counts>
   </component>
