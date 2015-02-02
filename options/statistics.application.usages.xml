@@ -22,6 +22,7 @@
       <project id="olkweb3" values="WEB_MODULE" />
       <project id="rbase3.0" values="WEB_MODULE" />
       <project id="trysil" values="WEB_MODULE" />
+      <project id="ssadmin" values="WEB_MODULE" />
       <project id="untitled" values="WEB_MODULE" />
       <project id="CWKFoto" values="WEB_MODULE" />
       <project id="sponsorportalen" values="WEB_MODULE" />
@@ -40,6 +41,7 @@
       <project id="olkweb3" values="JSON,DTD,CoffeeScript,LESS,SmartyConfig,Native,C++,PHP,YAML,Ini,JSHint,HTML,UNKNOWN,JavaScript,SQL,CSS,PATCH,PLAIN_TEXT,Images,Locale,XML,ARCHIVE" />
       <project id="rbase3.0" values="Ini,HTML,YAML,Images,CSS,UNKNOWN,SQL,XML,JavaScript,Locale,PHP,JSON,PLAIN_TEXT,SourceMap" />
       <project id="trysil" values="PLAIN_TEXT,JSON,CSS,HTML,Cucumber,Images,JavaScript,Native,XML,LESS,CoffeeScript,SCSS,YAML,htaccess,SourceMap,JSHint,ARCHIVE,UNKNOWN,PHP,PATCH,SmartyConfig,Ini,SilverStripe,SQL,C++" />
+      <project id="ssadmin" values="CSS,PHP,XML,JSON,ARCHIVE,ReST,YAML,UNKNOWN,JavaScript,PLAIN_TEXT" />
       <project id="untitled" values="UNKNOWN,PHP,PLAIN_TEXT,XML" />
       <project id="CWKFoto" values="PLAIN_TEXT,UNKNOWN,XML,PHP,JSON" />
       <project id="sponsorportalen" values="SmartyConfig,PHP,UNKNOWN,XML,JavaScript,Ini,CSS,Images,LESS,PLAIN_TEXT,DATASOURCE_STORAGE,JSON,SQL" />
@@ -57,6 +59,7 @@
       <project id="olkweb3" values="Project,Project" />
       <project id="rbase3.0" values="Project,Project" />
       <project id="trysil" values="Project,Project" />
+      <project id="ssadmin" values="Project,Project" />
       <project id="untitled" values="Project,Project" />
       <project id="CWKFoto" values="Project,Project" />
       <project id="sponsorportalen" values="Project,Project" />
@@ -81,6 +84,7 @@
       <project id="olkweb3" values="1" />
       <project id="rbase3.0" values="1" />
       <project id="trysil" values="1" />
+      <project id="ssadmin" values="1" />
       <project id="untitled" values="1" />
       <project id="CWKFoto" values="1" />
       <project id="sponsorportalen" values="1" />
@@ -94,6 +98,7 @@
       <project id="olkweb3" values="5.3.28" />
       <project id="rbase3.0" values="not installed" />
       <project id="trysil" values="not installed" />
+      <project id="ssadmin" values="not installed" />
       <project id="untitled" values="not installed" />
       <project id="CWKFoto" values="not installed" />
       <project id="sponsorportalen" values="5.3.28" />
@@ -107,6 +112,7 @@
       <project id="olkweb3" values="LOCAL" />
       <project id="rbase3.0" values="LOCAL" />
       <project id="trysil" values="LOCAL" />
+      <project id="ssadmin" values="LOCAL" />
       <project id="untitled" values="LOCAL" />
       <project id="CWKFoto" values="LOCAL" />
       <project id="sponsorportalen" values="LOCAL" />
@@ -120,6 +126,7 @@
       <project id="olkweb3" values="1" />
       <project id="rbase3.0" values="0" />
       <project id="trysil" values="0" />
+      <project id="ssadmin" values="0" />
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="0" />
       <project id="sponsorportalen" values="1" />
@@ -133,6 +140,7 @@
       <project id="olkweb3" values="0" />
       <project id="rbase3.0" values="0" />
       <project id="trysil" values="1" />
+      <project id="ssadmin" values="0" />
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="1" />
       <project id="sponsorportalen" values="4" />
@@ -149,6 +157,7 @@
       <project id="olkweb3" values="0" />
       <project id="rbase3.0" values="0" />
       <project id="trysil" values="0" />
+      <project id="ssadmin" values="0" />
       <project id="untitled" values="0" />
       <project id="CWKFoto" values="0" />
       <project id="sponsorportalen" values="0" />
@@ -162,6 +171,7 @@
       <project id="olkweb3" values="DEFAULT" />
       <project id="rbase3.0" values="DEFAULT" />
       <project id="trysil" values="DEFAULT" />
+      <project id="ssadmin" values="DEFAULT" />
       <project id="untitled" values="DEFAULT" />
       <project id="CWKFoto" values="DEFAULT" />
       <project id="sponsorportalen" values="DEFAULT" />
