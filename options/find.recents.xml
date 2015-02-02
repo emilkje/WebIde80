@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>importso</find>
       <find>Send</find>
       <find>edit_</find>
       <find>partnerc</find>
@@ -30,6 +29,7 @@
       <find>utiliza</find>
       <find>overlay-content index-content</find>
       <find>sync</find>
+      <find>cordov</find>
       <find>status</find>
     </findStrings>
     <dirStrings>
