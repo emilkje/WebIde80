@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>created</find>
       <find>importid</find>
       <find>importso</find>
       <find>Send</find>
@@ -31,6 +30,7 @@
       <find>date</find>
       <find>utiliza</find>
       <find>overlay-content index-content</find>
+      <find>sync</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
