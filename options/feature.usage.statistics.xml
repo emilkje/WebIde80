@@ -20,15 +20,15 @@
     <feature id="editing.completion.replace" count="7" last-shown="0" last-used="1421081367703" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="4108" last-shown="0" last-used="1423070968414" shown-count="0" />
+    <feature id="editing.select.word" count="4111" last-shown="0" last-used="1423071114713" shown-count="0" />
     <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="43" last-shown="0" last-used="1421223612985" shown-count="0" />
     <feature id="codeassists.comment.block" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.class" count="25" last-shown="0" last-used="1411548021117" shown-count="0" />
     <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="277" last-shown="0" last-used="1423066709005" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="281" last-shown="0" last-used="1423071529122" shown-count="0" />
     <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="3154" last-shown="0" last-used="1423067389890" shown-count="0" />
+    <feature id="editing.completion.basic" count="3155" last-shown="0" last-used="1423071308458" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="5" last-shown="0" last-used="1411999203975" shown-count="0" />
     <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -42,8 +42,8 @@
     <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="3" last-shown="1418200723227" last-used="1418200726948" shown-count="2" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="14282" />
-      <option name="invocations" value="2143" />
+      <option name="sparedCharacters" value="14288" />
+      <option name="invocations" value="2144" />
       <option name="startDate" value="1411423200000" />
       <option name="dayCount" value="58" />
       <option name="lastDate" value="1423004400000" />
