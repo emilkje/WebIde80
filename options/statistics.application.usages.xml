@@ -48,7 +48,7 @@
       <project id="untitled" values="PLAIN_TEXT,UNKNOWN,PHP,XML" />
       <project id="ssadmin" values="ReST,PHP,YAML,XML,JSON,CSS,UNKNOWN,PLAIN_TEXT,ARCHIVE,JavaScript" />
       <project id="CWKFoto" values="JSON,PLAIN_TEXT,PHP,UNKNOWN,XML" />
-      <project id="sponsorportalen" values="JSON,Ini,PLAIN_TEXT,SQL,Images,CSS,UNKNOWN,SmartyConfig,JavaScript,LESS,PHP,XML,DATASOURCE_STORAGE" />
+      <project id="sponsorportalen" values="JavaScript,SQL,Images,PHP,CSS,PLAIN_TEXT,SmartyConfig,JSON,LESS,UNKNOWN,XML,DATASOURCE_STORAGE,SCSS,Ini" />
       <project id="exchange" values="XML,UNKNOWN,YAML,PLAIN_TEXT,PHP" />
       <project id="interfacelift" values="UNKNOWN,XML,PLAIN_TEXT,JavaScript,JSON" />
     </group>
