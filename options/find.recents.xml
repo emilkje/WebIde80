@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>spoca</find>
       <find>userid</find>
       <find>setDbname</find>
       <find>formrows.external</find>
@@ -31,6 +30,7 @@
       <find>statusAs</find>
       <find>modal</find>
       <find>clearfi</find>
+      <find>foot</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
