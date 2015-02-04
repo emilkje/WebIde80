@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>setDbname</find>
       <find>formrows.external</find>
       <find>ul</find>
       <find>monthsLef</find>
@@ -31,6 +30,7 @@
       <find>clearfi</find>
       <find>foot</find>
       <find>user</find>
+      <find>amountAs</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
