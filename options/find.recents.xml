@@ -24,13 +24,13 @@
       <find>cordov</find>
       <find>status</find>
       <find>spo</find>
-      <find>amount</find>
       <find>statusAs</find>
       <find>modal</find>
       <find>clearfi</find>
       <find>foot</find>
       <find>user</find>
       <find>amountAs</find>
+      <find>amount</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
