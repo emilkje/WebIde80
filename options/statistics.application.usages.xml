@@ -6,7 +6,6 @@
       <project id="olkweb3" values="Git" />
       <project id="rbase3.0" values="svn" />
       <project id="trysil" values="Git" />
-      <project id="ssadmin" values="Git" />
       <project id="sponsorportalen" values="Git" />
       <project id="exchange" values="Git" />
       <project id="interfacelift" values="Git" />
@@ -47,7 +46,7 @@
       <project id="rbase3.0" values="XML,Locale,JSON,Ini,YAML,UNKNOWN,CSS,SQL,SourceMap,PHP,PLAIN_TEXT,JavaScript,HTML,Images" />
       <project id="trysil" values="ARCHIVE,SilverStripe,CSS,Cucumber,SourceMap,PHP,SmartyConfig,Native,PLAIN_TEXT,Ini,CoffeeScript,LESS,Images,JavaScript,SCSS,JSON,C++,PATCH,SQL,JSHint,XML,UNKNOWN,htaccess,HTML,YAML" />
       <project id="untitled" values="PLAIN_TEXT,UNKNOWN,PHP,XML" />
-      <project id="ssadmin" values="PHP,XML,JSON,PLAIN_TEXT,JavaScript,ARCHIVE,CSS,UNKNOWN,YAML,ReST" />
+      <project id="ssadmin" values="JavaScript,LESS,Images,YAML,UNKNOWN,PHP,HTML,Cucumber,ReST,JSON,XML,TypeScript,ARCHIVE,PLAIN_TEXT,Blade,htaccess,Ini,CSS,C++,Locale" />
       <project id="CWKFoto" values="JSON,PLAIN_TEXT,PHP,UNKNOWN,XML" />
       <project id="sponsorportalen" values="JavaScript,SQL,Images,PHP,CSS,PLAIN_TEXT,SmartyConfig,JSON,LESS,UNKNOWN,XML,DATASOURCE_STORAGE,SCSS,Ini" />
       <project id="exchange" values="XML,UNKNOWN,YAML,PLAIN_TEXT,PHP" />
