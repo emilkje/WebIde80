@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>table</find>
       <find>urica</find>
       <find>kontak</find>
       <find>kontaktper</find>
@@ -31,6 +30,7 @@
       <find>usn</find>
       <find>Usn</find>
       <find>syncBy</find>
+      <find>Remote</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
