@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>seksj</find>
       <find>element</find>
       <find>date</find>
       <find>utiliza</find>
@@ -31,6 +30,7 @@
       <find>console.log</find>
       <find>logU</find>
       <find>froa</find>
+      <find>only</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
