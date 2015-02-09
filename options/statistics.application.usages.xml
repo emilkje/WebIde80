@@ -35,12 +35,11 @@
       <project id="sponsorportalen" values="xdebug" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="ionic-webcadet" values="js.build_tools.gulp" />
       <project id="sponsorportalen" values="js.build_tools.gulp,JavascriptDebugType" />
     </group>
     <group name="file-type">
       <project id="kolsrud" values="htaccess,JSON,Images,YAML,PHP,UNKNOWN,XML,Blade,PLAIN_TEXT" />
-      <project id="ionic-webcadet" values="PHP,JavaScript,SASS,UNKNOWN,ARCHIVE,PLAIN_TEXT,XML,JSON,SCSS,HTML,SourceMap,CSS,Images,LESS" />
+      <project id="ionic-webcadet" values="ARCHIVE,JavaScript,TypeScript,SCSS,JSON,HTML,SASS,SourceMap,LESS,C++,Images,C#,CSS,UNKNOWN,XML,PLAIN_TEXT" />
       <project id="trunk" values="YAML,Ini,UNKNOWN,XML,PLAIN_TEXT,SmartyConfig,PHP,CSS,SourceMap,JSON,SQL,HTML,Locale,Native,Images,JavaScript" />
       <project id="olkweb3" values="JSON,SQL,LESS,C++,PLAIN_TEXT,Images,DTD,PATCH,JavaScript,CSS,ARCHIVE,XML,CoffeeScript,PHP,UNKNOWN,Locale,JSHint,HTML,SmartyConfig,YAML,Ini,Native" />
       <project id="rbase3.0" values="XML,Locale,JSON,Ini,YAML,UNKNOWN,CSS,SQL,SourceMap,PHP,PLAIN_TEXT,JavaScript,HTML,Images" />
