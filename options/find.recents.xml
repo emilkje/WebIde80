@@ -4,7 +4,6 @@
       <find>amount</find>
       <find>rejec</find>
       <find>edit</find>
-      <find>edita</find>
       <find>console</find>
       <find>sortup</find>
       <find>usn</find>
@@ -31,6 +30,7 @@
       <find>Hum</find>
       <find>del</find>
       <find>text-wa</find>
+      <find>edita</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
