@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>utiliza</find>
       <find>overlay-content index-content</find>
       <find>sync</find>
       <find>cordov</find>
@@ -31,6 +30,7 @@
       <find>only</find>
       <find>heading</find>
       <find>tab</find>
+      <find>back</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
