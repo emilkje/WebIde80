@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>sync</find>
-      <find>cordov</find>
       <find>status</find>
       <find>spo</find>
       <find>statusAs</find>
@@ -31,6 +29,8 @@
       <find>tab</find>
       <find>back</find>
       <find>icon</find>
+      <find>transf</find>
+      <find>transi</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
