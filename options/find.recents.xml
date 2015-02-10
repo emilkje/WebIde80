@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>Usn</find>
-      <find>syncBy</find>
       <find>Remote</find>
       <find>lastUp</find>
       <find>console.log</find>
@@ -31,6 +29,8 @@
       <find>350</find>
       <find>.tabs</find>
       <find>z-in</find>
+      <find>.login</find>
+      <find>logout</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
