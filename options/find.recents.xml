@@ -9,7 +9,6 @@
       <find>rejec</find>
       <find>edit</find>
       <find>edita</find>
-      <find>editab</find>
       <find>console</find>
       <find>sortup</find>
       <find>usn</find>
@@ -31,6 +30,7 @@
       <find>transit</find>
       <find>section</find>
       <find>contain</find>
+      <find>editab</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
