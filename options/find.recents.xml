@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>only</find>
-      <find>heading</find>
       <find>tab</find>
       <find>back</find>
       <find>icon</find>
@@ -31,6 +29,8 @@
       <find>sorta</find>
       <find>add-se</find>
       <find>jquery</find>
+      <find>par</find>
+      <find>userid</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
