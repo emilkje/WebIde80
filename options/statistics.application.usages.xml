@@ -43,7 +43,7 @@
       <project id="trunk" values="UNKNOWN,YAML,JSON,Locale,PLAIN_TEXT,XML,JavaScript,PHP,Ini,Native,CSS,SQL,SmartyConfig,Images,SourceMap,HTML" />
       <project id="olkweb3" values="CoffeeScript,PLAIN_TEXT,SmartyConfig,C++,UNKNOWN,YAML,Images,XML,HTML,JavaScript,CSS,JSON,Locale,ARCHIVE,DTD,SQL,PHP,Native,PATCH,JSHint,Ini,LESS" />
       <project id="rbase3.0" values="SQL,JSON,Images,Ini,JavaScript,Locale,XML,HTML,SourceMap,YAML,PLAIN_TEXT,PHP,UNKNOWN,CSS" />
-      <project id="trysil" values="SilverStripe,CoffeeScript,Native,Cucumber,YAML,JSON,C++,SCSS,JavaScript,Ini,ARCHIVE,SourceMap,JSHint,PATCH,SQL,XML,CSS,HTML,Images,SmartyConfig,htaccess,PHP,PLAIN_TEXT,LESS,UNKNOWN" />
+      <project id="trysil" values="JSON,HTML,PATCH,C++,CSS,Ini,PLAIN_TEXT,UNKNOWN,YAML,SQL,SourceMap,PHP,XML,LESS,Cucumber,JavaScript,SmartyConfig,SCSS,JSHint,ARCHIVE,htaccess,SilverStripe,Native,CoffeeScript,Images" />
       <project id="untitled" values="XML,PHP,PLAIN_TEXT,UNKNOWN" />
       <project id="ssadmin" values="Locale,LESS,PLAIN_TEXT,UNKNOWN,Images,JSON,HTML,JavaScript,htaccess,YAML,PHP,TypeScript,ReST,ARCHIVE,Cucumber,Blade,Ini,C++,CSS,XML" />
       <project id="CWKFoto" values="PHP,PLAIN_TEXT,UNKNOWN,XML,JSON" />
