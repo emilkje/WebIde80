@@ -48,7 +48,7 @@
       <project id="ssadmin" values="Locale,LESS,PLAIN_TEXT,UNKNOWN,Images,JSON,HTML,JavaScript,htaccess,YAML,PHP,TypeScript,ReST,ARCHIVE,Cucumber,Blade,Ini,C++,CSS,XML" />
       <project id="CWKFoto" values="PHP,PLAIN_TEXT,UNKNOWN,XML,JSON" />
       <project id="sponsorportalen" values="PLAIN_TEXT,SCSS,CSS,JSON,Ini,Images,SQL,DATASOURCE_STORAGE,XML,PHP,SmartyConfig,LESS,JavaScript,UNKNOWN" />
-      <project id="exchange" values="PLAIN_TEXT,XML,UNKNOWN,PHP" />
+      <project id="exchange" values="UNKNOWN,PLAIN_TEXT,XML,JSON,PHP" />
       <project id="interfacelift" values="JSON,JavaScript,UNKNOWN,PLAIN_TEXT,XML" />
     </group>
     <group name="javaScript Scope Usages">
@@ -143,7 +143,7 @@
       <project id="ssadmin" values="0" />
       <project id="CWKFoto" values="1" />
       <project id="sponsorportalen" values="4" />
-      <project id="exchange" values="0" />
+      <project id="exchange" values="1" />
       <project id="interfacelift" values="0" />
     </group>
     <group name="jdbc-driver">
