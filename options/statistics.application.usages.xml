@@ -61,7 +61,7 @@
       <project id="olkweb3" values="ARCHIVE,HTML,JavaScript,PLAIN_TEXT,PHP,UNKNOWN,Locale,LESS,YAML,XML,Images,SmartyConfig,PATCH,JSHint,CSS,C++,Native,CoffeeScript,SQL,JSON,Ini,DTD" />
       <project id="rbase3.0" values="XML,PHP,CSS,PLAIN_TEXT,HTML,Images,JSON,UNKNOWN,SourceMap,SQL,JavaScript,Locale,YAML,Ini" />
       <project id="CWKFoto" values="UNKNOWN,PLAIN_TEXT,XML,PHP,JSON" />
-      <project id="trysil" values="PATCH,SmartyConfig,CSS,C++,Images,YAML,JSHint,UNKNOWN,ARCHIVE,XML,Native,LESS,PLAIN_TEXT,SQL,Ini,Cucumber,HTML,JSON,PHP,SilverStripe,SCSS,htaccess,CoffeeScript,SourceMap,JavaScript" />
+      <project id="trysil" values="PATCH,PLAIN_TEXT,JSHint,C++,SCSS,XML,SQL,UNKNOWN,Cucumber,SilverStripe,JSON,CSS,Images,YAML,CoffeeScript,SmartyConfig,JavaScript,HTML,PHP,LESS,Native,Ini,ARCHIVE,SourceMap,htaccess" />
       <project id="kolsrud" values="PLAIN_TEXT,Images,PHP,JSON,YAML,UNKNOWN,Blade,XML,htaccess" />
     </group>
     <group name="jdbc-datasource">
