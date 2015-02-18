@@ -107,9 +107,6 @@
     <extendedState key="CommittedChanges.SplitterProportions.0" state="700" />
     <extendedState key="DiffWindow" state="0" />
   </component>
-  <component name="LafManager">
-    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" />
-  </component>
   <component name="PropertiesComponent">
     <property name="log.debug.categories" value="" />
     <property name="evlsprt3.8" value="13" />

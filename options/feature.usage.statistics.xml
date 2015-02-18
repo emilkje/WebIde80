@@ -1,5 +1,6 @@
 <application>
   <component name="FeatureUsageStatistics" first-run="1411453184857" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="upload.ssh.key" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.camelprefix" count="14" last-shown="0" last-used="1422968196700" shown-count="0" />
@@ -20,7 +21,7 @@
     <feature id="editing.completion.replace" count="10" last-shown="0" last-used="1423490114857" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="4536" last-shown="0" last-used="1423823135145" shown-count="0" />
+    <feature id="editing.select.word" count="4537" last-shown="0" last-used="1424246958944" shown-count="0" />
     <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="44" last-shown="0" last-used="1423490111352" shown-count="0" />
     <feature id="codeassists.comment.block" count="0" last-shown="0" last-used="0" shown-count="0" />
