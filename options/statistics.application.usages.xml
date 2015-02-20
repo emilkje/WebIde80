@@ -38,7 +38,7 @@
     </group>
     <group name="file-type">
       <project id="interfacelift" values="JSON,JavaScript,PLAIN_TEXT,XML,UNKNOWN" />
-      <project id="sponsorportalen" values="CSS,SmartyConfig,UNKNOWN,LESS,Images,JSON,SCSS,JavaScript,SQL,Ini,PLAIN_TEXT,PHP,XML,DATASOURCE_STORAGE" />
+      <project id="sponsorportalen" values="Images,SQL,SmartyConfig,JavaScript,Ini,SCSS,LESS,PLAIN_TEXT,UNKNOWN,XML,DATASOURCE_STORAGE,PHP,CSS,JSON" />
       <project id="ssadmin" values="ARCHIVE,JSON,LESS,Blade,TypeScript,HTML,Locale,XML,JavaScript,htaccess,Ini,UNKNOWN,PLAIN_TEXT,YAML,PHP,C++,ReST,Images,CSS,Cucumber" />
       <project id="trysil" values="XML,JavaScript,ARCHIVE,LESS,Ini,YAML,CoffeeScript,PHP,HTML,PATCH,CSS,JSHint,Cucumber,SQL,PLAIN_TEXT,JSON,UNKNOWN,C++,SCSS,Images,SmartyConfig,SourceMap,htaccess,Native,SilverStripe" />
       <project id="ionic-webcadet" values="ARCHIVE,HTML,UNKNOWN,JavaScript,TypeScript,Images,XML,JSON,LESS,SourceMap,C#,CSS,SCSS,SASS,PLAIN_TEXT,C++" />
@@ -142,7 +142,7 @@
       <project id="kolsrud" values="0" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="sponsorportalen" values="js.build_tools.gulp,JavascriptDebugType" />
+      <project id="sponsorportalen" values="JavascriptDebugType,js.build_tools.gulp" />
     </group>
     <group name="php-servers">
       <project id="interfacelift" values="0" />
