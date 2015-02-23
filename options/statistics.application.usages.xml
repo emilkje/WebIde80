@@ -54,7 +54,7 @@
       <project id="interfacelift" values="JavaScript,PLAIN_TEXT,XML,UNKNOWN,JSON" />
       <project id="sponsorportalen" values="JSON,JavaScript,SQL,DATASOURCE_STORAGE,XML,UNKNOWN,Images,SCSS,SmartyConfig,PLAIN_TEXT,CSS,Ini,LESS,PHP" />
       <project id="ssadmin" values="ARCHIVE,ReST,LESS,JavaScript,JSON,CSS,PHP,Locale,htaccess,Ini,YAML,TypeScript,Images,UNKNOWN,PLAIN_TEXT,Cucumber,XML,Blade,C++,HTML" />
-      <project id="ionic-webcadet" values="ARCHIVE,TypeScript,XML,C#,SASS,JavaScript,SourceMap,JSON,Images,CSS,LESS,UNKNOWN,SCSS,HTML,PLAIN_TEXT,C++" />
+      <project id="ionic-webcadet" values="SCSS,ARCHIVE,C#,PLAIN_TEXT,TypeScript,C++,XML,HTML,SourceMap,SASS,LESS,JSON,CSS,JavaScript,Images,UNKNOWN" />
       <project id="trunk" values="Locale,JSON,UNKNOWN,JavaScript,HTML,PLAIN_TEXT,Images,PHP,Native,SmartyConfig,SQL,YAML,XML,Ini,CSS,SourceMap" />
       <project id="untitled" values="UNKNOWN,XML,PLAIN_TEXT,PHP" />
       <project id="exchange" values="UNKNOWN,JSON,PHP,XML,PLAIN_TEXT" />
