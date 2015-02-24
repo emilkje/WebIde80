@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>z-in</find>
-      <find>.login</find>
       <find>logout</find>
       <find>login</find>
       <find>fcenterlogout</find>
@@ -31,6 +29,8 @@
       <find>Stats.u</find>
       <find>Stats.update(item.id, item.stats);</find>
       <find>footer</find>
+      <find>spodoc</find>
+      <find>tool</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
