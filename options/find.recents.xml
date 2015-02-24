@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>login</find>
       <find>fcenterlogout</find>
       <find>sorta</find>
       <find>add-se</find>
@@ -31,6 +30,7 @@
       <find>spodoc</find>
       <find>tool</find>
       <find>sec</find>
+      <find>section</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
