@@ -1,9 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>userid</find>
-      <find>contact</find>
-      <find>dokument</find>
       <find>date</find>
       <find>editable</find>
       <find>setAmo</find>
@@ -31,6 +28,9 @@
       <find>fiel</find>
       <find>change_writable</find>
       <find>change_writeable</find>
+      <find>write</find>
+      <find>writeable</find>
+      <find>ALTER TABLE</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
