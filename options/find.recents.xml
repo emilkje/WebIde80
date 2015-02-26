@@ -1,9 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>format_am</find>
-      <find>allowWrite</find>
-      <find>amountA</find>
       <find>stat</find>
       <find>.num</find>
       <find>modal</find>
@@ -31,6 +28,9 @@
       <find>isNull</find>
       <find>spocontrac</find>
       <find>install</find>
+      <find>val(</find>
+      <find>attr(</find>
+      <find>attr</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
