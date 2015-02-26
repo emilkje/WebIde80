@@ -1887,6 +1887,11 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="TS.TYPE_PARAMETER">
+      <value>
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="TYPEDEF">
       <value>
         <option name="FOREGROUND" value="c7c8f5" />

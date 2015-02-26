@@ -717,7 +717,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="BACKGROUND" value="734633" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1960,6 +1960,11 @@
         <option name="FOREGROUND" value="a8c023" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="TS.TYPE_PARAMETER">
+      <value>
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
