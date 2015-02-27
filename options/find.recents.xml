@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>footer</find>
       <find>spodoc</find>
       <find>tool</find>
       <find>sec</find>
@@ -31,11 +30,13 @@
       <find>ssn</find>
       <find>$profes</find>
       <find>profession</find>
+      <find>change_propertiesinversed</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
       <dir>$USER_HOME$/cordova/ionic-webcadet/www</dir>
+      <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
     </dirStrings>
   </component>
 </application>
