@@ -26,11 +26,11 @@
       <find>date</find>
       <find>sign</find>
       <find>profe</find>
-      <find>profession</find>
       <find>birthd</find>
       <find>birthday</find>
       <find>ssn</find>
       <find>$profes</find>
+      <find>profession</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
