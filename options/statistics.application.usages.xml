@@ -42,17 +42,20 @@
       <project id="rbase3.0" values="svn" />
       <project id="trysil" values="Git" />
     </group>
+    <group name="jdbc-datasource">
+      <project id="sponsorportalen" values="MySQL/5.5.38" />
+    </group>
     <group name="run-configuration-type">
       <project id="trunk" values="PhpWebAppRunConfigurationType" />
       <project id="sponsorportalen" values="PhpWebAppRunConfigurationType" />
       <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="sponsorportalen" values="JavascriptDebugType,js.build_tools.gulp" />
+      <project id="sponsorportalen" values="js.build_tools.gulp,JavascriptDebugType" />
     </group>
     <group name="file-type">
       <project id="interfacelift" values="JSON,JavaScript,PLAIN_TEXT,XML,UNKNOWN" />
-      <project id="sponsorportalen" values="JavaScript,XML,PLAIN_TEXT,JSON,CSS,SQL,UNKNOWN,Ini,Images,SmartyConfig,LESS,SCSS,DATASOURCE_STORAGE,PHP" />
+      <project id="sponsorportalen" values="SourceMap,UNKNOWN,YAML,SCSS,Ini,SmartyConfig,LESS,DATASOURCE_STORAGE,XML,Locale,CSS,PLAIN_TEXT,JavaScript,HTML,PHP,SQL,Images,JSON" />
       <project id="ssadmin" values="YAML,TypeScript,JavaScript,ARCHIVE,Blade,PLAIN_TEXT,UNKNOWN,Ini,htaccess,CSS,C++,Cucumber,ReST,HTML,PHP,Images,JSON,XML,Locale,LESS" />
       <project id="trysil" values="SQL,Images,YAML,CoffeeScript,htaccess,HTML,Ini,CSS,ARCHIVE,SmartyConfig,XML,JSON,C++,JavaScript,SilverStripe,LESS,PLAIN_TEXT,SourceMap,JSHint,PATCH,UNKNOWN,Native,SCSS,Cucumber,PHP" />
       <project id="ionic-webcadet" values="C#,SASS,XML,PLAIN_TEXT,TypeScript,HTML,SCSS,JSON,CSS,JavaScript,LESS,Images,SourceMap,UNKNOWN,ARCHIVE,C++" />
