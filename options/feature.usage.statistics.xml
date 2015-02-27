@@ -38,13 +38,13 @@
     <feature id="navigation.popup.file.structure" count="12" last-shown="0" last-used="1414398969145" shown-count="0" />
     <feature id="editing.completion.camelHumps" count="24" last-shown="0" last-used="1425034355716" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="refactoring.rename" count="68" last-shown="0" last-used="1425038066067" shown-count="0" />
+    <feature id="refactoring.rename" count="69" last-shown="0" last-used="1425038230459" shown-count="0" />
     <feature id="codeassists.quickjavadoc" count="3" last-shown="0" last-used="1411650686148" shown-count="0" />
     <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="3" last-shown="1418200723227" last-used="1418200726948" shown-count="2" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="19238" />
-      <option name="invocations" value="2802" />
+      <option name="sparedCharacters" value="19243" />
+      <option name="invocations" value="2803" />
       <option name="startDate" value="1411423200000" />
       <option name="dayCount" value="72" />
       <option name="lastDate" value="1424991600000" />
