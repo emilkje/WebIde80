@@ -42,5 +42,6 @@
     <property name="javascript.grunt_toolwindow_splitter" value="0.2" />
     <property name="COMPOSER_PACKAGE_FILTER" value="doctrine/&#10;Symfony/H" />
     <property name="SqlStructureView.SqlDdlStatement.file.structure.state" value="true" />
+    <property name="Copy.OpenInEditor" value="false" />
   </component>
 </application>
