@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>Stats.update(item.id, item.stats);</find>
       <find>footer</find>
       <find>spodoc</find>
       <find>tool</find>
@@ -31,6 +30,7 @@
       <find>birthd</find>
       <find>birthday</find>
       <find>ssn</find>
+      <find>$profes</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
