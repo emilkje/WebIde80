@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>.num</find>
       <find>modal</find>
       <find>Spocon</find>
       <find>stats</find>
@@ -31,6 +30,7 @@
       <find>attr(</find>
       <find>attr</find>
       <find>proto</find>
+      <find>date</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
