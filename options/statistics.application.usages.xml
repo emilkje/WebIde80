@@ -61,7 +61,7 @@
       <project id="ionic-webcadet" values="C#,SASS,XML,PLAIN_TEXT,TypeScript,HTML,SCSS,JSON,CSS,JavaScript,LESS,Images,SourceMap,UNKNOWN,ARCHIVE,C++" />
       <project id="trunk" values="SmartyConfig,CSS,PLAIN_TEXT,Locale,Images,JavaScript,PHP,JSON,HTML,Ini,SourceMap,Native,YAML,SQL,XML,UNKNOWN" />
       <project id="exchange" values="PLAIN_TEXT,XML,UNKNOWN,JSON,PHP" />
-      <project id="olkweb3" values="PATCH,Images,C++,JSHint,SQL,DTD,JSON,PHP,Locale,SmartyConfig,Native,CoffeeScript,CSS,JavaScript,PLAIN_TEXT,HTML,YAML,XML,UNKNOWN,Ini,LESS,ARCHIVE" />
+      <project id="olkweb3" values="XML,JSON,ARCHIVE,HTML,CSS,Native,SourceMap,YAML,PATCH,PHP,Ini,SQL,SmartyConfig,JavaScript,PLAIN_TEXT,DTD,Images,C++,UNKNOWN,SCSS,JSHint,CoffeeScript,Locale,LESS" />
       <project id="rbase3.0" values="Locale,SourceMap,PHP,HTML,CSS,YAML,JavaScript,XML,UNKNOWN,SQL,Images,JSON,PLAIN_TEXT,Ini" />
       <project id="CWKFoto" values="PLAIN_TEXT,XML,PHP,UNKNOWN,JSON" />
       <project id="untitled" values="XML,PLAIN_TEXT,UNKNOWN,PHP" />
