@@ -48,11 +48,11 @@
       <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="sponsorportalen" values="JavascriptDebugType,js.build_tools.gulp" />
+      <project id="sponsorportalen" values="js.build_tools.gulp,JavascriptDebugType" />
     </group>
     <group name="file-type">
       <project id="interfacelift" values="JavaScript,UNKNOWN,PLAIN_TEXT,XML,JSON" />
-      <project id="sponsorportalen" values="HTML,Images,JSON,SourceMap,Ini,JavaScript,SCSS,YAML,Markdown,Locale,PLAIN_TEXT,XML,SmartyConfig,PHP,LESS,DATASOURCE_STORAGE,SQL,CSS,UNKNOWN" />
+      <project id="sponsorportalen" values="Locale,HTML,SmartyConfig,XML,SQL,DATASOURCE_STORAGE,CSS,JSON,Ini,SCSS,PLAIN_TEXT,LESS,Images,PHP,YAML,Markdown,UNKNOWN,JavaScript,SourceMap" />
       <project id="ssadmin" values="LESS,ReST,ARCHIVE,Images,Blade,Cucumber,Locale,XML,YAML,PLAIN_TEXT,JSON,PHP,HTML,htaccess,CSS,UNKNOWN,JavaScript,Ini,TypeScript,C++" />
       <project id="ionic-webcadet" values="ARCHIVE,C++,HTML,LESS,CSS,PLAIN_TEXT,JSON,SCSS,XML,SASS,Images,TypeScript,C#,JavaScript,SourceMap,UNKNOWN" />
       <project id="trunk" values="YAML,JavaScript,Locale,UNKNOWN,HTML,Ini,Native,SmartyConfig,Images,SQL,JSON,PHP,SourceMap,PLAIN_TEXT,XML,CSS" />
