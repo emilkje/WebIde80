@@ -3,7 +3,6 @@
     <findStrings>
       <find>sec</find>
       <find>section</find>
-      <find>autolo</find>
       <find>element</find>
       <find>fiel</find>
       <find>change_writable</find>
@@ -31,6 +30,7 @@
       <find>change_propertiesinversed</find>
       <find>profes</find>
       <find>spo</find>
+      <find>autolo</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
