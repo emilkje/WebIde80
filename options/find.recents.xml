@@ -11,7 +11,6 @@
       <find>add-se</find>
       <find>partner</find>
       <find>isNull</find>
-      <find>spocontrac</find>
       <find>install</find>
       <find>val(</find>
       <find>attr(</find>
@@ -31,6 +30,7 @@
       <find>autolo</find>
       <find>editabl</find>
       <find>spocontra</find>
+      <find>spocontrac</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
