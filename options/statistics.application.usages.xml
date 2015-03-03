@@ -48,11 +48,11 @@
       <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="sponsorportalen" values="js.build_tools.gulp,JavascriptDebugType" />
+      <project id="sponsorportalen" values="JavascriptDebugType,js.build_tools.gulp" />
     </group>
     <group name="file-type">
       <project id="interfacelift" values="JavaScript,UNKNOWN,PLAIN_TEXT,XML,JSON" />
-      <project id="sponsorportalen" values="PLAIN_TEXT,PHP,JavaScript,DATASOURCE_STORAGE,CSS,Images,LESS,HTML,XML,SCSS,JSON,UNKNOWN,Ini,SourceMap,YAML,Locale,SmartyConfig,SQL" />
+      <project id="sponsorportalen" values="HTML,Images,JSON,SourceMap,Ini,JavaScript,SCSS,YAML,Markdown,Locale,PLAIN_TEXT,XML,SmartyConfig,PHP,LESS,DATASOURCE_STORAGE,SQL,CSS,UNKNOWN" />
       <project id="ssadmin" values="LESS,ReST,ARCHIVE,Images,Blade,Cucumber,Locale,XML,YAML,PLAIN_TEXT,JSON,PHP,HTML,htaccess,CSS,UNKNOWN,JavaScript,Ini,TypeScript,C++" />
       <project id="ionic-webcadet" values="ARCHIVE,C++,HTML,LESS,CSS,PLAIN_TEXT,JSON,SCSS,XML,SASS,Images,TypeScript,C#,JavaScript,SourceMap,UNKNOWN" />
       <project id="trunk" values="YAML,JavaScript,Locale,UNKNOWN,HTML,Ini,Native,SmartyConfig,Images,SQL,JSON,PHP,SourceMap,PLAIN_TEXT,XML,CSS" />
@@ -63,9 +63,6 @@
       <project id="CWKFoto" values="XML,JSON,PHP,UNKNOWN,PLAIN_TEXT" />
       <project id="trysil" values="SQL,Native,JSON,SilverStripe,UNKNOWN,htaccess,SCSS,PHP,YAML,PLAIN_TEXT,SmartyConfig,CSS,C++,ARCHIVE,SourceMap,CoffeeScript,Images,Cucumber,LESS,Ini,XML,HTML,JavaScript,PATCH,JSHint" />
       <project id="kolsrud" values="Blade,XML,PLAIN_TEXT,Images,UNKNOWN,YAML,htaccess,PHP,JSON" />
-    </group>
-    <group name="jdbc-datasource">
-      <project id="sponsorportalen" values="MySQL/5.5.38" />
     </group>
     <group name="php-interpreter-debug-ext">
       <project id="olkweb3" values="xdebug" />
