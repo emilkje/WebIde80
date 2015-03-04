@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>ALTER TABLE</find>
       <find>add-se</find>
       <find>partner</find>
       <find>isNull</find>
@@ -31,6 +30,7 @@
       <find>new</find>
       <find>brand</find>
       <find>Maler</find>
+      <find>type()</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
