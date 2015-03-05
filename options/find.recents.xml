@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>partner</find>
       <find>isNull</find>
       <find>install</find>
       <find>val(</find>
@@ -31,6 +30,7 @@
       <find>Maler</find>
       <find>type()</find>
       <find>seksjon</find>
+      <find>overlay</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
