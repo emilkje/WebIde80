@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>spo</find>
-      <find>autolo</find>
       <find>editabl</find>
       <find>spocontra</find>
       <find>spocontrac</find>
@@ -31,6 +29,8 @@
       <find>approved</find>
       <find>.disapproved</find>
       <find>pending</find>
+      <find>#objectivedocumentation-overlay-44</find>
+      <find>#objectivedocumentation-overlay-</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
