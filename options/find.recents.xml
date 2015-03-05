@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>change_propertiesinversed</find>
       <find>profes</find>
       <find>spo</find>
       <find>autolo</find>
@@ -31,6 +30,7 @@
       <find>heading</find>
       <find>.approved</find>
       <find>approved</find>
+      <find>.disapproved</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
