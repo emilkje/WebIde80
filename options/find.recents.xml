@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>tinymce</find>
       <find>toolti</find>
       <find>tooltip</find>
       <find>docdeta</find>
@@ -31,6 +30,7 @@
       <find>toolt</find>
       <find>mai</find>
       <find>tools</find>
+      <find>Overskrift i dokumentet</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
