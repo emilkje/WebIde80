@@ -52,13 +52,13 @@
     </group>
     <group name="file-type">
       <project id="interfacelift" values="UNKNOWN,JSON,XML,JavaScript,PLAIN_TEXT" />
-      <project id="sponsorportalen" values="PHP,Images,JavaScript,SmartyConfig,DATASOURCE_STORAGE,LESS,XML,Locale,SQL,SourceMap,PLAIN_TEXT,CSS,UNKNOWN,JSON,SCSS,YAML,HTML,Markdown,Ini" />
+      <project id="sponsorportalen" values="HTML,XML,PLAIN_TEXT,CSS,JSON,PHP,DATASOURCE_STORAGE,JavaScript,SQL,LESS,Images,Markdown,YAML,Ini,Locale,SCSS,SmartyConfig,UNKNOWN,SourceMap" />
       <project id="ssadmin" values="JSON,Locale,TypeScript,Cucumber,HTML,UNKNOWN,ARCHIVE,Blade,XML,Ini,ReST,YAML,PLAIN_TEXT,LESS,PHP,htaccess,C++,Images,CSS,JavaScript" />
       <project id="trysil" values="PHP,JavaScript,CoffeeScript,Native,Images,SmartyConfig,Cucumber,SilverStripe,PATCH,ARCHIVE,SQL,SCSS,HTML,XML,JSHint,PLAIN_TEXT,C++,LESS,SourceMap,CSS,Ini,YAML,UNKNOWN,htaccess,JSON" />
       <project id="ionic-webcadet" values="SCSS,JavaScript,CSS,C++,C#,JSON,LESS,UNKNOWN,TypeScript,PLAIN_TEXT,SASS,Images,SourceMap,HTML,XML,ARCHIVE" />
       <project id="trunk" values="Native,SQL,Locale,JSON,SourceMap,Images,XML,PHP,YAML,HTML,JavaScript,CSS,PLAIN_TEXT,UNKNOWN,Ini,SmartyConfig" />
       <project id="exchange" values="UNKNOWN,XML,JSON,PLAIN_TEXT,PHP" />
-      <project id="olkweb3" values="SourceMap,CoffeeScript,SmartyConfig,PATCH,Locale,CSS,JSHint,Images,LESS,PHP,YAML,SCSS,Native,XML,PLAIN_TEXT,Ini,JSON,ARCHIVE,JavaScript,C++,SQL,UNKNOWN,HTML,DTD" />
+      <project id="olkweb3" values="JSON,JSHint,C++,Markdown,XML,SCSS,PHP,HTML,SourceMap,Native,PLAIN_TEXT,DTD,PATCH,LESS,Ini,UNKNOWN,JavaScript,CoffeeScript,ARCHIVE,SQL,CSS,YAML,Locale,Images,SmartyConfig" />
       <project id="rbase3.0" values="HTML,JSON,Locale,SourceMap,SQL,UNKNOWN,CSS,PHP,XML,JavaScript,Images,PLAIN_TEXT,Ini,YAML" />
       <project id="CWKFoto" values="XML,PLAIN_TEXT,JSON,PHP,UNKNOWN" />
       <project id="untitled" values="XML,UNKNOWN,PHP,PLAIN_TEXT" />
@@ -185,7 +185,7 @@
       <entry feature="execute.PhpLocalRunConfigurationType.Run" count="1" />
       <entry feature="execute.PhpWebAppRunConfigurationType.Debug" count="52" />
       <entry feature="execute.js.build_tools.gulp.Debug" count="5" />
-      <entry feature="execute.js.build_tools.gulp.Run" count="114" />
+      <entry feature="execute.js.build_tools.gulp.Run" count="115" />
       <entry feature="ide.settings.Appearance" count="5" />
       <entry feature="ide.settings.CSS" count="4" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="78" />
