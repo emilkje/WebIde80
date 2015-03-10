@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>heading</find>
-      <find>.approved</find>
       <find>approved</find>
       <find>.disapproved</find>
       <find>pending</find>
@@ -31,6 +29,8 @@
       <find>ut</find>
       <find>spo</find>
       <find>util</find>
+      <find>utilization</find>
+      <find>utiliz</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
