@@ -8,7 +8,6 @@
       <find>variables</find>
       <find>spocontra</find>
       <find>Legg t</find>
-      <find>partner</find>
       <find>title</find>
       <find>arrow</find>
       <find>partn</find>
@@ -31,6 +30,7 @@
       <find>processSpocontractForm</find>
       <find>amount</find>
       <find>attr</find>
+      <find>partner</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
