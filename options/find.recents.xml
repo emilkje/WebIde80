@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>.disapproved</find>
       <find>pending</find>
       <find>#objectivedocumentation-overlay-44</find>
       <find>#objectivedocumentation-overlay-</find>
@@ -31,6 +30,7 @@
       <find>utilization</find>
       <find>utiliz</find>
       <find>edita</find>
+      <find>processSpocontractForm</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
