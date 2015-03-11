@@ -1,9 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>overlaydocumentation</find>
-      <find>admin</find>
-      <find>variab</find>
       <find>variables</find>
       <find>spocontra</find>
       <find>Legg t</find>
@@ -31,14 +28,17 @@
       <find>attr</find>
       <find>partner</find>
       <find>isView</find>
+      <find>sequence</find>
+      <find>sibl</find>
+      <find>sibling</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
-      <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
       <dir>$USER_HOME$/cordova/ionic-webcadet/www</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
       <dir>$USER_HOME$/www/project/olkweb3/resource/less/modules</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template</dir>
+      <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
     </dirStrings>
   </component>
 </application>
