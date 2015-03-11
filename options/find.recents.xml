@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>#objectivedocumentation-overlay-</find>
       <find>overlaydocumentation</find>
       <find>admin</find>
       <find>variab</find>
@@ -31,6 +30,7 @@
       <find>amount</find>
       <find>attr</find>
       <find>partner</find>
+      <find>isView</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
