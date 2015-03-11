@@ -52,7 +52,7 @@
     </group>
     <group name="file-type">
       <project id="interfacelift" values="UNKNOWN,JSON,XML,JavaScript,PLAIN_TEXT" />
-      <project id="sponsorportalen" values="HTML,XML,PLAIN_TEXT,CSS,JSON,PHP,DATASOURCE_STORAGE,JavaScript,SQL,LESS,Images,Markdown,YAML,Ini,Locale,SCSS,SmartyConfig,UNKNOWN,SourceMap" />
+      <project id="sponsorportalen" values="JSON,YAML,UNKNOWN,JavaScript,Images,CSS,LESS,SCSS,DATASOURCE_STORAGE,SQL,Ini,XML,SmartyConfig,Locale,SourceMap,HTML,PLAIN_TEXT,PHP,Markdown" />
       <project id="ssadmin" values="JSON,Locale,TypeScript,Cucumber,HTML,UNKNOWN,ARCHIVE,Blade,XML,Ini,ReST,YAML,PLAIN_TEXT,LESS,PHP,htaccess,C++,Images,CSS,JavaScript" />
       <project id="trysil" values="PHP,JavaScript,CoffeeScript,Native,Images,SmartyConfig,Cucumber,SilverStripe,PATCH,ARCHIVE,SQL,SCSS,HTML,XML,JSHint,PLAIN_TEXT,C++,LESS,SourceMap,CSS,Ini,YAML,UNKNOWN,htaccess,JSON" />
       <project id="ionic-webcadet" values="SCSS,JavaScript,CSS,C++,C#,JSON,LESS,UNKNOWN,TypeScript,PLAIN_TEXT,SASS,Images,SourceMap,HTML,XML,ARCHIVE" />
@@ -157,7 +157,7 @@
     </group>
     <group name="php-include-path">
       <project id="interfacelift" values="0" />
-      <project id="sponsorportalen" values="4" />
+      <project id="sponsorportalen" values="5" />
       <project id="ssadmin" values="0" />
       <project id="trysil" values="1" />
       <project id="ionic-webcadet" values="0" />
