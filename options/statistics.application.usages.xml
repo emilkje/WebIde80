@@ -58,7 +58,7 @@
       <project id="trunk" values="Native,CSS,Ini,SourceMap,Locale,HTML,PHP,PLAIN_TEXT,YAML,JSON,SQL,SmartyConfig,XML,JavaScript,Images,UNKNOWN" />
       <project id="untitled" values="UNKNOWN,XML,PHP,PLAIN_TEXT" />
       <project id="exchange" values="PLAIN_TEXT,XML,UNKNOWN,JSON,PHP" />
-      <project id="olkweb3" values="SQL,JSON,JSCS,LESS,Markdown,C++,HTML,SourceMap,SmartyConfig,UNKNOWN,Ini,XML,JavaScript,SCSS,PHP,YAML,PATCH,DTD,Locale,TypeScript,CoffeeScript,CSS,ARCHIVE,Native,JSHint,Images,PLAIN_TEXT" />
+      <project id="olkweb3" values="JSCS,XML,C++,PATCH,HTML,ARCHIVE,JSHint,Markdown,JSON,CSS,PLAIN_TEXT,Native,SourceMap,Ini,SQL,YAML,DTD,PHP,UNKNOWN,LESS,Images,CoffeeScript,SmartyConfig,TypeScript,SCSS,JavaScript,Locale" />
       <project id="rbase3.0" values="HTML,CSS,PLAIN_TEXT,SourceMap,SQL,Images,YAML,Ini,XML,Locale,JSON,UNKNOWN,JavaScript,PHP" />
       <project id="CWKFoto" values="XML,PLAIN_TEXT,UNKNOWN,PHP,JSON" />
       <project id="trysil" values="PLAIN_TEXT,SCSS,Images,XML,Native,JSON,UNKNOWN,ARCHIVE,PHP,YAML,PATCH,htaccess,HTML,LESS,JavaScript,Cucumber,SilverStripe,CoffeeScript,JSHint,SmartyConfig,Ini,SourceMap,CSS,C++,SQL" />
