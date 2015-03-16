@@ -1,6 +1,6 @@
-tree aa2aff01f1b50db28f7c27eba368fcd144bd2956
-parent e24b5d7fa7e6e3d627475dccf1fb48a9ad509fb1
-author Emil Kjelsrud <emil@innit.no> 1411629893 +0200
-committer Emil Kjelsrud <emil@innit.no> 1411629893 +0200
+tree ca0a1f3a1f13b4010c8045a0f125970162b57c49
+parent c63ab932272c2cb24e1fadcd1e17c41e3068d3ac
+author Emil Kjelsrud <emil@innit.no> 1412255418 +0200
+committer Emil Kjelsrud <emil@innit.no> 1412255418 +0200
 
-Added gitignore
+Autocommit Thu Oct  2 15:10:18 CEST 2014
