@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>utiliz</find>
-      <find>edita</find>
       <find>processSpocontractForm</find>
       <find>amount</find>
       <find>attr</find>
@@ -31,6 +29,8 @@
       <find>user</find>
       <find>toolt</find>
       <find>tooltip</find>
+      <find>bootstr</find>
+      <find>popover</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
