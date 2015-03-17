@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>amount</find>
-      <find>attr</find>
       <find>partner</find>
       <find>isView</find>
       <find>sequence</find>
@@ -31,6 +29,8 @@
       <find>popover</find>
       <find>bootstr</find>
       <find>autoload</find>
+      <find>ajaxLo</find>
+      <find>ajaxSu</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
