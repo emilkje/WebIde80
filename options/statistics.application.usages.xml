@@ -48,11 +48,11 @@
       <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="sponsorportalen" values="JavascriptDebugType,js.build_tools.gulp" />
+      <project id="sponsorportalen" values="js.build_tools.gulp,JavascriptDebugType" />
     </group>
     <group name="file-type">
       <project id="interfacelift" values="PLAIN_TEXT,JSON,JavaScript,UNKNOWN,XML" />
-      <project id="sponsorportalen" values="Images,Markdown,Ini,JavaScript,UNKNOWN,SourceMap,CSS,PHP,SCSS,YAML,XML,DATASOURCE_STORAGE,SmartyConfig,PLAIN_TEXT,JSON,HTML,LESS,SQL,Locale" />
+      <project id="sponsorportalen" values="YAML,JSON,SourceMap,SmartyConfig,PLAIN_TEXT,HTML,SCSS,CSS,Ini,DATASOURCE_STORAGE,XML,Images,JavaScript,SQL,Markdown,UNKNOWN,LESS,Locale,PHP" />
       <project id="ssadmin" values="ReST,XML,TypeScript,UNKNOWN,htaccess,CSS,HTML,Blade,JavaScript,LESS,Ini,JSON,PLAIN_TEXT,Locale,C++,PHP,ARCHIVE,Images,Cucumber,YAML" />
       <project id="ionic-webcadet" values="LESS,XML,C#,HTML,UNKNOWN,C++,JSON,CSS,TypeScript,ARCHIVE,Images,SCSS,SASS,PLAIN_TEXT,SourceMap,JavaScript" />
       <project id="trunk" values="SmartyConfig,YAML,Native,SourceMap,PLAIN_TEXT,UNKNOWN,SQL,HTML,Ini,Images,XML,Locale,JavaScript,CSS,JSON,PHP" />
@@ -185,7 +185,7 @@
       <entry feature="execute.PhpLocalRunConfigurationType.Run" count="1" />
       <entry feature="execute.PhpWebAppRunConfigurationType.Debug" count="57" />
       <entry feature="execute.js.build_tools.gulp.Debug" count="5" />
-      <entry feature="execute.js.build_tools.gulp.Run" count="119" />
+      <entry feature="execute.js.build_tools.gulp.Run" count="120" />
       <entry feature="ide.settings.Appearance" count="5" />
       <entry feature="ide.settings.CSS" count="4" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="78" />
