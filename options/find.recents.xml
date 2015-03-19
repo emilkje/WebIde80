@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>sequenc</find>
       <find>redirec</find>
       <find>gå til</find>
       <find>Gå til</find>
@@ -31,6 +30,7 @@
       <find>overflow-y:</find>
       <find>overflow</find>
       <find>not</find>
+      <find>sett mål som gjennomført</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
