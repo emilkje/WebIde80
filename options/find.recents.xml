@@ -25,12 +25,12 @@
       <find>approved</find>
       <find>Event</find>
       <find>LarlingCertificateexamHandler</find>
-      <find>quicklog</find>
       <find>evaluationobjectivecommentby</find>
       <find>evaluationobjectiveid</find>
       <find>on('autoload')</find>
       <find>autoload</find>
       <find>ajaxpost</find>
+      <find>quicklog</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
@@ -42,6 +42,7 @@
       <dir>$USER_HOME$/www/project/olkweb3/resource/less</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module</dir>
       <dir>$USER_HOME$/www/project/olkweb3/www/js</dir>
+      <dir>$USER_HOME$/www/project/olkweb3/module/notify</dir>
     </dirStrings>
   </component>
 </application>
