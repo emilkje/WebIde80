@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>sort</find>
       <find>toggleS</find>
       <find>50px</find>
       <find>tool</find>
@@ -13,7 +12,6 @@
       <find>tooltip</find>
       <find>popover</find>
       <find>bootstr</find>
-      <find>autoload</find>
       <find>ajaxLo</find>
       <find>ajaxSu</find>
       <find>panel</find>
@@ -31,6 +29,8 @@
       <find>quicklog</find>
       <find>evaluationobjectivecommentby</find>
       <find>evaluationobjectiveid</find>
+      <find>on('autoload')</find>
+      <find>autoload</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
@@ -41,6 +41,7 @@
       <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
       <dir>$USER_HOME$/www/project/olkweb3/resource/less</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module</dir>
+      <dir>$USER_HOME$/www/project/olkweb3/www/js</dir>
     </dirStrings>
   </component>
 </application>
