@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>toggleS</find>
       <find>50px</find>
       <find>tool</find>
       <find>padding-top</find>
@@ -31,6 +30,7 @@
       <find>evaluationobjectiveid</find>
       <find>on('autoload')</find>
       <find>autoload</find>
+      <find>ajaxpost</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
