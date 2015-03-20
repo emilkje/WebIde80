@@ -22,6 +22,9 @@
       <webServer id="8b9cc55d-492e-4365-ae2d-1de8914469de" name="ssadmin.dev" url="http://ssadmin.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="6204ebfc-e5cb-4d65-833f-3a5e7679ccef" name="notification.dev" url="http://notification.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
