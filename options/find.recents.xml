@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>chk_d</find>
       <find>comment</find>
       <find>planconainer-header</find>
       <find>plancontainer-header</find>
@@ -31,6 +30,7 @@
       <find>436843</find>
       <find>approved</find>
       <find>Event</find>
+      <find>LarlingCertificateexamHandler</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
@@ -40,6 +40,7 @@
       <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
       <dir>$USER_HOME$/www/project/olkweb3/resource/less</dir>
+      <dir>$USER_HOME$/www/project/olkweb3/module</dir>
     </dirStrings>
   </component>
 </application>
