@@ -184,6 +184,7 @@
       <entry feature="execute.PhpLocalRunConfigurationType.Debug" count="5" />
       <entry feature="execute.PhpLocalRunConfigurationType.Run" count="1" />
       <entry feature="execute.PhpWebAppRunConfigurationType.Debug" count="58" />
+      <entry feature="execute.PhpWebAppRunConfigurationType.Run" count="1" />
       <entry feature="execute.js.build_tools.gulp.Debug" count="5" />
       <entry feature="execute.js.build_tools.gulp.Run" count="122" />
       <entry feature="ide.settings.Appearance" count="5" />
