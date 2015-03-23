@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>padding-top</find>
       <find>spoel</find>
       <find>proc</find>
       <find>user</find>
@@ -31,6 +30,7 @@
       <find>modal</find>
       <find>ajaxpost</find>
       <find>close</find>
+      <find>select2</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
