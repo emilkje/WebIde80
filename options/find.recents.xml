@@ -28,9 +28,9 @@
       <find>evaluationobjectiveid</find>
       <find>on('autoload')</find>
       <find>autoload</find>
-      <find>ajaxpost</find>
       <find>quicklog</find>
       <find>modal</find>
+      <find>ajaxpost</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
