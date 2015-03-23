@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>panel</find>
       <find>meta</find>
       <find>overflow-y:</find>
       <find>overflow</find>
@@ -31,6 +30,7 @@
       <find>die</find>
       <find>title</find>
       <find>quicklo</find>
+      <find>nm</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
