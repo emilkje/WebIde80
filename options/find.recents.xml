@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>approved</find>
       <find>Event</find>
       <find>LarlingCertificateexamHandler</find>
       <find>evaluationobjectivecommentby</find>
@@ -31,6 +30,7 @@
       <find>console.lo</find>
       <find>console</find>
       <find>bar</find>
+      <find>Settings</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
