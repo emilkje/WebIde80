@@ -17,7 +17,6 @@
       <find>modal</find>
       <find>ajaxpost</find>
       <find>close</find>
-      <find>select2</find>
       <find>contac</find>
       <find>quickl</find>
       <find>manag</find>
@@ -31,6 +30,7 @@
       <find>ResourcePr</find>
       <find>Proce</find>
       <find>Notification</find>
+      <find>select2</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
