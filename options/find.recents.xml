@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>not</find>
       <find>sett mål som gjennomført</find>
       <find>#f7dade</find>
       <find>background</find>
@@ -31,6 +30,7 @@
       <find>Proce</find>
       <find>Notification</find>
       <find>select2</find>
+      <find>phtml</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
@@ -43,6 +43,7 @@
       <dir>$USER_HOME$/www/project/olkweb3/module</dir>
       <dir>$USER_HOME$/www/project/olkweb3/www/js</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module/notify</dir>
+      <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate</dir>
     </dirStrings>
   </component>
 </application>
