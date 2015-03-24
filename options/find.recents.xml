@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>sett mål som gjennomført</find>
       <find>#f7dade</find>
       <find>background</find>
       <find>436843</find>
@@ -31,6 +30,7 @@
       <find>Notification</find>
       <find>select2</find>
       <find>phtml</find>
+      <find>Seksj</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
