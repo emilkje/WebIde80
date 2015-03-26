@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>LarlingCertificateexamHandler</find>
       <find>evaluationobjectivecommentby</find>
       <find>evaluationobjectiveid</find>
       <find>on('autoload')</find>
@@ -31,6 +30,7 @@
       <find>bar</find>
       <find>Settings</find>
       <find>onError</find>
+      <find>navigator.network.connection.type</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
