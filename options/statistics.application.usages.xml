@@ -55,7 +55,7 @@
       <project id="sponsorportalen" values="Ini,UNKNOWN,HTML,PLAIN_TEXT,SmartyConfig,DATASOURCE_STORAGE,Markdown,SourceMap,Locale,PHP,SQL,LESS,XML,SCSS,Images,CSS,JavaScript,JSON,YAML" />
       <project id="ssadmin" values="C++,ReST,Blade,htaccess,CSS,YAML,PLAIN_TEXT,LESS,Images,ARCHIVE,UNKNOWN,HTML,PHP,Cucumber,TypeScript,JavaScript,Locale,XML,Ini,JSON" />
       <project id="trysil" values="SourceMap,PLAIN_TEXT,Ini,LESS,C++,SmartyConfig,SQL,HTML,CSS,Cucumber,SCSS,Images,JavaScript,htaccess,JSHint,YAML,Native,PATCH,CoffeeScript,SilverStripe,ARCHIVE,JSON,PHP,XML,UNKNOWN" />
-      <project id="ionic-webcadet" values="HTML,SCSS,SourceMap,UNKNOWN,Images,CSS,SASS,JSON,XML,ARCHIVE,C++,TypeScript,JavaScript,PLAIN_TEXT,LESS,C#" />
+      <project id="ionic-webcadet" values="UNKNOWN,SASS,JSON,Markdown,LESS,TypeScript,ARCHIVE,HTML,XML,Images,JavaScript,CSS,SCSS,C#,SourceMap,C++,PLAIN_TEXT" />
       <project id="trunk" values="JavaScript,HTML,Images,SQL,Ini,CSS,PLAIN_TEXT,PHP,UNKNOWN,JSON,Native,Locale,YAML,SourceMap,XML,SmartyConfig" />
       <project id="exchange" values="XML,JSON,PLAIN_TEXT,PHP,UNKNOWN" />
       <project id="olkweb3" values="DTD,SmartyConfig,Native,Markdown,JavaScript,XML,PLAIN_TEXT,CoffeeScript,Ini,PATCH,UNKNOWN,SQL,JSCS,C++,YAML,SCSS,Images,JSON,PHP,LESS,JSHint,ARCHIVE,Locale,CSS,HTML,SourceMap,TypeScript" />
