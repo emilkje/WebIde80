@@ -1,9 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>on('autoload')</find>
-      <find>autoload</find>
-      <find>quicklog</find>
       <find>modal</find>
       <find>ajaxpost</find>
       <find>close</find>
@@ -31,6 +28,9 @@
       <find>navigator.network.connection.type</find>
       <find>#bbb</find>
       <find>getSpose</find>
+      <find>isNul</find>
+      <find>setNul</find>
+      <find>setNu</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
