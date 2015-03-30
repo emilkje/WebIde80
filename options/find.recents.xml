@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>ajaxpost</find>
       <find>close</find>
       <find>contac</find>
       <find>quickl</find>
@@ -31,6 +30,7 @@
       <find>setNul</find>
       <find>setNu</find>
       <find>delete</find>
+      <find>spose</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
