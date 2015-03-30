@@ -52,7 +52,7 @@
     </group>
     <group name="file-type">
       <project id="interfacelift" values="PLAIN_TEXT,UNKNOWN,XML,JavaScript,JSON" />
-      <project id="sponsorportalen" values="Locale,XML,SourceMap,LESS,Ini,UNKNOWN,HTML,PLAIN_TEXT,SmartyConfig,CSS,DATASOURCE_STORAGE,PHP,YAML,Images,JSON,JavaScript,SCSS,SQL,Markdown" />
+      <project id="sponsorportalen" values="SCSS,Markdown,SQL,PLAIN_TEXT,Images,PHP,JSON,SourceMap,Locale,HTML,DATASOURCE_STORAGE,LESS,CSS,Ini,SmartyConfig,JavaScript,XML,UNKNOWN,YAML" />
       <project id="ssadmin" values="Images,Ini,XML,C++,UNKNOWN,htaccess,YAML,Blade,ARCHIVE,ReST,JSON,JavaScript,TypeScript,PLAIN_TEXT,CSS,LESS,Cucumber,PHP,HTML,Locale" />
       <project id="ionic-webcadet" values="C++,SASS,XML,ARCHIVE,Images,UNKNOWN,C#,JavaScript,CSS,PLAIN_TEXT,Markdown,JSON,HTML,TypeScript,LESS,SourceMap,SCSS" />
       <project id="trunk" values="PHP,YAML,SourceMap,HTML,Native,Locale,XML,PLAIN_TEXT,UNKNOWN,CSS,Images,SQL,SmartyConfig,Ini,JavaScript,JSON" />
