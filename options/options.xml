@@ -44,5 +44,11 @@
     <property name="SqlStructureView.SqlDdlStatement.file.structure.state" value="true" />
     <property name="Copy.OpenInEditor" value="false" />
     <property name="PhpUnit.Splitter.Proportion" value="0.2" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder0" value="0" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder1" value="1" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
   </component>
 </application>
