@@ -15,7 +15,7 @@
     <location key="DiffWindow.0.0.1440.900" x="100" y="122" />
     <location key="CommitChangelistDialog2.0.0.1440.900" x="93" y="167" />
     <location key="RollbackChangesDialog.0.0.1440.900" x="395" y="192" />
-    <location key="OptionsEditor.0.0.2560.1440" x="423" y="253" />
+    <location key="OptionsEditor.0.0.2560.1440" x="1182" y="236" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" x="1408" y="390" />
     <location key="findTextDialog.0.0.2560.1440" x="1737" y="492" />
     <location key="WELCOME_SCREEN.0.0.1440.900" x="720" y="300" />
@@ -68,6 +68,7 @@
     <location key="#Directories.0.0.1440.900" x="629" y="214" />
     <location key="#PHPGit.0.0.2560.1440" x="1671" y="128" />
     <location key="#Interpreters.0.0.2560.1440" x="1596" y="201" />
+    <location key="#PHPUnit.0.0.2560.1440" x="1578" y="120" />
     <size key="OptionsEditor.0.0.1920.1200" width="1349" height="846" />
     <size key="DiffWindow.0.0.1920.1200" width="677" height="800" />
     <size key="DiffWindow.0.0.1440.900" width="1147" height="674" />
