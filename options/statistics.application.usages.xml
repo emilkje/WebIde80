@@ -7,6 +7,7 @@
     <group name="JavaScript versions">
       <project id="interfacelift" values="DEFAULT" />
       <project id="sponsorportalen" values="DEFAULT" />
+      <project id="orchestra" values="DEFAULT" />
       <project id="ssadmin" values="DEFAULT" />
       <project id="ionic-webcadet" values="DEFAULT" />
       <project id="trunk" values="DEFAULT" />
@@ -21,6 +22,7 @@
     <group name="module type">
       <project id="interfacelift" values="WEB_MODULE" />
       <project id="sponsorportalen" values="WEB_MODULE" />
+      <project id="orchestra" values="WEB_MODULE" />
       <project id="ssadmin" values="WEB_MODULE" />
       <project id="ionic-webcadet" values="WEB_MODULE" />
       <project id="trunk" values="WEB_MODULE" />
@@ -53,6 +55,7 @@
     <group name="file-type">
       <project id="interfacelift" values="PLAIN_TEXT,UNKNOWN,XML,JavaScript,JSON" />
       <project id="sponsorportalen" values="SCSS,XML,SQL,SourceMap,Locale,DATASOURCE_STORAGE,Images,PLAIN_TEXT,UNKNOWN,Ini,JSON,SmartyConfig,Markdown,CSS,JavaScript,LESS,YAML,HTML,PHP" />
+      <project id="orchestra" values="UNKNOWN,PLAIN_TEXT,Markdown,XML,JSON,YAML,PHP" />
       <project id="ssadmin" values="Images,Ini,XML,C++,UNKNOWN,htaccess,YAML,Blade,ARCHIVE,ReST,JSON,JavaScript,TypeScript,PLAIN_TEXT,CSS,LESS,Cucumber,PHP,HTML,Locale" />
       <project id="ionic-webcadet" values="C++,SASS,XML,ARCHIVE,Images,UNKNOWN,C#,JavaScript,CSS,PLAIN_TEXT,Markdown,JSON,HTML,TypeScript,LESS,SourceMap,SCSS" />
       <project id="trunk" values="PHP,YAML,SourceMap,HTML,Native,Locale,XML,PLAIN_TEXT,UNKNOWN,CSS,Images,SQL,SmartyConfig,Ini,JavaScript,JSON" />
@@ -67,6 +70,7 @@
     <group name="php-interpreter-version">
       <project id="interfacelift" values="not installed" />
       <project id="sponsorportalen" values="5.3.28" />
+      <project id="orchestra" values="not installed" />
       <project id="ssadmin" values="not installed" />
       <project id="ionic-webcadet" values="not installed" />
       <project id="trunk" values="not installed" />
@@ -88,6 +92,7 @@
     <group name="deployment server">
       <project id="interfacelift" values="LOCAL" />
       <project id="sponsorportalen" values="LOCAL" />
+      <project id="orchestra" values="LOCAL" />
       <project id="ssadmin" values="LOCAL" />
       <project id="ionic-webcadet" values="LOCAL" />
       <project id="trunk" values="LOCAL" />
@@ -102,6 +107,7 @@
     <group name="php-interpreters">
       <project id="interfacelift" values="1" />
       <project id="sponsorportalen" values="1" />
+      <project id="orchestra" values="1" />
       <project id="ssadmin" values="1" />
       <project id="ionic-webcadet" values="1" />
       <project id="trunk" values="1" />
@@ -116,6 +122,7 @@
     <group name="javaScript Scope Usages">
       <project id="interfacelift" values="Project,Project" />
       <project id="sponsorportalen" values="Project,Project" />
+      <project id="orchestra" values="Project,Project" />
       <project id="ssadmin" values="Project,Project" />
       <project id="ionic-webcadet" values="Project,Project" />
       <project id="trunk" values="Project,Project" />
@@ -130,6 +137,7 @@
     <group name="php-debug-skipped-paths">
       <project id="interfacelift" values="0" />
       <project id="sponsorportalen" values="0" />
+      <project id="orchestra" values="0" />
       <project id="ssadmin" values="0" />
       <project id="ionic-webcadet" values="0" />
       <project id="trunk" values="0" />
@@ -144,6 +152,7 @@
     <group name="php-servers">
       <project id="interfacelift" values="0" />
       <project id="sponsorportalen" values="1" />
+      <project id="orchestra" values="0" />
       <project id="ssadmin" values="0" />
       <project id="ionic-webcadet" values="0" />
       <project id="trunk" values="1" />
@@ -158,6 +167,7 @@
     <group name="php-include-path">
       <project id="interfacelift" values="0" />
       <project id="sponsorportalen" values="5" />
+      <project id="orchestra" values="0" />
       <project id="ssadmin" values="0" />
       <project id="ionic-webcadet" values="0" />
       <project id="trunk" values="0" />
