@@ -25,6 +25,9 @@
       <webServer id="6204ebfc-e5cb-4d65-833f-3a5e7679ccef" name="notification.dev" url="http://notification.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="9f1fe226-a856-4626-bb56-7c01a26dcf2e" name="orchestra.dev" url="http://orchestra.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
