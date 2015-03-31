@@ -43,5 +43,6 @@
     <property name="COMPOSER_PACKAGE_FILTER" value="doctrine/&#10;Symfony/H" />
     <property name="SqlStructureView.SqlDdlStatement.file.structure.state" value="true" />
     <property name="Copy.OpenInEditor" value="false" />
+    <property name="PhpUnit.Splitter.Proportion" value="0.2" />
   </component>
 </application>
