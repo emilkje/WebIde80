@@ -70,6 +70,7 @@
     <location key="#Interpreters.0.0.2560.1440" x="1596" y="201" />
     <location key="#PHPUnit.0.0.2560.1440" x="1578" y="120" />
     <location key="#test.0.0.2560.1440" x="1671" y="145" />
+    <location key="NewPhpFileDialog.0.0.2560.1440" x="1803" y="392" />
     <size key="OptionsEditor.0.0.1920.1200" width="1349" height="846" />
     <size key="DiffWindow.0.0.1920.1200" width="677" height="800" />
     <size key="DiffWindow.0.0.1440.900" width="1147" height="674" />
