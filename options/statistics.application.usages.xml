@@ -68,7 +68,7 @@
       <project id="orchestra" values="PHP,JSON,YAML,XML,PLAIN_TEXT,Markdown,Images,UNKNOWN" />
       <project id="trunk" values="PHP,YAML,SourceMap,HTML,Native,Locale,XML,PLAIN_TEXT,UNKNOWN,CSS,Images,SQL,SmartyConfig,Ini,JavaScript,JSON" />
       <project id="olkweb3" values="JSHint,PLAIN_TEXT,YAML,SQL,Ini,C++,Native,SCSS,JSCS,PATCH,PHP,UNKNOWN,Locale,XML,CoffeeScript,HTML,ARCHIVE,CSS,LESS,SourceMap,JavaScript,DTD,JSON,SmartyConfig,TypeScript,Markdown,Images" />
-      <project id="ionic-webcadet" values="C++,SASS,XML,ARCHIVE,Images,UNKNOWN,C#,JavaScript,CSS,PLAIN_TEXT,Markdown,JSON,HTML,TypeScript,LESS,SourceMap,SCSS" />
+      <project id="ionic-webcadet" values="Images,XML,TypeScript,C#,LESS,CSS,SourceMap,PLAIN_TEXT,SASS,ARCHIVE,Markdown,C++,JavaScript,JSON,HTML,SCSS,UNKNOWN" />
       <project id="CWKFoto" values="PHP,JSON,XML,UNKNOWN,PLAIN_TEXT" />
       <project id="trysil" values="Cucumber,LESS,ARCHIVE,XML,PATCH,CoffeeScript,PHP,JSON,C++,Ini,YAML,SQL,PLAIN_TEXT,SourceMap,JavaScript,SCSS,SmartyConfig,JSHint,Images,HTML,CSS,Native,SilverStripe,UNKNOWN,htaccess" />
       <project id="untitled" values="PLAIN_TEXT,PHP,UNKNOWN,XML" />
@@ -124,7 +124,7 @@
       <project id="orchestra" values="2" />
       <project id="trunk" values="1" />
       <project id="olkweb3" values="2" />
-      <project id="ionic-webcadet" values="1" />
+      <project id="ionic-webcadet" values="2" />
       <project id="CWKFoto" values="1" />
       <project id="trysil" values="1" />
       <project id="untitled" values="1" />
