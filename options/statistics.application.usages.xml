@@ -65,7 +65,7 @@
       <project id="exchange" values="PHP,XML,PLAIN_TEXT,UNKNOWN,JSON" />
       <project id="interfacelift" values="PLAIN_TEXT,UNKNOWN,XML,JavaScript,JSON" />
       <project id="kolsrud" values="UNKNOWN,JSON,htaccess,XML,PHP,Images,Blade,YAML,PLAIN_TEXT" />
-      <project id="orchestra" values="XML,UNKNOWN,JSON,PLAIN_TEXT,YAML,Markdown,PHP" />
+      <project id="orchestra" values="PHP,JSON,YAML,XML,PLAIN_TEXT,Markdown,Images,UNKNOWN" />
       <project id="trunk" values="PHP,YAML,SourceMap,HTML,Native,Locale,XML,PLAIN_TEXT,UNKNOWN,CSS,Images,SQL,SmartyConfig,Ini,JavaScript,JSON" />
       <project id="olkweb3" values="JSHint,PLAIN_TEXT,YAML,SQL,Ini,C++,Native,SCSS,JSCS,PATCH,PHP,UNKNOWN,Locale,XML,CoffeeScript,HTML,ARCHIVE,CSS,LESS,SourceMap,JavaScript,DTD,JSON,SmartyConfig,TypeScript,Markdown,Images" />
       <project id="ionic-webcadet" values="C++,SASS,XML,ARCHIVE,Images,UNKNOWN,C#,JavaScript,CSS,PLAIN_TEXT,Markdown,JSON,HTML,TypeScript,LESS,SourceMap,SCSS" />
