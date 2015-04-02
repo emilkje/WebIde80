@@ -74,6 +74,7 @@
     <location key="WELCOME_SCREEN.0.0.3008.1692" x="1504" y="300" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.3008.1692" x="2119" y="373" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.3008.1692" x="2214" y="289" />
+    <location key="com.jetbrains.php.phpunit.PhpUnitNewTestDialog.0.0.3008.1692" x="2212" y="385" />
     <size key="OptionsEditor.0.0.1920.1200" width="1349" height="846" />
     <size key="DiffWindow.0.0.1920.1200" width="677" height="800" />
     <size key="DiffWindow.0.0.1440.900" width="1147" height="674" />
@@ -121,6 +122,7 @@
     <size key="jetbrains.javascript.buildTools.gulp.0.0.1440.900" width="250" height="269" />
     <size key="findTextDialog.0.0.2560.1440" width="430" height="483" />
     <size key="#Directories.0.0.1440.900" width="665" height="490" />
+    <size key="com.jetbrains.php.phpunit.PhpUnitNewTestDialog.0.0.3008.1692" width="445" height="365" />
     <extendedState key="CommittedChanges.SplitterProportions.1" state="500" />
     <extendedState key="CommittedChanges.SplitterProportions.0" state="700" />
     <extendedState key="DiffWindow" state="0" />
