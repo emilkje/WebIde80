@@ -72,6 +72,7 @@
     <location key="#test.0.0.2560.1440" x="1671" y="145" />
     <location key="NewPhpFileDialog.0.0.2560.1440" x="1803" y="392" />
     <location key="WELCOME_SCREEN.0.0.3008.1692" x="1504" y="300" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.3008.1692" x="2119" y="373" />
     <size key="OptionsEditor.0.0.1920.1200" width="1349" height="846" />
     <size key="DiffWindow.0.0.1920.1200" width="677" height="800" />
     <size key="DiffWindow.0.0.1440.900" width="1147" height="674" />
