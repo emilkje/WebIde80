@@ -21,7 +21,7 @@
     <feature id="editing.completion.replace" count="12" last-shown="0" last-used="1427217862601" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="5787" last-shown="0" last-used="1427973128818" shown-count="0" />
+    <feature id="editing.select.word" count="5788" last-shown="0" last-used="1427975361829" shown-count="0" />
     <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="46" last-shown="0" last-used="1426880462585" shown-count="0" />
     <feature id="codeassists.comment.block" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -29,7 +29,7 @@
     <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.declaration" count="427" last-shown="0" last-used="1427923581207" shown-count="0" />
     <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="5089" last-shown="0" last-used="1427975067985" shown-count="0" />
+    <feature id="editing.completion.basic" count="5092" last-shown="0" last-used="1427975311162" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="5" last-shown="0" last-used="1411999203975" shown-count="0" />
     <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -43,8 +43,8 @@
     <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="3" last-shown="1418200723227" last-used="1418200726948" shown-count="2" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="25155" />
-      <option name="invocations" value="3604" />
+      <option name="sparedCharacters" value="25163" />
+      <option name="invocations" value="3607" />
       <option name="startDate" value="1411423200000" />
       <option name="dayCount" value="92" />
       <option name="lastDate" value="1427925600000" />
