@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>quickl</find>
       <find>manag</find>
       <find>Manager</find>
       <find>notification</find>
@@ -31,6 +30,7 @@
       <find>spose</find>
       <find>sequ</find>
       <find>There was an error</find>
+      <find>Excep</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
