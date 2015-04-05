@@ -65,7 +65,7 @@
       <project id="exchange" values="PHP,XML,PLAIN_TEXT,UNKNOWN,JSON" />
       <project id="interfacelift" values="PLAIN_TEXT,UNKNOWN,XML,JavaScript,JSON" />
       <project id="kolsrud" values="UNKNOWN,JSON,htaccess,XML,PHP,Images,Blade,YAML,PLAIN_TEXT" />
-      <project id="orchestra" values="PHP,JSON,YAML,XML,PLAIN_TEXT,Markdown,Images,UNKNOWN" />
+      <project id="orchestra" values="PHP,XML,ReST,htaccess,PATCH,JSON,Images,JSHint,JSCS,CSS,UNKNOWN,PLAIN_TEXT,YAML,SQLite Database,Markdown,Ini,ESLint,JavaScript,HTML,SQL,CoffeeScript" />
       <project id="trunk" values="PHP,YAML,SourceMap,HTML,Native,Locale,XML,PLAIN_TEXT,UNKNOWN,CSS,Images,SQL,SmartyConfig,Ini,JavaScript,JSON" />
       <project id="olkweb3" values="JSHint,PLAIN_TEXT,YAML,SQL,Ini,C++,Native,SCSS,JSCS,PATCH,PHP,UNKNOWN,Locale,XML,CoffeeScript,HTML,ARCHIVE,CSS,LESS,SourceMap,JavaScript,DTD,JSON,SmartyConfig,TypeScript,Markdown,Images" />
       <project id="ionic-webcadet" values="Images,XML,TypeScript,C#,LESS,CSS,SourceMap,PLAIN_TEXT,SASS,ARCHIVE,Markdown,C++,JavaScript,JSON,HTML,SCSS,UNKNOWN" />
@@ -201,7 +201,7 @@
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="217" />
+      <entry feature="CreateFile.CreateFileAction" count="218" />
       <entry feature="NewDirectoryProjectAction.PHP Empty Project" count="1" />
       <entry feature="NewDirectoryProjectAction.empty" count="2" />
       <entry feature="execute.JavascriptDebugType.Debug" count="8" />

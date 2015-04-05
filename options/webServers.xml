@@ -28,6 +28,9 @@
       <webServer id="9f1fe226-a856-4626-bb56-7c01a26dcf2e" name="orchestra.dev" url="http://orchestra.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="9eb2d369-6177-482d-8e76-36ac067afb4b" name="psrmessage.dev" url="http://psrmessage.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
