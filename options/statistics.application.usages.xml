@@ -63,7 +63,7 @@
     <group name="file-type">
       <project id="rbase3.0" values="UNKNOWN,PHP,CSS,Locale,XML,YAML,Ini,HTML,Images,JavaScript,SourceMap,SQL,JSON,PLAIN_TEXT" />
       <project id="ssadmin" values="Images,Ini,XML,C++,UNKNOWN,htaccess,YAML,Blade,ARCHIVE,ReST,JSON,JavaScript,TypeScript,PLAIN_TEXT,CSS,LESS,Cucumber,PHP,HTML,Locale" />
-      <project id="sponsorportalen" values="LESS,Ini,SmartyConfig,JavaScript,Images,SQL,YAML,HTML,Locale,Markdown,JSON,PLAIN_TEXT,SCSS,SourceMap,UNKNOWN,CSS,XML,PHP" />
+      <project id="sponsorportalen" values="YAML,CSS,Markdown,JSON,LESS,SourceMap,HTML,SQL,SmartyConfig,XML,PLAIN_TEXT,Images,UNKNOWN,Locale,SCSS,PHP,Ini,JavaScript" />
       <project id="PHPGit" values="JSON,XML,CSS,YAML,PHP,PLAIN_TEXT,Markdown,UNKNOWN,JavaScript" />
       <project id="exchange" values="PHP,XML,PLAIN_TEXT,UNKNOWN,JSON" />
       <project id="interfacelift" values="PLAIN_TEXT,UNKNOWN,XML,JavaScript,JSON" />
