@@ -17,6 +17,7 @@
       <project id="olkweb3" values="DEFAULT" />
       <project id="ionic-webcadet" values="DEFAULT" />
       <project id="CWKFoto" values="DEFAULT" />
+      <project id="psr-message" values="DEFAULT" />
       <project id="trysil" values="DEFAULT" />
       <project id="untitled" values="DEFAULT" />
     </group>
@@ -33,12 +34,14 @@
       <project id="olkweb3" values="WEB_MODULE" />
       <project id="ionic-webcadet" values="WEB_MODULE" />
       <project id="CWKFoto" values="WEB_MODULE" />
+      <project id="psr-message" values="WEB_MODULE" />
       <project id="trysil" values="WEB_MODULE" />
       <project id="untitled" values="WEB_MODULE" />
     </group>
     <group name="vcs">
       <project id="interfacelift" values="Git" />
       <project id="sponsorportalen" values="Git" />
+      <project id="psr-message" values="Git" />
       <project id="ionic-webcadet" values="Git" />
       <project id="trunk" values="svn" />
       <project id="PHPGit" values="Git" />
@@ -70,6 +73,7 @@
       <project id="olkweb3" values="JSHint,PLAIN_TEXT,YAML,SQL,Ini,C++,Native,SCSS,JSCS,PATCH,PHP,UNKNOWN,Locale,XML,CoffeeScript,HTML,ARCHIVE,CSS,LESS,SourceMap,JavaScript,DTD,JSON,SmartyConfig,TypeScript,Markdown,Images" />
       <project id="ionic-webcadet" values="Images,XML,TypeScript,C#,LESS,CSS,SourceMap,PLAIN_TEXT,SASS,ARCHIVE,Markdown,C++,JavaScript,JSON,HTML,SCSS,UNKNOWN" />
       <project id="CWKFoto" values="PHP,JSON,XML,UNKNOWN,PLAIN_TEXT" />
+      <project id="psr-message" values="PLAIN_TEXT,PATCH,Ini,XML,CSS,JavaScript,YAML,HTML,JSON,ARCHIVE,ESLint,ReST,Markdown,JSCS,Images,JSHint,SQL,CoffeeScript,PHP,UNKNOWN" />
       <project id="trysil" values="Cucumber,LESS,ARCHIVE,XML,PATCH,CoffeeScript,PHP,JSON,C++,Ini,YAML,SQL,PLAIN_TEXT,SourceMap,JavaScript,SCSS,SmartyConfig,JSHint,Images,HTML,CSS,Native,SilverStripe,UNKNOWN,htaccess" />
       <project id="untitled" values="PLAIN_TEXT,PHP,UNKNOWN,XML" />
     </group>
@@ -86,13 +90,14 @@
       <project id="olkweb3" values="5.3.28" />
       <project id="ionic-webcadet" values="not installed" />
       <project id="CWKFoto" values="not installed" />
+      <project id="psr-message" values="not installed" />
       <project id="trysil" values="not installed" />
       <project id="untitled" values="not installed" />
     </group>
     <group name="php-interpreter-debug-ext">
-      <project id="olkweb3" values="xdebug" />
       <project id="sponsorportalen" values="xdebug" />
       <project id="PHPGit" values="xdebug" />
+      <project id="olkweb3" values="xdebug" />
     </group>
     <group name="jdbc-driver">
       <project id="sponsorportalen" values="com.mysql.jdbc.Driver" />
@@ -110,6 +115,7 @@
       <project id="olkweb3" values="LOCAL" />
       <project id="ionic-webcadet" values="LOCAL" />
       <project id="CWKFoto" values="LOCAL" />
+      <project id="psr-message" values="LOCAL" />
       <project id="trysil" values="LOCAL" />
       <project id="untitled" values="LOCAL" />
     </group>
@@ -126,6 +132,7 @@
       <project id="olkweb3" values="2" />
       <project id="ionic-webcadet" values="2" />
       <project id="CWKFoto" values="1" />
+      <project id="psr-message" values="2" />
       <project id="trysil" values="1" />
       <project id="untitled" values="1" />
     </group>
@@ -142,6 +149,7 @@
       <project id="olkweb3" values="Project,Project" />
       <project id="ionic-webcadet" values="Project,Project" />
       <project id="CWKFoto" values="Project,Project" />
+      <project id="psr-message" values="Project,Project" />
       <project id="trysil" values="Project,Project" />
       <project id="untitled" values="Project,Project" />
     </group>
@@ -158,6 +166,7 @@
       <project id="olkweb3" values="0" />
       <project id="ionic-webcadet" values="0" />
       <project id="CWKFoto" values="0" />
+      <project id="psr-message" values="0" />
       <project id="trysil" values="0" />
       <project id="untitled" values="0" />
     </group>
@@ -174,6 +183,7 @@
       <project id="olkweb3" values="1" />
       <project id="ionic-webcadet" values="0" />
       <project id="CWKFoto" values="0" />
+      <project id="psr-message" values="0" />
       <project id="trysil" values="0" />
       <project id="untitled" values="0" />
     </group>
@@ -190,6 +200,7 @@
       <project id="olkweb3" values="0" />
       <project id="ionic-webcadet" values="0" />
       <project id="CWKFoto" values="1" />
+      <project id="psr-message" values="0" />
       <project id="trysil" values="1" />
       <project id="untitled" values="0" />
     </group>
