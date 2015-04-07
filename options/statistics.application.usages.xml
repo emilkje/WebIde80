@@ -57,13 +57,13 @@
       <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="sponsorportalen" values="JavascriptDebugType,js.build_tools.gulp" />
+      <project id="sponsorportalen" values="js.build_tools.gulp,JavascriptDebugType" />
       <project id="PHPGit" values="PHPUnitRunConfigurationType,JavascriptDebugType" />
     </group>
     <group name="file-type">
       <project id="rbase3.0" values="UNKNOWN,PHP,CSS,Locale,XML,YAML,Ini,HTML,Images,JavaScript,SourceMap,SQL,JSON,PLAIN_TEXT" />
       <project id="ssadmin" values="Images,Ini,XML,C++,UNKNOWN,htaccess,YAML,Blade,ARCHIVE,ReST,JSON,JavaScript,TypeScript,PLAIN_TEXT,CSS,LESS,Cucumber,PHP,HTML,Locale" />
-      <project id="sponsorportalen" values="SCSS,XML,SQL,SourceMap,Locale,DATASOURCE_STORAGE,Images,PLAIN_TEXT,UNKNOWN,Ini,JSON,SmartyConfig,Markdown,CSS,JavaScript,LESS,YAML,HTML,PHP" />
+      <project id="sponsorportalen" values="LESS,Ini,SmartyConfig,JavaScript,Images,SQL,YAML,HTML,Locale,Markdown,JSON,PLAIN_TEXT,SCSS,SourceMap,UNKNOWN,CSS,XML,PHP" />
       <project id="PHPGit" values="JSON,XML,CSS,YAML,PHP,PLAIN_TEXT,Markdown,UNKNOWN,JavaScript" />
       <project id="exchange" values="PHP,XML,PLAIN_TEXT,UNKNOWN,JSON" />
       <project id="interfacelift" values="PLAIN_TEXT,UNKNOWN,XML,JavaScript,JSON" />
@@ -122,7 +122,7 @@
     <group name="php-interpreters">
       <project id="rbase3.0" values="1" />
       <project id="ssadmin" values="1" />
-      <project id="sponsorportalen" values="1" />
+      <project id="sponsorportalen" values="2" />
       <project id="PHPGit" values="2" />
       <project id="exchange" values="1" />
       <project id="interfacelift" values="1" />
