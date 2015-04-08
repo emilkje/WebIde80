@@ -27,10 +27,10 @@
       <find>SpocontractTe</find>
       <find>put</find>
       <find>$spocontractid</find>
-      <find>$spocontract</find>
       <find>spocontractin</find>
       <find>spocontracttem</find>
       <find>spocontract</find>
+      <find>$spocontract</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
@@ -49,6 +49,7 @@
       <dir>$USER_HOME$/www/project/sponsorportalen/module/data</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate/spocontract</dir>
+      <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate/spocontract/spodocument</dir>
     </dirStrings>
   </component>
 </application>
