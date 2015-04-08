@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>phtml</find>
       <find>Seksj</find>
       <find>console.lo</find>
       <find>console</find>
@@ -31,6 +30,7 @@
       <find>SpocontractTem</find>
       <find>template</find>
       <find>SpocontractTemplateStorage.php</find>
+      <find>SpocontractTe</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
