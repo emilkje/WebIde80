@@ -77,6 +77,8 @@
     <location key="com.jetbrains.php.phpunit.PhpUnitNewTestDialog.0.0.3008.1692" x="2212" y="385" />
     <location key="#Browse_JetBrains_Plugins_.0.0.1440.900" x="314" y="120" />
     <location key="#Browse_Repositories.0.0.1440.900" x="314" y="120" />
+    <location key="replaceTextDialog.0.0.1440.900" x="624" y="202" />
+    <location key="ReplaceDuplicatesPrompt.0.0.1440.900" x="366" y="383" />
     <size key="OptionsEditor.0.0.1920.1200" width="1349" height="846" />
     <size key="DiffWindow.0.0.1920.1200" width="677" height="800" />
     <size key="DiffWindow.0.0.1440.900" width="1147" height="674" />
@@ -125,6 +127,7 @@
     <size key="findTextDialog.0.0.2560.1440" width="430" height="483" />
     <size key="#Directories.0.0.1440.900" width="665" height="490" />
     <size key="com.jetbrains.php.phpunit.PhpUnitNewTestDialog.0.0.3008.1692" width="445" height="365" />
+    <size key="replaceTextDialog.0.0.1440.900" width="540" height="533" />
     <extendedState key="CommittedChanges.SplitterProportions.1" state="500" />
     <extendedState key="CommittedChanges.SplitterProportions.0" state="700" />
     <extendedState key="DiffWindow" state="0" />

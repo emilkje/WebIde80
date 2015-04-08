@@ -1,9 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>Seksj</find>
-      <find>console.lo</find>
-      <find>console</find>
       <find>bar</find>
       <find>Settings</find>
       <find>onError</find>
@@ -31,7 +28,13 @@
       <find>template</find>
       <find>SpocontractTemplateStorage.php</find>
       <find>SpocontractTe</find>
+      <find>put</find>
+      <find>$spocontractid</find>
+      <find>$spocontract</find>
     </findStrings>
+    <replaceStrings>
+      <replace>$spocontracttemplate</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
       <dir>$USER_HOME$/www/project/olkweb3/resource/less/modules</dir>
@@ -45,6 +48,7 @@
       <dir>$USER_HOME$/cordova/ionic-webcadet/www</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/data</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
+      <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate/spocontract</dir>
     </dirStrings>
   </component>
 </application>
