@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>Proce</find>
       <find>Notification</find>
       <find>select2</find>
       <find>phtml</find>
@@ -31,6 +30,7 @@
       <find>processIndexConditions</find>
       <find>template</find>
       <find>t</find>
+      <find>postSpocon</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
