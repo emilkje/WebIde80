@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>navigator.network.connection.type</find>
-      <find>#bbb</find>
       <find>getSpose</find>
       <find>isNul</find>
       <find>setNul</find>
@@ -31,6 +29,8 @@
       <find>spocontracttem</find>
       <find>spocontract</find>
       <find>$spocontract</find>
+      <find>tool</find>
+      <find>document-ti</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
