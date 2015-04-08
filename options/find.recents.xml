@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>select2</find>
       <find>phtml</find>
       <find>Seksj</find>
       <find>console.lo</find>
@@ -27,16 +26,16 @@
       <find>Musei</find>
       <find>text-wa</find>
       <find>processIndexConditions</find>
-      <find>template</find>
       <find>t</find>
       <find>postSpocon</find>
       <find>SpocontractTem</find>
+      <find>template</find>
+      <find>SpocontractTemplateStorage.php</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
       <dir>$USER_HOME$/www/project/olkweb3/resource/less/modules</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template</dir>
-      <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
       <dir>$USER_HOME$/www/project/olkweb3/resource/less</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module</dir>
@@ -45,6 +44,7 @@
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate</dir>
       <dir>$USER_HOME$/cordova/ionic-webcadet/www</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/data</dir>
+      <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
     </dirStrings>
   </component>
 </application>
