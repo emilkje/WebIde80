@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>setNu</find>
       <find>delete</find>
       <find>spose</find>
       <find>sequ</find>
@@ -31,6 +30,7 @@
       <find>headin</find>
       <find>heading</find>
       <find>/avta</find>
+      <find>spodocument.index.phtml</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
@@ -47,9 +47,9 @@
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate</dir>
       <dir>$USER_HOME$/cordova/ionic-webcadet/www</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/data</dir>
-      <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate/spocontract</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate/spocontract/spodocument</dir>
+      <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
     </dirStrings>
   </component>
 </application>
