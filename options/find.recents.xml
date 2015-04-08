@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>setNul</find>
       <find>setNu</find>
       <find>delete</find>
       <find>spose</find>
@@ -31,6 +30,7 @@
       <find>document-ti</find>
       <find>headin</find>
       <find>heading</find>
+      <find>/avta</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
