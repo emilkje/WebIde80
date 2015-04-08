@@ -50,6 +50,6 @@
     <property name="sm_test_statistics_table_columnsOrder1" value="1" />
     <property name="sm_test_statistics_table_columnsWidth2" value="75" />
     <property name="sm_test_statistics_table_columnsOrder2" value="2" />
-    <property name="PLUGIN_FILTER" value="Git" />
+    <property name="PLUGIN_FILTER" value="Flow&#10;Git" />
   </component>
 </application>

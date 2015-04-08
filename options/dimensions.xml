@@ -75,6 +75,8 @@
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.3008.1692" x="2119" y="373" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.3008.1692" x="2214" y="289" />
     <location key="com.jetbrains.php.phpunit.PhpUnitNewTestDialog.0.0.3008.1692" x="2212" y="385" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1440.900" x="314" y="120" />
+    <location key="#Browse_Repositories.0.0.1440.900" x="314" y="120" />
     <size key="OptionsEditor.0.0.1920.1200" width="1349" height="846" />
     <size key="DiffWindow.0.0.1920.1200" width="677" height="800" />
     <size key="DiffWindow.0.0.1440.900" width="1147" height="674" />
