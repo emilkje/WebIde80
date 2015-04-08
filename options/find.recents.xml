@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>quicklo</find>
       <find>nm</find>
       <find>ResourcePr</find>
       <find>Proce</find>
@@ -31,6 +30,7 @@
       <find>Museo</find>
       <find>Musei</find>
       <find>text-wa</find>
+      <find>processIndexConditions</find>
     </findStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
@@ -44,6 +44,7 @@
       <dir>$USER_HOME$/www/project/olkweb3/module/notify</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate</dir>
       <dir>$USER_HOME$/cordova/ionic-webcadet/www</dir>
+      <dir>$USER_HOME$/www/project/sponsorportalen/module/data</dir>
     </dirStrings>
   </component>
 </application>
