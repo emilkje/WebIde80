@@ -29,8 +29,8 @@
       <find>overlay</find>
       <find>autoload</find>
       <find>autolo</find>
-      <find>trigger-overlay</find>
       <find>noteorgunit.default.overlay.phtml</find>
+      <find>trigger-overlay</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
