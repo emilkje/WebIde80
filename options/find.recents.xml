@@ -28,9 +28,9 @@
       <find>Kommentar lagret</find>
       <find>.sweet-overlay</find>
       <find>data-toggle=&quot;overlay&quot;</find>
-      <find>trigger-overlay</find>
       <find>toggleOverlay</find>
       <find>overlay</find>
+      <find>trigger-overlay</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
