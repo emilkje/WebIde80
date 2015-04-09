@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>SpocontractTem</find>
-      <find>SpocontractTemplateStorage.php</find>
       <find>SpocontractTe</find>
       <find>put</find>
       <find>$spocontractid</find>
@@ -31,6 +29,8 @@
       <find>.overlay</find>
       <find>bs.</find>
       <find>toggle</find>
+      <find>task-doc-overlay-106</find>
+      <find>task-doc-overlay-</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
@@ -52,8 +52,8 @@
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
-      <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
       <dir>$USER_HOME$/www/project/olkweb3/resource/less</dir>
+      <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
     </dirStrings>
   </component>
 </application>
