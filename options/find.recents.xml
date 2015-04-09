@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>spocontract</find>
       <find>$spocontract</find>
       <find>tool</find>
       <find>document-ti</find>
@@ -31,6 +30,7 @@
       <find>add_documentation_comment-</find>
       <find>ajaxpost</find>
       <find>Kommentar lagret</find>
+      <find>.sweet-overlay</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
@@ -52,8 +52,8 @@
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
-      <dir>$USER_HOME$/www/project/olkweb3/resource/less</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
+      <dir>$USER_HOME$/www/project/olkweb3/resource/less</dir>
     </dirStrings>
   </component>
 </application>
