@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>$spocontract</find>
-      <find>tool</find>
       <find>document-ti</find>
       <find>headin</find>
       <find>heading</find>
@@ -31,6 +29,8 @@
       <find>Kommentar lagret</find>
       <find>.sweet-overlay</find>
       <find>data-toggle=&quot;overlay&quot;</find>
+      <find>trigger-overlay</find>
+      <find>toggleOverlay</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
