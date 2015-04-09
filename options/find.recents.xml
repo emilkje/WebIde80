@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>spocontracttem</find>
       <find>spocontract</find>
       <find>$spocontract</find>
       <find>tool</find>
@@ -31,6 +30,7 @@
       <find>data-toggle=&quot;overlay&quot;</find>
       <find>add_documentation_comment-</find>
       <find>ajaxpost</find>
+      <find>Kommentar lagret</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
