@@ -25,12 +25,12 @@
       <find>Templ</find>
       <find>compil</find>
       <find>SpocontractTemplate</find>
-      <find>overlaydocumentation</find>
       <find>comp-desc-overlay</find>
       <find>fullsc</find>
       <find>full</find>
       <find>lib</find>
       <find>overlay-close</find>
+      <find>overlaydocumentation</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
