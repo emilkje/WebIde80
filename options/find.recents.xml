@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>sequ</find>
-      <find>There was an error</find>
       <find>Excep</find>
       <find>Host</find>
       <find>hasHe</find>
@@ -14,7 +12,6 @@
       <find>t</find>
       <find>postSpocon</find>
       <find>SpocontractTem</find>
-      <find>template</find>
       <find>SpocontractTemplateStorage.php</find>
       <find>SpocontractTe</find>
       <find>put</find>
@@ -31,6 +28,9 @@
       <find>spodocument.index.phtml</find>
       <find>spo/spotemplate/spocontract</find>
       <find>spo/spotemplate/sposection</find>
+      <find>template</find>
+      <find>Templ</find>
+      <find>compil</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
