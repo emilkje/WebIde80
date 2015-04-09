@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>spose</find>
       <find>sequ</find>
       <find>There was an error</find>
       <find>Excep</find>
@@ -31,15 +30,16 @@
       <find>/avta</find>
       <find>spodocument.index.phtml</find>
       <find>spo/spotemplate/spocontract</find>
+      <find>spo/spotemplate/sposection</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
       <replace>spo/spocontracttemplate</replace>
+      <replace>spo/sposectiontemplate</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
       <dir>$USER_HOME$/www/project/olkweb3/resource/less/modules</dir>
-      <dir>$USER_HOME$/www/project/sponsorportalen/module/template</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
       <dir>$USER_HOME$/www/project/olkweb3/resource/less</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module</dir>
@@ -52,6 +52,7 @@
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate/spocontract/spodocument</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo</dir>
+      <dir>$USER_HOME$/www/project/sponsorportalen/module/template</dir>
     </dirStrings>
   </component>
 </application>
