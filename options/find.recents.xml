@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>document-ti</find>
       <find>headin</find>
       <find>heading</find>
       <find>/avta</find>
@@ -31,6 +30,7 @@
       <find>data-toggle=&quot;overlay&quot;</find>
       <find>trigger-overlay</find>
       <find>toggleOverlay</find>
+      <find>overlay</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
