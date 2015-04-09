@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>headin</find>
       <find>heading</find>
       <find>/avta</find>
       <find>spodocument.index.phtml</find>
@@ -31,6 +30,7 @@
       <find>toggleOverlay</find>
       <find>overlay</find>
       <find>trigger-overlay</find>
+      <find>autoload</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
@@ -54,6 +54,7 @@
       <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
       <dir>$USER_HOME$/www/project/olkweb3/resource/less</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
+      <dir>$USER_HOME$/www/project/olkweb3/module/template/documentation</dir>
     </dirStrings>
   </component>
 </application>
