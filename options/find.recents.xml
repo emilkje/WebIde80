@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>heading</find>
       <find>/avta</find>
       <find>spodocument.index.phtml</find>
       <find>spo/spotemplate/spocontract</find>
@@ -31,6 +30,7 @@
       <find>overlay</find>
       <find>trigger-overlay</find>
       <find>autoload</find>
+      <find>autolo</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
