@@ -28,9 +28,9 @@
       <find>data-toggle=&quot;overlay&quot;</find>
       <find>toggleOverlay</find>
       <find>overlay</find>
-      <find>trigger-overlay</find>
       <find>autoload</find>
       <find>autolo</find>
+      <find>trigger-overlay</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
@@ -53,8 +53,8 @@
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
       <dir>$USER_HOME$/www/project/olkweb3/resource/less</dir>
-      <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module/template/documentation</dir>
+      <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
     </dirStrings>
   </component>
 </application>
