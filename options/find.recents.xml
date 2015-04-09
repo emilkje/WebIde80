@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>Excep</find>
       <find>Host</find>
       <find>hasHe</find>
       <find>InvalidAr</find>
@@ -31,11 +30,13 @@
       <find>template</find>
       <find>Templ</find>
       <find>compil</find>
+      <find>SpocontractTemplate</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
       <replace>spo/spocontracttemplate</replace>
       <replace>spo/sposectiontemplate</replace>
+      <replace>Spocontracttemplate</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
@@ -50,9 +51,9 @@
       <dir>$USER_HOME$/www/project/sponsorportalen/module/data</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate/spocontract</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate/spocontract/spodocument</dir>
-      <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template</dir>
+      <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
     </dirStrings>
   </component>
 </application>
