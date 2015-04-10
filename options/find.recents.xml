@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>Templ</find>
       <find>compil</find>
       <find>SpocontractTemplate</find>
       <find>comp-desc-overlay</find>
@@ -31,6 +30,7 @@
       <find>trigger-</find>
       <find>overla</find>
       <find>objectived</find>
+      <find>comp-de</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
