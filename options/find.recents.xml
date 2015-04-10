@@ -26,11 +26,11 @@
       <find>noteorgunit.default.overlay.phtml</find>
       <find>trigger-overlay</find>
       <find>id=&quot;overlay-</find>
-      <find>trigger-</find>
       <find>overla</find>
       <find>objectived</find>
       <find>comp-desc-overlay</find>
       <find>comp-de</find>
+      <find>trigger-</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
