@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>compil</find>
       <find>SpocontractTemplate</find>
       <find>fullsc</find>
       <find>full</find>
@@ -31,6 +30,7 @@
       <find>comp-de</find>
       <find>trigger-</find>
       <find>trigger-overlay</find>
+      <find>competence-over</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
