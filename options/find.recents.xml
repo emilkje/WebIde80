@@ -24,13 +24,13 @@
       <find>autoload</find>
       <find>autolo</find>
       <find>noteorgunit.default.overlay.phtml</find>
-      <find>trigger-overlay</find>
       <find>id=&quot;overlay-</find>
       <find>overla</find>
       <find>objectived</find>
       <find>comp-desc-overlay</find>
       <find>comp-de</find>
       <find>trigger-</find>
+      <find>trigger-overlay</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
