@@ -24,13 +24,13 @@
       <find>comp-desc-overlay</find>
       <find>comp-de</find>
       <find>trigger-</find>
-      <find>trigger-overlay</find>
       <find>competence-over</find>
       <find>trigg</find>
       <find>data-toggle=&quot;ov</find>
       <find>planele</find>
       <find>11px</find>
       <find>12px</find>
+      <find>trigger-overlay</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
