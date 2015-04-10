@@ -24,13 +24,13 @@
       <find>planele</find>
       <find>11px</find>
       <find>12px</find>
-      <find>trigger-overlay</find>
       <find>type</find>
       <find>Ã</find>
       <find>plancon</find>
       <find>blockli</find>
       <find>competencecomment-</find>
       <find>autolo</find>
+      <find>trigger-overlay</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
