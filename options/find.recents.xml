@@ -3,7 +3,6 @@
     <findStrings>
       <find>compil</find>
       <find>SpocontractTemplate</find>
-      <find>comp-desc-overlay</find>
       <find>fullsc</find>
       <find>full</find>
       <find>lib</find>
@@ -30,6 +29,7 @@
       <find>trigger-</find>
       <find>overla</find>
       <find>objectived</find>
+      <find>comp-desc-overlay</find>
       <find>comp-de</find>
     </findStrings>
     <replaceStrings>
