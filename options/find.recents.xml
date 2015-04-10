@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>lib</find>
-      <find>overlay-close</find>
       <find>overlaydocumentation</find>
       <find>.overlay</find>
       <find>bs.</find>
@@ -31,6 +29,8 @@
       <find>trigg</find>
       <find>data-toggle=&quot;ov</find>
       <find>planele</find>
+      <find>11px</find>
+      <find>12px</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
