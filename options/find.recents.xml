@@ -11,7 +11,6 @@
       <find>toggleOverlay</find>
       <find>overlay</find>
       <find>autoload</find>
-      <find>autolo</find>
       <find>noteorgunit.default.overlay.phtml</find>
       <find>id=&quot;overlay-</find>
       <find>overla</find>
@@ -31,6 +30,7 @@
       <find>plancon</find>
       <find>blockli</find>
       <find>competencecomment-</find>
+      <find>autolo</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
