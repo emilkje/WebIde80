@@ -65,7 +65,7 @@
     <group name="file-type">
       <project id="rbase3.0" values="SQL,HTML,CSS,UNKNOWN,Ini,PHP,YAML,JavaScript,JSON,Locale,XML,Images,PLAIN_TEXT,SourceMap" />
       <project id="ssadmin" values="ARCHIVE,PLAIN_TEXT,Images,LESS,Cucumber,TypeScript,ReST,PHP,Blade,JSON,UNKNOWN,YAML,C++,htaccess,CSS,HTML,Locale,Ini,JavaScript,XML" />
-      <project id="sponsorportalen" values="JavaScript,SourceMap,SQL,Images,Git file,SCSS,DATASOURCE_STORAGE,UNKNOWN,JSON,LESS,HTML,Ini,PLAIN_TEXT,Locale,XML,PHP,SmartyConfig,YAML,CSS,Markdown" />
+      <project id="sponsorportalen" values="UNKNOWN,CSS,Images,SCSS,PHP,SmartyConfig,HTML,Locale,JSON,SQL,Git file,DATASOURCE_STORAGE,LESS,Markdown,JavaScript,SourceMap,XML,PLAIN_TEXT,Ini" />
       <project id="orchestra" values="ReST,Ini,PATCH,PLAIN_TEXT,JSHint,Images,htaccess,UNKNOWN,YAML,SQLite Database,CSS,PHP,ESLint,CoffeeScript,JSON,XML,JSCS,JavaScript,Markdown,HTML,SQL" />
       <project id="PHPGit" values="XML,YAML,JSON,UNKNOWN,JavaScript,PHP,PLAIN_TEXT,Markdown,CSS" />
       <project id="exchange" values="UNKNOWN,PLAIN_TEXT,PHP,XML,JSON" />
