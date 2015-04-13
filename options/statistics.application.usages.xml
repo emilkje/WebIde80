@@ -73,7 +73,7 @@
       <project id="kolsrud" values="PHP,Images,YAML,Blade,htaccess,PLAIN_TEXT,UNKNOWN,JSON,XML" />
       <project id="jira-release-notes" values="XML,PLAIN_TEXT,PHP,Markdown,JSON,SmartyConfig,UNKNOWN,Images,YAML" />
       <project id="trunk" values="YAML,Images,Native,SourceMap,Ini,CSS,PHP,XML,UNKNOWN,Locale,PLAIN_TEXT,SmartyConfig,JavaScript,SQL,HTML,JSON" />
-      <project id="olkweb3" values="ARCHIVE,C++,Ini,Markdown,SCSS,UNKNOWN,JSCS,TypeScript,SmartyConfig,PHP,Locale,Native,XML,YAML,SourceMap,CoffeeScript,JSON,LESS,SQL,PLAIN_TEXT,JSHint,DTD,Images,PATCH,JavaScript,HTML,CSS" />
+      <project id="olkweb3" values="XML,CSS,DTD,Native,TypeScript,PLAIN_TEXT,Markdown,ARCHIVE,C++,JSHint,LESS,Npm file,Git file,Ini,PATCH,PHP,CoffeeScript,Locale,HTML,UNKNOWN,SQL,SmartyConfig,SourceMap,JSCS,JavaScript,SCSS,JSON,YAML,Images" />
       <project id="untitled" values="PLAIN_TEXT,PHP,XML,UNKNOWN" />
       <project id="ionic-webcadet" values="SourceMap,Images,ARCHIVE,CSS,Markdown,C#,C++,JavaScript,SASS,PLAIN_TEXT,LESS,HTML,SCSS,JSON,XML,UNKNOWN,TypeScript" />
       <project id="psr-message" values="JavaScript,Images,Ini,ReST,UNKNOWN,PHP,PATCH,JSON,JSCS,ARCHIVE,ESLint,CoffeeScript,CSS,XML,JSHint,HTML,YAML,SQL,PLAIN_TEXT,Markdown" />
