@@ -8,6 +8,7 @@
       <project id="rbase3.0" values="DEFAULT" />
       <project id="ssadmin" values="DEFAULT" />
       <project id="sponsorportalen" values="DEFAULT" />
+      <project id="rbasesocket" values="DEFAULT" />
       <project id="orchestra" values="DEFAULT" />
       <project id="PHPGit" values="DEFAULT" />
       <project id="exchange" values="DEFAULT" />
@@ -26,6 +27,7 @@
       <project id="rbase3.0" values="WEB_MODULE" />
       <project id="ssadmin" values="WEB_MODULE" />
       <project id="sponsorportalen" values="WEB_MODULE" />
+      <project id="rbasesocket" values="WEB_MODULE" />
       <project id="orchestra" values="WEB_MODULE" />
       <project id="PHPGit" values="WEB_MODULE" />
       <project id="exchange" values="WEB_MODULE" />
@@ -66,6 +68,7 @@
       <project id="rbase3.0" values="SQL,HTML,CSS,UNKNOWN,Ini,PHP,YAML,JavaScript,JSON,Locale,XML,Images,PLAIN_TEXT,SourceMap" />
       <project id="ssadmin" values="ARCHIVE,PLAIN_TEXT,Images,LESS,Cucumber,TypeScript,ReST,PHP,Blade,JSON,UNKNOWN,YAML,C++,htaccess,CSS,HTML,Locale,Ini,JavaScript,XML" />
       <project id="sponsorportalen" values="UNKNOWN,CSS,Images,SCSS,PHP,SmartyConfig,HTML,Locale,JSON,SQL,Git file,DATASOURCE_STORAGE,LESS,Markdown,JavaScript,SourceMap,XML,PLAIN_TEXT,Ini" />
+      <project id="rbasesocket" values="C++,CSS,Images,JSON,PHP,Markdown,UNKNOWN,Npm file,PLAIN_TEXT,HTML,ESLint,JSHint,XML,JavaScript,SCSS,TypeScript,JSCS,Git file,LESS,ARCHIVE,SQL,Locale,CoffeeScript,SmartyConfig,YAML,PATCH,Ini,SourceMap" />
       <project id="orchestra" values="ReST,Ini,PATCH,PLAIN_TEXT,JSHint,Images,htaccess,UNKNOWN,YAML,SQLite Database,CSS,PHP,ESLint,CoffeeScript,JSON,XML,JSCS,JavaScript,Markdown,HTML,SQL" />
       <project id="PHPGit" values="XML,YAML,JSON,UNKNOWN,JavaScript,PHP,PLAIN_TEXT,Markdown,CSS" />
       <project id="exchange" values="UNKNOWN,PLAIN_TEXT,PHP,XML,JSON" />
@@ -84,6 +87,7 @@
       <project id="rbase3.0" values="not installed" />
       <project id="ssadmin" values="not installed" />
       <project id="sponsorportalen" values="5.3.28" />
+      <project id="rbasesocket" values="not installed" />
       <project id="orchestra" values="not installed" />
       <project id="PHPGit" values="5.4.34" />
       <project id="exchange" values="not installed" />
@@ -110,6 +114,7 @@
       <project id="rbase3.0" values="LOCAL" />
       <project id="ssadmin" values="LOCAL" />
       <project id="sponsorportalen" values="LOCAL" />
+      <project id="rbasesocket" values="LOCAL" />
       <project id="orchestra" values="LOCAL" />
       <project id="PHPGit" values="LOCAL" />
       <project id="exchange" values="LOCAL" />
@@ -128,6 +133,7 @@
       <project id="rbase3.0" values="1" />
       <project id="ssadmin" values="1" />
       <project id="sponsorportalen" values="2" />
+      <project id="rbasesocket" values="2" />
       <project id="orchestra" values="2" />
       <project id="PHPGit" values="2" />
       <project id="exchange" values="1" />
@@ -146,6 +152,7 @@
       <project id="rbase3.0" values="Project,Project" />
       <project id="ssadmin" values="Project,Project" />
       <project id="sponsorportalen" values="Project,Project" />
+      <project id="rbasesocket" values="Project,Project" />
       <project id="orchestra" values="Project,Project" />
       <project id="PHPGit" values="Project,Project" />
       <project id="exchange" values="Project,Project" />
@@ -164,6 +171,7 @@
       <project id="rbase3.0" values="0" />
       <project id="ssadmin" values="0" />
       <project id="sponsorportalen" values="0" />
+      <project id="rbasesocket" values="0" />
       <project id="orchestra" values="0" />
       <project id="PHPGit" values="0" />
       <project id="exchange" values="0" />
@@ -182,6 +190,7 @@
       <project id="rbase3.0" values="0" />
       <project id="ssadmin" values="0" />
       <project id="sponsorportalen" values="1" />
+      <project id="rbasesocket" values="0" />
       <project id="orchestra" values="0" />
       <project id="PHPGit" values="0" />
       <project id="exchange" values="0" />
@@ -200,6 +209,7 @@
       <project id="rbase3.0" values="0" />
       <project id="ssadmin" values="0" />
       <project id="sponsorportalen" values="5" />
+      <project id="rbasesocket" values="0" />
       <project id="orchestra" values="0" />
       <project id="PHPGit" values="0" />
       <project id="exchange" values="1" />
