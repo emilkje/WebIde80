@@ -56,9 +56,9 @@
     </group>
     <group name="run-configuration-type">
       <project id="sponsorportalen" values="PhpWebAppRunConfigurationType" />
-      <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
-      <project id="PHPGit" values="PHPUnitRunConfigurationType" />
       <project id="trunk" values="PhpWebAppRunConfigurationType" />
+      <project id="PHPGit" values="PHPUnitRunConfigurationType" />
+      <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
     </group>
     <group name="run-configuration-type-temp">
       <project id="sponsorportalen" values="js.build_tools.gulp,JavascriptDebugType" />
@@ -78,7 +78,7 @@
       <project id="trunk" values="YAML,Images,Native,SourceMap,Ini,CSS,PHP,XML,UNKNOWN,Locale,PLAIN_TEXT,SmartyConfig,JavaScript,SQL,HTML,JSON" />
       <project id="olkweb3" values="PHP,JavaScript,SQL,Npm file,PATCH,Ini,Git file,XML,CoffeeScript,Native,SCSS,LESS,SourceMap,TypeScript,JSON,SmartyConfig,C++,ARCHIVE,DTD,Markdown,HTML,Images,YAML,UNKNOWN,PLAIN_TEXT,JSCS,JSHint,CSS,Locale" />
       <project id="untitled" values="PLAIN_TEXT,PHP,XML,UNKNOWN" />
-      <project id="ionic-webcadet" values="SourceMap,Images,ARCHIVE,CSS,Markdown,C#,C++,JavaScript,SASS,PLAIN_TEXT,LESS,HTML,SCSS,JSON,XML,UNKNOWN,TypeScript" />
+      <project id="ionic-webcadet" values="JavaScript,C#,UNKNOWN,HTML,SCSS,LESS,JSON,XML,Images,Git file,PLAIN_TEXT,ARCHIVE,SASS,SourceMap,CSS,Markdown,TypeScript,Npm file,C++" />
       <project id="psr-message" values="JavaScript,Images,Ini,ReST,UNKNOWN,PHP,PATCH,JSON,JSCS,ARCHIVE,ESLint,CoffeeScript,CSS,XML,JSHint,HTML,YAML,SQL,PLAIN_TEXT,Markdown" />
       <project id="trysil" values="LESS,XML,Images,htaccess,JavaScript,JSHint,SilverStripe,Native,SourceMap,SCSS,CSS,JSON,YAML,Ini,HTML,PATCH,CoffeeScript,UNKNOWN,ARCHIVE,C++,SQL,SmartyConfig,PLAIN_TEXT,Cucumber,PHP" />
       <project id="CWKFoto" values="PHP,XML,UNKNOWN,JSON,PLAIN_TEXT" />
