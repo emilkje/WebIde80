@@ -72,6 +72,7 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/www/project/starter-project" />
         <option value="$USER_HOME$/cordova/ionic-webcadet" />
         <option value="$USER_HOME$/pers/rbasesocket" />
         <option value="$USER_HOME$/www/project/olkweb3" />
@@ -94,6 +95,7 @@
         <option value="$USER_HOME$/www/project/olkweb3/Olkweb3" />
       </list>
     </option>
+    <option name="lastPath" value="$USER_HOME$/www/project/starter-project" />
   </component>
   <component name="RecentTaskRepositories">
     <JIRA shared="false" url="http://jira.innit.no:8081">
