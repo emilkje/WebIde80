@@ -96,6 +96,11 @@
         <option value="$USER_HOME$/www/project/olkweb3/Olkweb3" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/pers/Streetlapse" />
+      </list>
+    </option>
     <option name="lastPath" value="$USER_HOME$/pers/Streetlapse" />
   </component>
   <component name="RecentTaskRepositories">

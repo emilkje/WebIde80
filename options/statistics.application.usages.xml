@@ -18,6 +18,7 @@
       <project id="trunk" values="DEFAULT" />
       <project id="olkweb3" values="DEFAULT" />
       <project id="untitled" values="DEFAULT" />
+      <project id="Streetlapse" values="DEFAULT" />
       <project id="ionic-webcadet" values="DEFAULT" />
       <project id="starter-project" values="DEFAULT" />
       <project id="psr-message" values="DEFAULT" />
@@ -38,6 +39,7 @@
       <project id="trunk" values="WEB_MODULE" />
       <project id="olkweb3" values="WEB_MODULE" />
       <project id="untitled" values="WEB_MODULE" />
+      <project id="Streetlapse" values="WEB_MODULE" />
       <project id="ionic-webcadet" values="WEB_MODULE" />
       <project id="starter-project" values="WEB_MODULE" />
       <project id="psr-message" values="WEB_MODULE" />
@@ -48,6 +50,7 @@
       <project id="interfacelift" values="Git" />
       <project id="sponsorportalen" values="Git" />
       <project id="psr-message" values="Git" />
+      <project id="Streetlapse" values="Git" />
       <project id="starter-project" values="Git" />
       <project id="ionic-webcadet" values="Git" />
       <project id="trunk" values="svn" />
@@ -81,6 +84,7 @@
       <project id="trunk" values="YAML,Images,Native,SourceMap,Ini,CSS,PHP,XML,UNKNOWN,Locale,PLAIN_TEXT,SmartyConfig,JavaScript,SQL,HTML,JSON" />
       <project id="olkweb3" values="PHP,JavaScript,SQL,Npm file,PATCH,Ini,Git file,XML,CoffeeScript,Native,SCSS,LESS,SourceMap,TypeScript,JSON,SmartyConfig,C++,ARCHIVE,DTD,Markdown,HTML,Images,YAML,UNKNOWN,PLAIN_TEXT,JSCS,JSHint,CSS,Locale" />
       <project id="untitled" values="PLAIN_TEXT,PHP,XML,UNKNOWN" />
+      <project id="Streetlapse" values="JavaScript,CoffeeScript,Images,Git file,UNKNOWN,XML,Markdown,ARCHIVE,CSS,JSON,Npm file,PLAIN_TEXT,HTML,YAML,JSHint" />
       <project id="ionic-webcadet" values="JavaScript,C#,UNKNOWN,HTML,SCSS,LESS,JSON,XML,Images,Git file,PLAIN_TEXT,ARCHIVE,SASS,SourceMap,CSS,Markdown,TypeScript,Npm file,C++" />
       <project id="starter-project" values="PHP,Git file,Locale,JSCS,ARCHIVE,SmartyConfig,Ini,SCSS,JSON,ESLint,UNKNOWN,Images,PATCH,JSHint,PLAIN_TEXT,SQL,XML,TypeScript,YAML,DTD,CSS,Npm file,HTML,SourceMap,Markdown,JavaScript,LESS,C++,CoffeeScript" />
       <project id="psr-message" values="JavaScript,Images,Ini,ReST,UNKNOWN,PHP,PATCH,JSON,JSCS,ARCHIVE,ESLint,CoffeeScript,CSS,XML,JSHint,HTML,YAML,SQL,PLAIN_TEXT,Markdown" />
@@ -101,6 +105,7 @@
       <project id="trunk" values="not installed" />
       <project id="olkweb3" values="5.3.28" />
       <project id="untitled" values="not installed" />
+      <project id="Streetlapse" values="not installed" />
       <project id="ionic-webcadet" values="not installed" />
       <project id="starter-project" values="not installed" />
       <project id="psr-message" values="not installed" />
@@ -129,6 +134,7 @@
       <project id="trunk" values="LOCAL" />
       <project id="olkweb3" values="LOCAL" />
       <project id="untitled" values="LOCAL" />
+      <project id="Streetlapse" values="LOCAL" />
       <project id="ionic-webcadet" values="LOCAL" />
       <project id="starter-project" values="LOCAL" />
       <project id="psr-message" values="LOCAL" />
@@ -149,6 +155,7 @@
       <project id="trunk" values="1" />
       <project id="olkweb3" values="2" />
       <project id="untitled" values="1" />
+      <project id="Streetlapse" values="2" />
       <project id="ionic-webcadet" values="2" />
       <project id="starter-project" values="2" />
       <project id="psr-message" values="2" />
@@ -169,6 +176,7 @@
       <project id="trunk" values="Project,Project" />
       <project id="olkweb3" values="Project,Project" />
       <project id="untitled" values="Project,Project" />
+      <project id="Streetlapse" values="Project,Project" />
       <project id="ionic-webcadet" values="Project,Project" />
       <project id="starter-project" values="Project,Project" />
       <project id="psr-message" values="Project,Project" />
@@ -189,6 +197,7 @@
       <project id="trunk" values="0" />
       <project id="olkweb3" values="0" />
       <project id="untitled" values="0" />
+      <project id="Streetlapse" values="0" />
       <project id="ionic-webcadet" values="0" />
       <project id="starter-project" values="0" />
       <project id="psr-message" values="0" />
@@ -209,6 +218,7 @@
       <project id="trunk" values="1" />
       <project id="olkweb3" values="1" />
       <project id="untitled" values="0" />
+      <project id="Streetlapse" values="0" />
       <project id="ionic-webcadet" values="0" />
       <project id="starter-project" values="0" />
       <project id="psr-message" values="0" />
@@ -229,6 +239,7 @@
       <project id="trunk" values="0" />
       <project id="olkweb3" values="0" />
       <project id="untitled" values="0" />
+      <project id="Streetlapse" values="0" />
       <project id="ionic-webcadet" values="0" />
       <project id="starter-project" values="0" />
       <project id="psr-message" values="0" />
