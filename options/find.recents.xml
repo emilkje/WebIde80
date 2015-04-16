@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>overlay</find>
-      <find>autoload</find>
       <find>noteorgunit.default.overlay.phtml</find>
       <find>id=&quot;overlay-</find>
       <find>overla</find>
@@ -31,6 +29,8 @@
       <find>217</find>
       <find>_point_index</find>
       <find>_h_points</find>
+      <find>handlePla</find>
+      <find>onPlay</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
