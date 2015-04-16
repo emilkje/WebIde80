@@ -1,9 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>overla</find>
-      <find>objectived</find>
-      <find>comp-desc-overlay</find>
       <find>comp-de</find>
       <find>trigger-</find>
       <find>competence-over</find>
@@ -31,6 +28,9 @@
       <find>onPlay</find>
       <find>split</find>
       <find>onRouteC</find>
+      <find>console.</find>
+      <find>console.lo</find>
+      <find>console.err</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
