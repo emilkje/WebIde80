@@ -51,5 +51,6 @@
     <property name="sm_test_statistics_table_columnsWidth2" value="75" />
     <property name="sm_test_statistics_table_columnsOrder2" value="2" />
     <property name="PLUGIN_FILTER" value="Flow&#10;Git" />
+    <property name="bashsupport.weddingNotification.shown" value="1" />
   </component>
 </application>
