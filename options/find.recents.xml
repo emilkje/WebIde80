@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>trigger-</find>
       <find>competence-over</find>
       <find>trigg</find>
       <find>data-toggle=&quot;ov</find>
@@ -31,6 +30,7 @@
       <find>console.lo</find>
       <find>console.err</find>
       <find>prog</find>
+      <find>input</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
