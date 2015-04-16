@@ -27,10 +27,10 @@
       <find>split</find>
       <find>onRouteC</find>
       <find>console.</find>
-      <find>console.lo</find>
       <find>console.err</find>
       <find>prog</find>
       <find>input</find>
+      <find>console.lo</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
