@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>trigg</find>
       <find>data-toggle=&quot;ov</find>
       <find>planele</find>
       <find>11px</find>
@@ -31,6 +30,7 @@
       <find>input</find>
       <find>console.lo</find>
       <find>onMap</find>
+      <find>Loadin</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
