@@ -87,7 +87,7 @@
       <project id="ionic-webcadet" values="CSS,TypeScript,Npm file,XML,SASS,PLAIN_TEXT,LESS,C++,Git file,Images,SCSS,HTML,SourceMap,JSON,UNKNOWN,C#,ARCHIVE,JavaScript,Markdown" />
       <project id="CWKFoto" values="PLAIN_TEXT,XML,JSON,UNKNOWN,PHP" />
       <project id="starter-project" values="Images,Markdown,ARCHIVE,Locale,SQL,PLAIN_TEXT,DTD,SCSS,JSON,UNKNOWN,C++,CSS,HTML,LESS,XML,TypeScript,JSCS,YAML,PATCH,Ini,SmartyConfig,CoffeeScript,ESLint,Git file,JSHint,SourceMap,Npm file,PHP,JavaScript" />
-      <project id="Streetlapse" values="Git file,YAML,HTML,JSON,CSS,UNKNOWN,JavaScript,CoffeeScript,Npm file,Markdown,ARCHIVE,Images,XML,PLAIN_TEXT,JSHint" />
+      <project id="Streetlapse" values="HTML,Npm file,PLAIN_TEXT,JavaScript,Git file,Images,JSHint,XML,Markdown,JSON,Bash,CoffeeScript,YAML,CSS,UNKNOWN,ARCHIVE" />
       <project id="trysil" values="ARCHIVE,HTML,SourceMap,CSS,Ini,UNKNOWN,LESS,Images,PATCH,PLAIN_TEXT,C++,JSON,SCSS,XML,SQL,Cucumber,JSHint,YAML,CoffeeScript,SmartyConfig,JavaScript,htaccess,Native,SilverStripe,PHP" />
       <project id="untitled" values="UNKNOWN,PLAIN_TEXT,PHP,XML" />
     </group>
