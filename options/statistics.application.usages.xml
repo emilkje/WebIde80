@@ -67,13 +67,13 @@
       <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="sponsorportalen" values="js.build_tools.gulp,JavascriptDebugType" />
+      <project id="sponsorportalen" values="JavascriptDebugType,js.build_tools.gulp" />
       <project id="PHPGit" values="PHPUnitRunConfigurationType,JavascriptDebugType" />
     </group>
     <group name="file-type">
       <project id="rbase3.0" values="JavaScript,HTML,XML,UNKNOWN,SourceMap,SQL,YAML,Locale,PLAIN_TEXT,Images,JSON,Ini,PHP,CSS" />
       <project id="ssadmin" values="C++,Blade,JavaScript,htaccess,ReST,YAML,LESS,Locale,HTML,PLAIN_TEXT,Images,CSS,XML,UNKNOWN,JSON,Ini,Cucumber,ARCHIVE,TypeScript,PHP" />
-      <project id="sponsorportalen" values="PLAIN_TEXT,SourceMap,Images,HTML,UNKNOWN,JSON,CSS,LESS,SCSS,PHP,XML,DATASOURCE_STORAGE,JavaScript,Ini,SQL,Locale,Markdown,Git file,SmartyConfig" />
+      <project id="sponsorportalen" values="DATASOURCE_STORAGE,HTML,PHP,JavaScript,Ini,Locale,SmartyConfig,UNKNOWN,Markdown,SourceMap,JSON,CSS,PLAIN_TEXT,Bash,Git file,XML,SCSS,SQL,LESS,Images" />
       <project id="rbasesocket" values="PHP,PATCH,Ini,Locale,C++,ESLint,SmartyConfig,CoffeeScript,SQL,XML,JSON,Git file,ARCHIVE,CSS,UNKNOWN,Markdown,JSCS,Images,SourceMap,LESS,JSHint,TypeScript,JavaScript,SCSS,Npm file,HTML,YAML,PLAIN_TEXT" />
       <project id="jira-release-notes" values="PLAIN_TEXT,Markdown,UNKNOWN,Images,PHP,XML,JSON,YAML,SmartyConfig" />
       <project id="PHPGit" values="PHP,Markdown,JavaScript,JSON,YAML,CSS,UNKNOWN,PLAIN_TEXT,XML" />
@@ -82,7 +82,7 @@
       <project id="kolsrud" values="htaccess,PHP,Images,YAML,Blade,UNKNOWN,JSON,XML,PLAIN_TEXT" />
       <project id="orchestra" values="htaccess,Ini,CoffeeScript,Images,HTML,SQLite Database,JSHint,CSS,PATCH,JSCS,PLAIN_TEXT,ReST,YAML,PHP,Markdown,SQL,JSON,XML,JavaScript,UNKNOWN,ESLint" />
       <project id="trunk" values="JSON,SmartyConfig,Ini,SQL,SourceMap,Locale,YAML,UNKNOWN,JavaScript,Images,PHP,XML,Native,HTML,CSS,PLAIN_TEXT" />
-      <project id="olkweb3" values="PLAIN_TEXT,JSCS,ARCHIVE,SQL,HTML,Native,C++,SmartyConfig,UNKNOWN,CSS,YAML,Ini,SCSS,Images,Markdown,DTD,Locale,TypeScript,JavaScript,JSHint,JSON,LESS,PATCH,XML,SourceMap,Git file,Npm file,PHP,CoffeeScript" />
+      <project id="olkweb3" values="SourceMap,JSHint,UNKNOWN,JSCS,TypeScript,ARCHIVE,JavaScript,Markdown,LESS,Npm file,CSS,DTD,CoffeeScript,Images,Ini,Git file,Locale,HTML,JSON,PLAIN_TEXT,Bash,Native,YAML,PHP,SQL,PATCH,SCSS,SmartyConfig,C++,XML" />
       <project id="psr-message" values="UNKNOWN,SQL,PHP,ESLint,Ini,YAML,XML,JSON,JSCS,Images,ARCHIVE,PLAIN_TEXT,JSHint,ReST,CSS,PATCH,CoffeeScript,JavaScript,Markdown,HTML" />
       <project id="ionic-webcadet" values="Git file,C#,JavaScript,SCSS,PLAIN_TEXT,JSON,TypeScript,CSS,UNKNOWN,C++,HTML,SourceMap,LESS,SASS,Npm file,XML,Markdown,ARCHIVE,Images" />
       <project id="CWKFoto" values="PLAIN_TEXT,XML,JSON,UNKNOWN,PHP" />
