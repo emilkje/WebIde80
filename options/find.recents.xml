@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>data-toggle=&quot;ov</find>
-      <find>planele</find>
       <find>11px</find>
       <find>12px</find>
       <find>type</find>
@@ -31,6 +29,8 @@
       <find>console.lo</find>
       <find>onMap</find>
       <find>Loadin</find>
+      <find>pdfobject</find>
+      <find>pdf</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
@@ -49,12 +49,12 @@
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate/spocontract</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate/spocontract/spodocument</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo</dir>
-      <dir>$USER_HOME$/www/project/sponsorportalen/module/template</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
       <dir>$USER_HOME$/www/project/olkweb3/resource/less</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module/template/documentation</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module</dir>
+      <dir>$USER_HOME$/www/project/sponsorportalen/module/template</dir>
     </dirStrings>
   </component>
 </application>
