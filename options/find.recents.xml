@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>11px</find>
       <find>12px</find>
       <find>type</find>
       <find>Ã</find>
@@ -31,6 +30,7 @@
       <find>Loadin</find>
       <find>pdfobject</find>
       <find>pdf</find>
+      <find>name</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
