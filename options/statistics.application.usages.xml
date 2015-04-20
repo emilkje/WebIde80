@@ -62,9 +62,9 @@
     </group>
     <group name="run-configuration-type">
       <project id="sponsorportalen" values="PhpWebAppRunConfigurationType" />
-      <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
-      <project id="PHPGit" values="PHPUnitRunConfigurationType" />
       <project id="trunk" values="PhpWebAppRunConfigurationType" />
+      <project id="PHPGit" values="PHPUnitRunConfigurationType" />
+      <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
     </group>
     <group name="run-configuration-type-temp">
       <project id="sponsorportalen" values="js.build_tools.gulp,JavascriptDebugType" />
@@ -84,7 +84,7 @@
       <project id="trunk" values="JSON,SmartyConfig,Ini,SQL,SourceMap,Locale,YAML,UNKNOWN,JavaScript,Images,PHP,XML,Native,HTML,CSS,PLAIN_TEXT" />
       <project id="olkweb3" values="PLAIN_TEXT,JSCS,ARCHIVE,SQL,HTML,Native,C++,SmartyConfig,UNKNOWN,CSS,YAML,Ini,SCSS,Images,Markdown,DTD,Locale,TypeScript,JavaScript,JSHint,JSON,LESS,PATCH,XML,SourceMap,Git file,Npm file,PHP,CoffeeScript" />
       <project id="psr-message" values="UNKNOWN,SQL,PHP,ESLint,Ini,YAML,XML,JSON,JSCS,Images,ARCHIVE,PLAIN_TEXT,JSHint,ReST,CSS,PATCH,CoffeeScript,JavaScript,Markdown,HTML" />
-      <project id="ionic-webcadet" values="CSS,TypeScript,Npm file,XML,SASS,PLAIN_TEXT,LESS,C++,Git file,Images,SCSS,HTML,SourceMap,JSON,UNKNOWN,C#,ARCHIVE,JavaScript,Markdown" />
+      <project id="ionic-webcadet" values="Git file,C#,JavaScript,SCSS,PLAIN_TEXT,JSON,TypeScript,CSS,UNKNOWN,C++,HTML,SourceMap,LESS,SASS,Npm file,XML,Markdown,ARCHIVE,Images" />
       <project id="CWKFoto" values="PLAIN_TEXT,XML,JSON,UNKNOWN,PHP" />
       <project id="starter-project" values="Images,Markdown,ARCHIVE,Locale,SQL,PLAIN_TEXT,DTD,SCSS,JSON,UNKNOWN,C++,CSS,HTML,LESS,XML,TypeScript,JSCS,YAML,PATCH,Ini,SmartyConfig,CoffeeScript,ESLint,Git file,JSHint,SourceMap,Npm file,PHP,JavaScript" />
       <project id="Streetlapse" values="HTML,Npm file,PLAIN_TEXT,JavaScript,Git file,Images,JSHint,XML,Markdown,JSON,Bash,CoffeeScript,YAML,CSS,UNKNOWN,ARCHIVE" />
