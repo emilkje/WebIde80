@@ -23,7 +23,6 @@
       <find>onMap</find>
       <find>Loadin</find>
       <find>pdfobject</find>
-      <find>pdf</find>
       <find>name</find>
       <find>spose</find>
       <find>variables</find>
@@ -31,6 +30,7 @@
       <find>contacts</find>
       <find>h1</find>
       <find>h2</find>
+      <find>pdf</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
