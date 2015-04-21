@@ -67,13 +67,13 @@
       <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="sponsorportalen" values="JavascriptDebugType,js.build_tools.gulp" />
+      <project id="sponsorportalen" values="js.build_tools.gulp,JavascriptDebugType" />
       <project id="PHPGit" values="PHPUnitRunConfigurationType,JavascriptDebugType" />
     </group>
     <group name="file-type">
       <project id="rbase3.0" values="JavaScript,HTML,XML,UNKNOWN,SourceMap,SQL,YAML,Locale,PLAIN_TEXT,Images,JSON,Ini,PHP,CSS" />
       <project id="ssadmin" values="C++,Blade,JavaScript,htaccess,ReST,YAML,LESS,Locale,HTML,PLAIN_TEXT,Images,CSS,XML,UNKNOWN,JSON,Ini,Cucumber,ARCHIVE,TypeScript,PHP" />
-      <project id="sponsorportalen" values="UNKNOWN,Git file,Markdown,JavaScript,Locale,JSON,Images,Ini,PLAIN_TEXT,SourceMap,SCSS,DATASOURCE_STORAGE,PHP,Bash,LESS,HTML,XML,SQL,SmartyConfig,CSS" />
+      <project id="sponsorportalen" values="PHP,Images,XML,Markdown,SCSS,HTML,PLAIN_TEXT,SmartyConfig,UNKNOWN,JSON,SourceMap,Git file,Bash,CSS,JavaScript,LESS,Locale,Ini,SQL,DATASOURCE_STORAGE" />
       <project id="rbasesocket" values="PHP,PATCH,Ini,Locale,C++,ESLint,SmartyConfig,CoffeeScript,SQL,XML,JSON,Git file,ARCHIVE,CSS,UNKNOWN,Markdown,JSCS,Images,SourceMap,LESS,JSHint,TypeScript,JavaScript,SCSS,Npm file,HTML,YAML,PLAIN_TEXT" />
       <project id="jira-release-notes" values="PLAIN_TEXT,Markdown,UNKNOWN,Images,PHP,XML,JSON,YAML,SmartyConfig" />
       <project id="PHPGit" values="PHP,Markdown,JavaScript,JSON,YAML,CSS,UNKNOWN,PLAIN_TEXT,XML" />
