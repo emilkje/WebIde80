@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>wizard</find>
-      <find>bootstr</find>
       <find>_h_points[_point_index]</find>
       <find>217</find>
       <find>_point_index</find>
@@ -31,6 +29,8 @@
       <find>chart</find>
       <find>lib</find>
       <find>pot</find>
+      <find>main</find>
+      <find>olkweb</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
