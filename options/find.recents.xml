@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>_h_points</find>
       <find>handlePla</find>
       <find>onPlay</find>
       <find>split</find>
@@ -31,6 +30,7 @@
       <find>tab-</find>
       <find>getSposectionTemplate</find>
       <find>getSposection</find>
+      <find>partner</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
