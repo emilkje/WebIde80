@@ -12,7 +12,7 @@
     <location key="OptionsEditor.0.0.1440.900" x="27" y="57" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1440.900" x="180" y="352" />
     <location key="findTextDialog.0.0.1440.900" x="232" y="222" />
-    <location key="DiffWindow.0.0.1440.900" x="100" y="122" />
+    <location key="DiffWindow.0.0.1440.900" x="26" y="122" />
     <location key="CommitChangelistDialog2.0.0.1440.900" x="93" y="167" />
     <location key="RollbackChangesDialog.0.0.1440.900" x="395" y="192" />
     <location key="OptionsEditor.0.0.2560.1440" x="1182" y="236" />
@@ -86,7 +86,7 @@
     <location key="#com.jetbrains.php.refactoring.extract.interface.PhpExtractInterfaceDialog#.0.0.1440.900" x="592" y="186" />
     <size key="OptionsEditor.0.0.1920.1200" width="1349" height="846" />
     <size key="DiffWindow.0.0.1920.1200" width="677" height="800" />
-    <size key="DiffWindow.0.0.1440.900" width="1147" height="674" />
+    <size key="DiffWindow.0.0.1440.900" width="1377" height="674" />
     <size key="javadoc.popup.0.0.2560.1440" width="600" height="419" />
     <size key="GridCell.Tab.0.left.0.0.2560.1440" width="1115" height="241" />
     <size key="GridCell.Tab.0.center.0.0.2560.1440" width="1115" height="241" />
