@@ -73,7 +73,7 @@
     <group name="file-type">
       <project id="rbase3.0" values="CSS,Images,Locale,PLAIN_TEXT,SQL,JSON,UNKNOWN,XML,Ini,YAML,JavaScript,SourceMap,HTML,PHP" />
       <project id="ssadmin" values="htaccess,PHP,TypeScript,JavaScript,LESS,ReST,Cucumber,XML,Blade,HTML,UNKNOWN,YAML,Locale,C++,JSON,Ini,CSS,Images,PLAIN_TEXT,ARCHIVE" />
-      <project id="sponsorportalen" values="PLAIN_TEXT,SmartyConfig,Locale,JavaScript,Bash,UNKNOWN,JSON,XML,SQL,LESS,SourceMap,PHP,Images,Git file,CSS,HTML,Markdown,DATASOURCE_STORAGE,Ini,SCSS" />
+      <project id="sponsorportalen" values="SQL,Markdown,SourceMap,JSON,Git file,DATASOURCE_STORAGE,PHP,HTML,Locale,SmartyConfig,Bash,LESS,XML,SCSS,JavaScript,CSS,Images,UNKNOWN,Ini,PLAIN_TEXT" />
       <project id="rbasesocket" values="CoffeeScript,JSCS,Locale,LESS,SCSS,JSON,Git file,XML,YAML,Ini,SourceMap,C++,SQL,CSS,ARCHIVE,PLAIN_TEXT,TypeScript,SmartyConfig,PATCH,JavaScript,JSHint,ESLint,Npm file,PHP,UNKNOWN,Images,HTML,Markdown" />
       <project id="orchestra" values="XML,Markdown,JSON,JSCS,PLAIN_TEXT,HTML,PHP,ReST,SQLite Database,UNKNOWN,CSS,SQL,PATCH,YAML,JSHint,CoffeeScript,JavaScript,Images,htaccess,Ini,ESLint" />
       <project id="PHPGit" values="JavaScript,PLAIN_TEXT,YAML,UNKNOWN,CSS,XML,PHP,JSON,Markdown" />
