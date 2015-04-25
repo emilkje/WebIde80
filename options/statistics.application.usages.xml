@@ -82,7 +82,7 @@
       <project id="kolsrud" values="XML,htaccess,PHP,YAML,Images,JSON,PLAIN_TEXT,UNKNOWN,Blade" />
       <project id="jira-release-notes" values="JSON,XML,PHP,SmartyConfig,UNKNOWN,Markdown,YAML,Images,PLAIN_TEXT" />
       <project id="trunk" values="YAML,SmartyConfig,Native,Locale,Ini,UNKNOWN,HTML,JSON,JavaScript,SQL,CSS,Images,SourceMap,XML,PLAIN_TEXT,PHP" />
-      <project id="olkweb3" values="CSS,UNKNOWN,LESS,Locale,JavaScript,PHP,DTD,Git file,Markdown,PATCH,JSCS,CoffeeScript,SmartyConfig,ARCHIVE,SQL,XML,SourceMap,JSHint,Bash,Images,HTML,C++,TypeScript,JSON,YAML,Npm file,Native,Ini,PLAIN_TEXT,SCSS" />
+      <project id="olkweb3" values="ARCHIVE,JSON,Bash,SmartyConfig,LESS,PLAIN_TEXT,Locale,DTD,PHP,JSCS,Markdown,JavaScript,C++,UNKNOWN,SourceMap,Npm file,JSHint,Native,CSS,SQL,TypeScript,PATCH,YAML,Git file,CoffeeScript,SCSS,Images,HTML,XML,Ini" />
       <project id="untitled" values="XML,PHP,PLAIN_TEXT,UNKNOWN" />
       <project id="Streetlapse" values="UNKNOWN,XML,JSHint,Git file,JSON,JavaScript,PLAIN_TEXT,Markdown,HTML,Npm file,CoffeeScript,Images,Bash,ARCHIVE,YAML,CSS" />
       <project id="ionic-webcadet" values="C#,ARCHIVE,Npm file,XML,SourceMap,LESS,Git file,TypeScript,CSS,Images,SASS,UNKNOWN,JavaScript,PLAIN_TEXT,C++,Markdown,JSON,HTML,SCSS" />
