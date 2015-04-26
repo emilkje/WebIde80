@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>onRouteC</find>
       <find>console.</find>
       <find>console.err</find>
       <find>prog</find>
@@ -29,8 +28,9 @@
       <find>getSposection</find>
       <find>partner</find>
       <find>swal</find>
-      <find>sweet</find>
       <find>weet</find>
+      <find>sweet</find>
+      <find>off(</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
