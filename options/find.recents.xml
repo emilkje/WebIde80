@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>console.</find>
       <find>console.err</find>
       <find>prog</find>
       <find>input</find>
@@ -31,6 +30,7 @@
       <find>weet</find>
       <find>sweet</find>
       <find>off(</find>
+      <find>yesB</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
