@@ -261,10 +261,10 @@
       <entry feature="execute.PHPUnitRunConfigurationType.Run" count="1" />
       <entry feature="execute.PhpLocalRunConfigurationType.Debug" count="5" />
       <entry feature="execute.PhpLocalRunConfigurationType.Run" count="1" />
-      <entry feature="execute.PhpWebAppRunConfigurationType.Debug" count="63" />
+      <entry feature="execute.PhpWebAppRunConfigurationType.Debug" count="64" />
       <entry feature="execute.PhpWebAppRunConfigurationType.Run" count="2" />
-      <entry feature="execute.js.build_tools.gulp.Debug" count="5" />
-      <entry feature="execute.js.build_tools.gulp.Run" count="137" />
+      <entry feature="execute.js.build_tools.gulp.Debug" count="7" />
+      <entry feature="execute.js.build_tools.gulp.Run" count="138" />
       <entry feature="ide.settings.Appearance" count="5" />
       <entry feature="ide.settings.CSS" count="4" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="84" />
