@@ -133,6 +133,7 @@
     <size key="#Directories.0.0.1440.900" width="665" height="490" />
     <size key="com.jetbrains.php.phpunit.PhpUnitNewTestDialog.0.0.3008.1692" width="445" height="365" />
     <size key="replaceTextDialog.0.0.1440.900" width="540" height="533" />
+    <size key="XDebugger.FullValuePopup.0.0.1440.900" width="515" height="437" />
     <extendedState key="CommittedChanges.SplitterProportions.1" state="500" />
     <extendedState key="CommittedChanges.SplitterProportions.0" state="700" />
     <extendedState key="DiffWindow" state="0" />
