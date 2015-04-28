@@ -74,7 +74,7 @@
       <project id="rbase3.0" values="CSS,SourceMap,UNKNOWN,Images,PHP,PLAIN_TEXT,YAML,XML,JSON,HTML,Ini,JavaScript,SQL,Locale" />
       <project id="ssadmin" values="PLAIN_TEXT,YAML,Cucumber,PHP,UNKNOWN,ReST,CSS,XML,JavaScript,Ini,C++,Blade,TypeScript,JSON,HTML,Locale,ARCHIVE,htaccess,LESS,Images" />
       <project id="sponsorportalen" values="LESS,Images,Git file,Markdown,SourceMap,Bash,XML,JSON,Ini,CSS,SCSS,Locale,HTML,SmartyConfig,SQL,DATASOURCE_STORAGE,UNKNOWN,PHP,PLAIN_TEXT,JavaScript" />
-      <project id="rbasesocket" values="YAML,Git file,TypeScript,UNKNOWN,SQL,JSHint,SourceMap,JSON,SmartyConfig,PLAIN_TEXT,XML,SCSS,LESS,Images,JSCS,C++,Locale,HTML,Ini,Npm file,CoffeeScript,PHP,ARCHIVE,PATCH,CSS,ESLint,Markdown,JavaScript" />
+      <project id="rbasesocket" values="ARCHIVE,JavaScript,CoffeeScript,Ini,ESLint,C++,Images,JSCS,SQL,JSON,Npm file,SCSS,Bash,Git file,PATCH,JSHint,Markdown,TypeScript,PLAIN_TEXT,CSS,LESS,YAML,SmartyConfig,Locale,UNKNOWN,XML,PHP,SourceMap,HTML" />
       <project id="jira-release-notes" values="Images,XML,UNKNOWN,SmartyConfig,YAML,JSON,PLAIN_TEXT,PHP,Markdown" />
       <project id="PHPGit" values="JSON,UNKNOWN,PLAIN_TEXT,CSS,JavaScript,YAML,XML,PHP,Markdown" />
       <project id="exchange" values="PHP,PLAIN_TEXT,UNKNOWN,JSON,XML" />
@@ -264,7 +264,7 @@
       <entry feature="execute.PHPUnitRunConfigurationType.Run" count="1" />
       <entry feature="execute.PhpLocalRunConfigurationType.Debug" count="5" />
       <entry feature="execute.PhpLocalRunConfigurationType.Run" count="1" />
-      <entry feature="execute.PhpWebAppRunConfigurationType.Debug" count="64" />
+      <entry feature="execute.PhpWebAppRunConfigurationType.Debug" count="65" />
       <entry feature="execute.PhpWebAppRunConfigurationType.Run" count="3" />
       <entry feature="execute.js.build_tools.gulp.Debug" count="7" />
       <entry feature="execute.js.build_tools.gulp.Run" count="144" />
