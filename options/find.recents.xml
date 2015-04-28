@@ -27,10 +27,10 @@
       <find>document</find>
       <find>opplas</find>
       <find>signert d</find>
-      <find>Last ned</find>
       <find>Last ned si</find>
       <find>Signering f</find>
       <find>option</find>
+      <find>Last ned</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
