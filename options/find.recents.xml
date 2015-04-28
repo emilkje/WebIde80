@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>chart</find>
-      <find>lib</find>
       <find>pot</find>
       <find>main</find>
       <find>olkweb</find>
@@ -31,6 +29,8 @@
       <find>messa</find>
       <find>document</find>
       <find>opplas</find>
+      <find>signert d</find>
+      <find>Last ned</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
