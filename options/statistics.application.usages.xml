@@ -74,7 +74,7 @@
       <project id="rbase3.0" values="CSS,SourceMap,UNKNOWN,Images,PHP,PLAIN_TEXT,YAML,XML,JSON,HTML,Ini,JavaScript,SQL,Locale" />
       <project id="ssadmin" values="PLAIN_TEXT,YAML,Cucumber,PHP,UNKNOWN,ReST,CSS,XML,JavaScript,Ini,C++,Blade,TypeScript,JSON,HTML,Locale,ARCHIVE,htaccess,LESS,Images" />
       <project id="sponsorportalen" values="Ini,PHP,UNKNOWN,LESS,SourceMap,JSON,SQL,Git file,Markdown,Locale,DATASOURCE_STORAGE,SCSS,SmartyConfig,JavaScript,CSS,PLAIN_TEXT,Bash,HTML,XML,Images" />
-      <project id="rbasesocket" values="ARCHIVE,JavaScript,CoffeeScript,Ini,ESLint,C++,Images,JSCS,SQL,JSON,Npm file,SCSS,Bash,Git file,PATCH,JSHint,Markdown,TypeScript,PLAIN_TEXT,CSS,LESS,YAML,SmartyConfig,Locale,UNKNOWN,XML,PHP,SourceMap,HTML" />
+      <project id="rbasesocket" values="UNKNOWN,TypeScript,Git file,SQL,SourceMap,JavaScript,Npm file,ARCHIVE,YAML,JSON,JSCS,C++,PATCH,PHP,HTML,CoffeeScript,JSHint,XML,PLAIN_TEXT,LESS,CSS,Locale,Bash,Images,SmartyConfig,Markdown,SCSS,ESLint,Ini" />
       <project id="jira-release-notes" values="Images,XML,UNKNOWN,SmartyConfig,YAML,JSON,PLAIN_TEXT,PHP,Markdown" />
       <project id="PHPGit" values="JSON,UNKNOWN,PLAIN_TEXT,CSS,JavaScript,YAML,XML,PHP,Markdown" />
       <project id="exchange" values="PHP,PLAIN_TEXT,UNKNOWN,JSON,XML" />
