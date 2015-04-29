@@ -29,7 +29,7 @@
     <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.declaration" count="559" last-shown="0" last-used="1430289132356" shown-count="0" />
     <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="7127" last-shown="0" last-used="1430292820971" shown-count="0" />
+    <feature id="editing.completion.basic" count="7129" last-shown="0" last-used="1430292893399" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="5" last-shown="0" last-used="1411999203975" shown-count="0" />
     <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -43,8 +43,8 @@
     <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="4" last-shown="1418200723227" last-used="1429188870852" shown-count="2" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="35731" />
-      <option name="invocations" value="5156" />
+      <option name="sparedCharacters" value="35733" />
+      <option name="invocations" value="5157" />
       <option name="startDate" value="1411423200000" />
       <option name="dayCount" value="110" />
       <option name="lastDate" value="1430258400000" />
