@@ -73,7 +73,7 @@
     <group name="file-type">
       <project id="rbase3.0" values="CSS,SourceMap,UNKNOWN,Images,PHP,PLAIN_TEXT,YAML,XML,JSON,HTML,Ini,JavaScript,SQL,Locale" />
       <project id="ssadmin" values="PLAIN_TEXT,YAML,Cucumber,PHP,UNKNOWN,ReST,CSS,XML,JavaScript,Ini,C++,Blade,TypeScript,JSON,HTML,Locale,ARCHIVE,htaccess,LESS,Images" />
-      <project id="sponsorportalen" values="LESS,Images,Git file,Markdown,SourceMap,Bash,XML,JSON,Ini,CSS,SCSS,Locale,HTML,SmartyConfig,SQL,DATASOURCE_STORAGE,UNKNOWN,PHP,PLAIN_TEXT,JavaScript" />
+      <project id="sponsorportalen" values="Ini,PHP,UNKNOWN,LESS,SourceMap,JSON,SQL,Git file,Markdown,Locale,DATASOURCE_STORAGE,SCSS,SmartyConfig,JavaScript,CSS,PLAIN_TEXT,Bash,HTML,XML,Images" />
       <project id="rbasesocket" values="ARCHIVE,JavaScript,CoffeeScript,Ini,ESLint,C++,Images,JSCS,SQL,JSON,Npm file,SCSS,Bash,Git file,PATCH,JSHint,Markdown,TypeScript,PLAIN_TEXT,CSS,LESS,YAML,SmartyConfig,Locale,UNKNOWN,XML,PHP,SourceMap,HTML" />
       <project id="jira-release-notes" values="Images,XML,UNKNOWN,SmartyConfig,YAML,JSON,PLAIN_TEXT,PHP,Markdown" />
       <project id="PHPGit" values="JSON,UNKNOWN,PLAIN_TEXT,CSS,JavaScript,YAML,XML,PHP,Markdown" />
@@ -90,9 +90,6 @@
       <project id="Streetlapse" values="JSHint,JavaScript,YAML,HTML,ARCHIVE,Markdown,XML,UNKNOWN,CoffeeScript,Bash,Images,JSON,PLAIN_TEXT,Git file,CSS,Npm file" />
       <project id="trysil" values="JSON,SilverStripe,HTML,SourceMap,PATCH,SCSS,htaccess,CoffeeScript,YAML,PLAIN_TEXT,Cucumber,Images,LESS,SmartyConfig,C++,CSS,PHP,XML,ARCHIVE,UNKNOWN,Ini,SQL,JavaScript,JSHint,Native" />
       <project id="untitled" values="XML,PLAIN_TEXT,UNKNOWN,PHP" />
-    </group>
-    <group name="VCS Log">
-      <project id="sponsorportalen" values="vcs.log.commit.count=344,vcs.log.git.root.count" />
     </group>
     <group name="php-interpreter-version">
       <project id="rbase3.0" values="not installed" />
