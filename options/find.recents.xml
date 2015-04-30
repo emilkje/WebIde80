@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>sweet</find>
       <find>off(</find>
       <find>yesB</find>
       <find>bind(</find>
@@ -31,6 +30,7 @@
       <find>addO</find>
       <find>Represe</find>
       <find>json</find>
+      <find>iCal</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
@@ -52,9 +52,9 @@
       <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
       <dir>$USER_HOME$/www/project/olkweb3/resource/less</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module/template/documentation</dir>
-      <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template</dir>
+      <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
     </dirStrings>
   </component>
 </application>
