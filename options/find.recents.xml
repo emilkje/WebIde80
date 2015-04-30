@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>yesB</find>
       <find>bind(</find>
       <find>templ</find>
       <find>setNam</find>
@@ -31,6 +30,7 @@
       <find>json</find>
       <find>iCal</find>
       <find>autoload</find>
+      <find>Logg inn som</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
@@ -53,8 +53,8 @@
       <dir>$USER_HOME$/www/project/olkweb3/module/template/documentation</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template</dir>
-      <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
       <dir>$USER_HOME$/www/project/olkweb3/www/js</dir>
+      <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
     </dirStrings>
   </component>
 </application>
