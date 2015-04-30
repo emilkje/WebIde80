@@ -41,7 +41,6 @@
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
       <dir>$USER_HOME$/www/project/olkweb3/resource/less/modules</dir>
-      <dir>$USER_HOME$/www/project/olkweb3/www/js</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module/notify</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate</dir>
       <dir>$USER_HOME$/cordova/ionic-webcadet/www</dir>
@@ -55,6 +54,7 @@
       <dir>$USER_HOME$/www/project/olkweb3/module</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
+      <dir>$USER_HOME$/www/project/olkweb3/www/js</dir>
     </dirStrings>
   </component>
 </application>
