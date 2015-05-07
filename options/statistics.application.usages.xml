@@ -77,7 +77,7 @@
       <project id="rbase3.0" values="JSON,YAML,JavaScript,PHP,Locale,CSS,XML,Images,Ini,HTML,SourceMap,PLAIN_TEXT,UNKNOWN,SQL" />
       <project id="ssadmin" values="JavaScript,ReST,TypeScript,YAML,Images,PHP,ARCHIVE,Blade,Ini,JSON,Locale,htaccess,C++,UNKNOWN,XML,PLAIN_TEXT,LESS,Cucumber,CSS,HTML" />
       <project id="sponsorportalen" values="Locale,CSS,Ini,JavaScript,PHP,JSON,XML,SmartyConfig,Bash,ARCHIVE,Images,LESS,UNKNOWN,SCSS,HTML,PLAIN_TEXT,DATASOURCE_STORAGE,SQL,Markdown,SourceMap,Git file" />
-      <project id="kerbal" values="JSHint,CoffeeScript,JSON,Markdown,TypeScript,C++,HTML,Bash,JavaScript,Git file,XML,PATCH,ESLint,Images,PLAIN_TEXT,JSCS,SourceMap,Npm file,SmartyConfig,UNKNOWN,YAML" />
+      <project id="kerbal" values="PLAIN_TEXT,Git file,JavaScript,UNKNOWN,TypeScript,SourceMap,XML,JSON" />
       <project id="rbasesocket" values="CoffeeScript,SCSS,YAML,JSHint,ESLint,SQL,SourceMap,Ini,SmartyConfig,UNKNOWN,Npm file,XML,JavaScript,HTML,JSON,TypeScript,Images,Git file,CSS,C++,Markdown,PATCH,Bash,PHP,PLAIN_TEXT,Locale,LESS,ARCHIVE,JSCS" />
       <project id="exchange" values="XML,JSON,UNKNOWN,PHP,PLAIN_TEXT" />
       <project id="PHPGit" values="YAML,CSS,PLAIN_TEXT,Markdown,UNKNOWN,JSON,XML,PHP,JavaScript" />
@@ -121,6 +121,9 @@
       <project id="sponsorportalen" values="xdebug" />
       <project id="PHPGit" values="xdebug" />
       <project id="olkweb3" values="xdebug" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="kerbal" values="node_modules" />
     </group>
     <group name="jdbc-driver">
       <project id="sponsorportalen" values="com.mysql.jdbc.Driver" />
@@ -173,7 +176,7 @@
       <project id="rbase3.0" values="Project,Project" />
       <project id="ssadmin" values="Project,Project" />
       <project id="sponsorportalen" values="Project,Project" />
-      <project id="kerbal" values="Project,Project" />
+      <project id="kerbal" values="Project,Directory,Project" />
       <project id="rbasesocket" values="Project,Project" />
       <project id="exchange" values="Project,Project" />
       <project id="PHPGit" values="Project,Project" />
