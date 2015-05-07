@@ -50,9 +50,11 @@
     <property name="sm_test_statistics_table_columnsOrder1" value="1" />
     <property name="sm_test_statistics_table_columnsWidth2" value="75" />
     <property name="sm_test_statistics_table_columnsOrder2" value="2" />
-    <property name="PLUGIN_FILTER" value="Node.js&#10;Node&#10;JavaS&#10;Flow&#10;Git" />
+    <property name="PLUGIN_FILTER" value="types&#10;Node.js&#10;Node&#10;JavaS&#10;Flow" />
     <property name="bashsupport.weddingNotification.shown" value="0" />
     <property name="bashsupport.weddingNotification.enabled" value="false" />
     <property name="PACKAGE_FILTER" value="typescript" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/io.js/v2.0.0/bin/node" />
+    <property name="nodejs_index_submodules" value="false" />
   </component>
 </application>

@@ -86,6 +86,7 @@
     <location key="#com.jetbrains.php.refactoring.extract.interface.PhpExtractInterfaceDialog#.0.0.1440.900" x="592" y="186" />
     <location key="#xdebugger.XInspectDialog.0.0.1440.900" x="865" y="234" />
     <location key="refactoring.ChangeSignatureDialog.0.0.1440.900" x="482" y="89" />
+    <location key="#com.intellij.ide.scriptingContext.ui.LibraryScopesDialog.0.0.1440.900" x="365" y="262" />
     <size key="OptionsEditor.0.0.1920.1200" width="1349" height="846" />
     <size key="DiffWindow.0.0.1920.1200" width="677" height="800" />
     <size key="DiffWindow.0.0.1440.900" width="1377" height="674" />
