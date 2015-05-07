@@ -8,7 +8,7 @@
       <project id="rbase3.0" values="DEFAULT" />
       <project id="ssadmin" values="DEFAULT" />
       <project id="sponsorportalen" values="DEFAULT" />
-      <project id="kerbal" values="DEFAULT" />
+      <project id="kerbal" values="ECMAScript 6" />
       <project id="rbasesocket" values="DEFAULT" />
       <project id="orchestra" values="DEFAULT" />
       <project id="PHPGit" values="DEFAULT" />
@@ -80,7 +80,7 @@
       <project id="rbase3.0" values="UNKNOWN,PHP,Locale,PLAIN_TEXT,JSON,CSS,SQL,Ini,HTML,XML,JavaScript,Images,YAML,SourceMap" />
       <project id="ssadmin" values="ARCHIVE,Images,XML,Locale,CSS,Ini,YAML,PLAIN_TEXT,UNKNOWN,PHP,TypeScript,ReST,JSON,JavaScript,Blade,C++,LESS,htaccess,HTML,Cucumber" />
       <project id="sponsorportalen" values="Git file,DATASOURCE_STORAGE,SmartyConfig,XML,JavaScript,Ini,CSS,Markdown,SQL,SCSS,JSON,UNKNOWN,PHP,Locale,PLAIN_TEXT,LESS,Images,SourceMap,ARCHIVE,HTML,Bash" />
-      <project id="kerbal" values="SourceMap,JSON,XML,TypeScript,JavaScript,Git file,UNKNOWN,PLAIN_TEXT" />
+      <project id="kerbal" values="XML,JavaScript,PLAIN_TEXT,JSON,Git file,UNKNOWN" />
       <project id="rbasesocket" values="PHP,JSHint,SCSS,JSON,CSS,SourceMap,Ini,HTML,LESS,C++,PATCH,Images,TypeScript,UNKNOWN,JSCS,YAML,Locale,Git file,XML,SQL,ESLint,ARCHIVE,SmartyConfig,CoffeeScript,JavaScript,Bash,Markdown,Npm file,PLAIN_TEXT" />
       <project id="orchestra" values="htaccess,Markdown,PATCH,SQLite Database,PLAIN_TEXT,Images,PHP,UNKNOWN,JSON,CSS,JSHint,ESLint,SQL,CoffeeScript,XML,ReST,JavaScript,YAML,JSCS,Ini,HTML" />
       <project id="PHPGit" values="JSON,XML,PHP,YAML,PLAIN_TEXT,UNKNOWN,CSS,Markdown,JavaScript" />
@@ -176,7 +176,7 @@
       <project id="rbase3.0" values="Project,Project" />
       <project id="ssadmin" values="Project,Project" />
       <project id="sponsorportalen" values="Project,Project" />
-      <project id="kerbal" values="Directory,Project,Project" />
+      <project id="kerbal" values="Project,Directory,Project,Project" />
       <project id="rbasesocket" values="Project,Project" />
       <project id="orchestra" values="Project,Project" />
       <project id="PHPGit" values="Project,Project" />

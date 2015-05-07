@@ -56,5 +56,6 @@
     <property name="PACKAGE_FILTER" value="typescript" />
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/io.js/v2.0.0/bin/node" />
     <property name="nodejs_index_submodules" value="false" />
+    <property name="INTENTION_FILTER_HISTORY" value="Syntax" />
   </component>
 </application>
