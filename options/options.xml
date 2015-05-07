@@ -53,5 +53,6 @@
     <property name="PLUGIN_FILTER" value="Node.js&#10;Node&#10;JavaS&#10;Flow&#10;Git" />
     <property name="bashsupport.weddingNotification.shown" value="0" />
     <property name="bashsupport.weddingNotification.enabled" value="false" />
+    <property name="PACKAGE_FILTER" value="typescript" />
   </component>
 </application>
