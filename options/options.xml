@@ -50,7 +50,7 @@
     <property name="sm_test_statistics_table_columnsOrder1" value="1" />
     <property name="sm_test_statistics_table_columnsWidth2" value="75" />
     <property name="sm_test_statistics_table_columnsOrder2" value="2" />
-    <property name="PLUGIN_FILTER" value="Flow&#10;Git" />
+    <property name="PLUGIN_FILTER" value="Node.js&#10;Node&#10;JavaS&#10;Flow&#10;Git" />
     <property name="bashsupport.weddingNotification.shown" value="0" />
     <property name="bashsupport.weddingNotification.enabled" value="false" />
   </component>

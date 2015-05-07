@@ -8,6 +8,7 @@
       <project id="rbase3.0" values="DEFAULT" />
       <project id="ssadmin" values="DEFAULT" />
       <project id="sponsorportalen" values="DEFAULT" />
+      <project id="kerbal" values="DEFAULT" />
       <project id="rbasesocket" values="DEFAULT" />
       <project id="orchestra" values="DEFAULT" />
       <project id="PHPGit" values="DEFAULT" />
@@ -29,6 +30,7 @@
       <project id="rbase3.0" values="WEB_MODULE" />
       <project id="ssadmin" values="WEB_MODULE" />
       <project id="sponsorportalen" values="WEB_MODULE" />
+      <project id="kerbal" values="WEB_MODULE" />
       <project id="rbasesocket" values="WEB_MODULE" />
       <project id="orchestra" values="WEB_MODULE" />
       <project id="PHPGit" values="WEB_MODULE" />
@@ -48,6 +50,7 @@
     </group>
     <group name="vcs">
       <project id="interfacelift" values="Git" />
+      <project id="kerbal" values="Git" />
       <project id="sponsorportalen" values="Git" />
       <project id="psr-message" values="Git" />
       <project id="Streetlapse" values="Git" />
@@ -74,6 +77,7 @@
       <project id="rbase3.0" values="CSS,SQL,YAML,UNKNOWN,Ini,PHP,JavaScript,SourceMap,HTML,PLAIN_TEXT,XML,Locale,Images,JSON" />
       <project id="ssadmin" values="TypeScript,YAML,Blade,Ini,Locale,XML,LESS,C++,ARCHIVE,PLAIN_TEXT,Cucumber,PHP,ReST,JSON,HTML,JavaScript,htaccess,Images,CSS,UNKNOWN" />
       <project id="sponsorportalen" values="SCSS,Git file,SourceMap,PLAIN_TEXT,Images,CSS,ARCHIVE,Markdown,PHP,JSON,XML,DATASOURCE_STORAGE,JavaScript,Locale,Bash,LESS,SQL,SmartyConfig,UNKNOWN,Ini,HTML" />
+      <project id="kerbal" values="JSHint,HTML,Bash,Markdown,SmartyConfig,PLAIN_TEXT,JSCS,JSON,PATCH,TypeScript,C++,Images,XML,CoffeeScript,UNKNOWN,SourceMap,ESLint,Npm file,Git file,JavaScript,YAML" />
       <project id="rbasesocket" values="Images,Markdown,YAML,UNKNOWN,SQL,PHP,JSON,ESLint,SourceMap,JSCS,PATCH,HTML,Locale,JSHint,PLAIN_TEXT,Git file,SmartyConfig,TypeScript,JavaScript,CoffeeScript,LESS,Npm file,Bash,XML,CSS,C++,Ini,ARCHIVE,SCSS" />
       <project id="orchestra" values="htaccess,XML,Markdown,Ini,JSHint,PATCH,SQL,ESLint,UNKNOWN,YAML,Images,PLAIN_TEXT,JSON,HTML,ReST,JSCS,JavaScript,SQLite Database,CoffeeScript,PHP,CSS" />
       <project id="PHPGit" values="JavaScript,PHP,PLAIN_TEXT,YAML,XML,JSON,Markdown,CSS,UNKNOWN" />
@@ -95,6 +99,7 @@
       <project id="rbase3.0" values="not installed" />
       <project id="ssadmin" values="not installed" />
       <project id="sponsorportalen" values="5.3.28" />
+      <project id="kerbal" values="not installed" />
       <project id="rbasesocket" values="not installed" />
       <project id="orchestra" values="not installed" />
       <project id="PHPGit" values="5.4.34" />
@@ -124,6 +129,7 @@
       <project id="rbase3.0" values="LOCAL" />
       <project id="ssadmin" values="LOCAL" />
       <project id="sponsorportalen" values="LOCAL" />
+      <project id="kerbal" values="LOCAL" />
       <project id="rbasesocket" values="LOCAL" />
       <project id="orchestra" values="LOCAL" />
       <project id="PHPGit" values="LOCAL" />
@@ -145,6 +151,7 @@
       <project id="rbase3.0" values="1" />
       <project id="ssadmin" values="1" />
       <project id="sponsorportalen" values="2" />
+      <project id="kerbal" values="2" />
       <project id="rbasesocket" values="2" />
       <project id="orchestra" values="2" />
       <project id="PHPGit" values="2" />
@@ -166,6 +173,7 @@
       <project id="rbase3.0" values="Project,Project" />
       <project id="ssadmin" values="Project,Project" />
       <project id="sponsorportalen" values="Project,Project" />
+      <project id="kerbal" values="Project,Project" />
       <project id="rbasesocket" values="Project,Project" />
       <project id="orchestra" values="Project,Project" />
       <project id="PHPGit" values="Project,Project" />
@@ -187,6 +195,7 @@
       <project id="rbase3.0" values="0" />
       <project id="ssadmin" values="0" />
       <project id="sponsorportalen" values="0" />
+      <project id="kerbal" values="0" />
       <project id="rbasesocket" values="0" />
       <project id="orchestra" values="0" />
       <project id="PHPGit" values="0" />
@@ -208,6 +217,7 @@
       <project id="rbase3.0" values="0" />
       <project id="ssadmin" values="0" />
       <project id="sponsorportalen" values="1" />
+      <project id="kerbal" values="0" />
       <project id="rbasesocket" values="0" />
       <project id="orchestra" values="0" />
       <project id="PHPGit" values="0" />
@@ -229,6 +239,7 @@
       <project id="rbase3.0" values="0" />
       <project id="ssadmin" values="0" />
       <project id="sponsorportalen" values="5" />
+      <project id="kerbal" values="0" />
       <project id="rbasesocket" values="0" />
       <project id="orchestra" values="0" />
       <project id="PHPGit" values="0" />
