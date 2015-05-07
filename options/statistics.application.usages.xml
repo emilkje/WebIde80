@@ -303,6 +303,7 @@
       <entry feature="ide.settings.Keymap" count="3" />
       <entry feature="ide.settings.LESS" count="2" />
       <entry feature="ide.settings.Language_Defaults" count="7" />
+      <entry feature="ide.settings.Libraries" count="1" />
       <entry feature="ide.settings.PHP" count="24" />
       <entry feature="ide.settings.PHPUnit" count="1" />
       <entry feature="ide.settings.SASS" count="1" />
