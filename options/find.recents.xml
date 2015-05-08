@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>è</find>
       <find>Webso</find>
       <find>signedD</find>
       <find>addO</find>
@@ -31,6 +30,7 @@
       <find>status</find>
       <find>copy</find>
       <find>Promise</find>
+      <find>screen.css</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
@@ -48,13 +48,13 @@
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate/spocontract</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate/spocontract/spodocument</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo</dir>
-      <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
       <dir>$USER_HOME$/www/project/olkweb3/resource/less</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module/template/documentation</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template</dir>
       <dir>$USER_HOME$/www/project/olkweb3/www/js</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
+      <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
     </dirStrings>
   </component>
 </application>
