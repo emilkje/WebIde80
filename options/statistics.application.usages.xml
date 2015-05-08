@@ -73,13 +73,13 @@
       <project id="trunk" values="PhpWebAppRunConfigurationType" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="sponsorportalen" values="JavascriptDebugType,js.build_tools.gulp" />
+      <project id="sponsorportalen" values="js.build_tools.gulp,JavascriptDebugType" />
       <project id="PHPGit" values="PHPUnitRunConfigurationType,JavascriptDebugType" />
     </group>
     <group name="file-type">
       <project id="rbase3.0" values="HTML,YAML,JavaScript,UNKNOWN,Locale,Ini,CSS,XML,JSON,PHP,PLAIN_TEXT,SQL,Images,SourceMap" />
       <project id="ssadmin" values="htaccess,XML,UNKNOWN,PLAIN_TEXT,CSS,LESS,Blade,Images,Ini,TypeScript,PHP,Locale,JSON,Cucumber,YAML,ARCHIVE,HTML,C++,JavaScript,ReST" />
-      <project id="sponsorportalen" values="JavaScript,Images,DATASOURCE_STORAGE,CSS,Ini,UNKNOWN,Git file,Bash,SmartyConfig,SCSS,LESS,PLAIN_TEXT,XML,HTML,SQL,JSON,Locale,PHP,SourceMap,Markdown,ARCHIVE" />
+      <project id="sponsorportalen" values="Git file,UNKNOWN,LESS,XML,DATASOURCE_STORAGE,Bash,HTML,Images,SCSS,Locale,PLAIN_TEXT,SQL,SmartyConfig,CSS,Ini,Markdown,ARCHIVE,SourceMap,PHP,JSON,JavaScript" />
       <project id="kerbal" values="Git file,PLAIN_TEXT,XML,JSON,JavaScript,UNKNOWN" />
       <project id="rbasesocket" values="SCSS,Ini,JSON,Images,ARCHIVE,Bash,Locale,Npm file,LESS,YAML,JSHint,ESLint,PHP,HTML,UNKNOWN,JSCS,CSS,CoffeeScript,XML,TypeScript,Git file,SmartyConfig,PLAIN_TEXT,Markdown,SQL,JavaScript,PATCH,SourceMap,C++" />
       <project id="orchestra" values="CSS,PHP,HTML,Markdown,ESLint,UNKNOWN,SQLite Database,ReST,Images,htaccess,Ini,JSHint,PLAIN_TEXT,YAML,PATCH,SQL,XML,CoffeeScript,JavaScript,JSCS,JSON" />
