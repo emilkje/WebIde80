@@ -80,7 +80,7 @@
       <project id="rbase3.0" values="HTML,YAML,JavaScript,UNKNOWN,Locale,Ini,CSS,XML,JSON,PHP,PLAIN_TEXT,SQL,Images,SourceMap" />
       <project id="ssadmin" values="htaccess,XML,UNKNOWN,PLAIN_TEXT,CSS,LESS,Blade,Images,Ini,TypeScript,PHP,Locale,JSON,Cucumber,YAML,ARCHIVE,HTML,C++,JavaScript,ReST" />
       <project id="sponsorportalen" values="JavaScript,Images,DATASOURCE_STORAGE,CSS,Ini,UNKNOWN,Git file,Bash,SmartyConfig,SCSS,LESS,PLAIN_TEXT,XML,HTML,SQL,JSON,Locale,PHP,SourceMap,Markdown,ARCHIVE" />
-      <project id="kerbal" values="UNKNOWN,Git file,XML,JavaScript,PLAIN_TEXT,JSON" />
+      <project id="kerbal" values="Git file,PLAIN_TEXT,XML,JSON,JavaScript,UNKNOWN" />
       <project id="rbasesocket" values="SCSS,Ini,JSON,Images,ARCHIVE,Bash,Locale,Npm file,LESS,YAML,JSHint,ESLint,PHP,HTML,UNKNOWN,JSCS,CSS,CoffeeScript,XML,TypeScript,Git file,SmartyConfig,PLAIN_TEXT,Markdown,SQL,JavaScript,PATCH,SourceMap,C++" />
       <project id="orchestra" values="CSS,PHP,HTML,Markdown,ESLint,UNKNOWN,SQLite Database,ReST,Images,htaccess,Ini,JSHint,PLAIN_TEXT,YAML,PATCH,SQL,XML,CoffeeScript,JavaScript,JSCS,JSON" />
       <project id="PHPGit" values="YAML,PLAIN_TEXT,JavaScript,CSS,PHP,UNKNOWN,XML,JSON,Markdown" />
@@ -176,7 +176,7 @@
       <project id="rbase3.0" values="Project,Project" />
       <project id="ssadmin" values="Project,Project" />
       <project id="sponsorportalen" values="Project,Project" />
-      <project id="kerbal" values="Project,Directory,Project,Project" />
+      <project id="kerbal" values="Directory,Project,Project,Project" />
       <project id="rbasesocket" values="Project,Project" />
       <project id="orchestra" values="Project,Project" />
       <project id="PHPGit" values="Project,Project" />
