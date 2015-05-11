@@ -44,7 +44,7 @@
     <feature id="editing.completion.finishByDotEtc" count="5" last-shown="1418200723227" last-used="1430295355108" shown-count="2" />
     <completionStatsTag>
       <option name="sparedCharacters" value="37844" />
-      <option name="invocations" value="5489" />
+      <option name="invocations" value="5490" />
       <option name="startDate" value="1411423200000" />
       <option name="dayCount" value="116" />
       <option name="lastDate" value="1431295200000" />
