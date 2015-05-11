@@ -29,8 +29,8 @@
       <find>Template</find>
       <find>s</find>
       <find>titl</find>
-      <find>title(</find>
       <find>(tru</find>
+      <find>title(</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
