@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>Logg inn som</find>
       <find>addon</find>
       <find>btn</find>
       <find>/upl</find>
@@ -31,6 +30,7 @@
       <find>Template</find>
       <find>title(</find>
       <find>s</find>
+      <find>titl</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
