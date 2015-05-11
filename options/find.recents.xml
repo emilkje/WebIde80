@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>iCal</find>
       <find>autoload</find>
       <find>Logg inn som</find>
       <find>addon</find>
@@ -31,6 +30,7 @@
       <find>Font</find>
       <find>head</find>
       <find>Template</find>
+      <find>title(</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
