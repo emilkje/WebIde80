@@ -28,9 +28,9 @@
       <find>Font</find>
       <find>head</find>
       <find>Template</find>
-      <find>title(</find>
       <find>s</find>
       <find>titl</find>
+      <find>title(</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
