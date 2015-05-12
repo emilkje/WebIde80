@@ -19,7 +19,7 @@
     <property name="KEYMAP" value="selec&#10;path t" />
     <property name="FindSplitterProportion" value="0.25" />
     <property name="FileTemplates.CurrentTab" value="Code" />
-    <property name="FileTemplates.SelectedTemplate" value="PHP Getter Method" />
+    <property name="FileTemplates.SelectedTemplate" value="PHP Setter Method" />
     <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="file.chooser.recent.files" value="/Applications/MAMP/bin/php/php5.4.34/bin/php&#10;/Users/emil/www/project/sponsorportalen/rbase&#10;/Users/emil/www/project/sponsorportalen&#10;/Applications/MAMP/bin/php/php5.3.28/bin&#10;/Applications/MAMP/bin/php/php5.3.28" />
