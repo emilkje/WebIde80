@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>render</find>
       <find>fee</find>
       <find>feedb</find>
       <find>finish</find>
@@ -31,6 +30,7 @@
       <find>console.log</find>
       <find>sponsoro</find>
       <find>table-con</find>
+      <find>url</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
@@ -56,6 +56,7 @@
       <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/resource/script</dir>
+      <dir>$USER_HOME$/pers/kerbal/src/api</dir>
     </dirStrings>
   </component>
 </application>
