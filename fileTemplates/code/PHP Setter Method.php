@@ -1,5 +1,6 @@
 /**
  * @param ${TYPE_HINT} $${PARAM_NAME}
+ * @return ${CLASS_NAME}
  */
 public ${STATIC} function set${NAME}($${PARAM_NAME})
 {
