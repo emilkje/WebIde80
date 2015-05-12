@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>dok</find>
       <find>parseW</find>
       <find>Json</find>
       <find>render</find>
@@ -31,6 +30,7 @@
       <find>tinym</find>
       <find>removeIns</find>
       <find>tinymce</find>
+      <find>console.log</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
@@ -55,6 +55,7 @@
       <dir>$USER_HOME$/www/project/olkweb3/www/js</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module/template</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
+      <dir>$USER_HOME$/www/project/sponsorportalen/resource/script</dir>
     </dirStrings>
   </component>
 </application>
