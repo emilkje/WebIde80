@@ -73,13 +73,13 @@
       <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="sponsorportalen" values="js.build_tools.gulp,JavascriptDebugType" />
+      <project id="sponsorportalen" values="JavascriptDebugType,js.build_tools.gulp" />
       <project id="PHPGit" values="PHPUnitRunConfigurationType,JavascriptDebugType" />
     </group>
     <group name="file-type">
       <project id="rbase3.0" values="JavaScript,XML,PLAIN_TEXT,HTML,SourceMap,JSON,CSS,Images,SQL,PHP,YAML,Locale,UNKNOWN,Ini" />
       <project id="ssadmin" values="JavaScript,TypeScript,LESS,C++,Cucumber,CSS,Locale,YAML,XML,ARCHIVE,UNKNOWN,htaccess,PHP,Blade,JSON,Images,HTML,ReST,Ini,PLAIN_TEXT" />
-      <project id="sponsorportalen" values="Bash,ARCHIVE,DATASOURCE_STORAGE,Images,SQL,Markdown,UNKNOWN,SourceMap,HTML,LESS,Locale,Ini,SmartyConfig,PLAIN_TEXT,XML,CSS,SCSS,JavaScript,PHP,Git file,JSON" />
+      <project id="sponsorportalen" values="PHP,Markdown,DATASOURCE_STORAGE,SourceMap,XML,SmartyConfig,UNKNOWN,Images,JavaScript,ARCHIVE,Locale,PLAIN_TEXT,CSS,Bash,Ini,JSON,SCSS,LESS,HTML,SQL,Git file" />
       <project id="kerbal" values="Git file,PLAIN_TEXT,UNKNOWN,XML,JavaScript,JSON" />
       <project id="rbasesocket" values="JavaScript,ARCHIVE,JSON,SourceMap,SmartyConfig,LESS,PLAIN_TEXT,Locale,TypeScript,CoffeeScript,ESLint,PATCH,C++,XML,JSCS,SCSS,Images,Markdown,CSS,Ini,Git file,HTML,YAML,Npm file,Bash,UNKNOWN,JSHint,SQL,PHP" />
       <project id="exchange" values="UNKNOWN,PLAIN_TEXT,PHP,XML,JSON" />
@@ -241,7 +241,7 @@
     <group name="php-include-path">
       <project id="rbase3.0" values="0" />
       <project id="ssadmin" values="0" />
-      <project id="sponsorportalen" values="5" />
+      <project id="sponsorportalen" values="4" />
       <project id="kerbal" values="0" />
       <project id="rbasesocket" values="0" />
       <project id="exchange" values="1" />
