@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>feedb</find>
       <find>finish</find>
       <find>submit:fi</find>
       <find>getLarli</find>
@@ -31,6 +30,7 @@
       <find>table-con</find>
       <find>url</find>
       <find>default</find>
+      <find>contextual-menu-li-border-radius</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
@@ -48,7 +48,6 @@
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate/spocontract</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate/spocontract/spodocument</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo</dir>
-      <dir>$USER_HOME$/www/project/olkweb3/resource/less</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module/template/documentation</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template</dir>
@@ -57,6 +56,7 @@
       <dir>$USER_HOME$/www/project/sponsorportalen/module</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/resource/script</dir>
       <dir>$USER_HOME$/pers/kerbal/src/api</dir>
+      <dir>$USER_HOME$/www/project/olkweb3/resource/less</dir>
     </dirStrings>
   </component>
 </application>
