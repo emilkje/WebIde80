@@ -65,6 +65,7 @@
     </group>
     <group name="javaScript Frameworks">
       <project id="kerbal" values="node_modules" />
+      <project id="olkweb3" values="node_modules" />
     </group>
     <group name="run-configuration-type">
       <project id="sponsorportalen" values="PhpWebAppRunConfigurationType" />
@@ -89,7 +90,7 @@
       <project id="kolsrud" values="UNKNOWN,PLAIN_TEXT,PHP,htaccess,Images,Blade,JSON,XML,YAML" />
       <project id="orchestra" values="XML,ESLint,Markdown,PHP,Ini,JSON,HTML,CoffeeScript,YAML,SQL,JSCS,JavaScript,JSHint,UNKNOWN,CSS,htaccess,PATCH,PLAIN_TEXT,ReST,SQLite Database,Images" />
       <project id="trunk" values="Images,HTML,JavaScript,PLAIN_TEXT,SQL,SmartyConfig,Locale,Native,PHP,SourceMap,JSON,UNKNOWN,CSS,Ini,XML,YAML" />
-      <project id="olkweb3" values="HTML,ARCHIVE,DTD,JSHint,CoffeeScript,JavaScript,Native,Bash,PLAIN_TEXT,TypeScript,Ini,LESS,SCSS,Npm file,XML,Images,PATCH,Git file,JSCS,YAML,CSS,Locale,SQL,Markdown,UNKNOWN,JSON,C++,SmartyConfig,SourceMap,PHP" />
+      <project id="olkweb3" values="Images,Native,PLAIN_TEXT,Markdown,Git file,SmartyConfig,PHP,LESS,JavaScript,Bash,SCSS,XML,Ini,Locale,UNKNOWN,JSON,SQL,SourceMap,CSS,HTML,JSHint" />
       <project id="psr-message" values="XML,PHP,ARCHIVE,SQL,Images,PLAIN_TEXT,Markdown,JSON,ESLint,ReST,JSHint,CSS,YAML,UNKNOWN,JavaScript,Ini,HTML,JSCS,PATCH,CoffeeScript" />
       <project id="ionic-webcadet" values="PLAIN_TEXT,SourceMap,SCSS,XML,ARCHIVE,Images,Npm file,JavaScript,UNKNOWN,CSS,TypeScript,Markdown,LESS,SASS,HTML,Git file,C#,JSON,C++" />
       <project id="CWKFoto" values="JSON,XML,PLAIN_TEXT,UNKNOWN,PHP" />
@@ -185,7 +186,7 @@
       <project id="kolsrud" values="Project,Project" />
       <project id="orchestra" values="Project,Project" />
       <project id="trunk" values="Project,Project" />
-      <project id="olkweb3" values="Project,Project" />
+      <project id="olkweb3" values="Directory,Project,Project" />
       <project id="psr-message" values="Project,Project" />
       <project id="ionic-webcadet" values="Project,Project" />
       <project id="CWKFoto" values="Project,Project" />
