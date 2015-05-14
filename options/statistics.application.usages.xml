@@ -17,7 +17,7 @@
       <project id="kolsrud" values="DEFAULT" />
       <project id="jira-release-notes" values="DEFAULT" />
       <project id="trunk" values="DEFAULT" />
-      <project id="olkweb3" values="DEFAULT" />
+      <project id="olkweb3" values="JSX Harmony" />
       <project id="untitled" values="DEFAULT" />
       <project id="Streetlapse" values="DEFAULT" />
       <project id="ionic-webcadet" values="DEFAULT" />
@@ -90,7 +90,7 @@
       <project id="kolsrud" values="YAML,htaccess,Images,JSON,UNKNOWN,XML,PHP,PLAIN_TEXT,Blade" />
       <project id="jira-release-notes" values="YAML,Images,JSON,XML,Markdown,PHP,UNKNOWN,SmartyConfig,PLAIN_TEXT" />
       <project id="trunk" values="SmartyConfig,CSS,JSON,HTML,SQL,YAML,Native,UNKNOWN,SourceMap,XML,Ini,JavaScript,Images,PLAIN_TEXT,Locale,PHP" />
-      <project id="olkweb3" values="SCSS,PLAIN_TEXT,LESS,XML,CSS,Images,PHP,HTML,Ini,UNKNOWN,Bash,JavaScript,Git file,SQL,JSHint,Native,SmartyConfig,JSON,Locale,Markdown,SourceMap" />
+      <project id="olkweb3" values="SourceMap,UNKNOWN,Locale,JSHint,LESS,PLAIN_TEXT,CSS,SCSS,Ini,XML,Git file,SmartyConfig,JSON,Native,HTML,SQL,Markdown,JavaScript,Bash,PHP,Images" />
       <project id="untitled" values="PLAIN_TEXT,UNKNOWN,PHP,XML" />
       <project id="Streetlapse" values="CoffeeScript,ARCHIVE,PLAIN_TEXT,Bash,JSON,XML,HTML,Images,Npm file,Markdown,CSS,Git file,JavaScript,UNKNOWN,YAML,JSHint" />
       <project id="ionic-webcadet" values="C++,HTML,UNKNOWN,TypeScript,SASS,JSON,PLAIN_TEXT,SCSS,Git file,Markdown,CSS,SourceMap,Images,LESS,C#,ARCHIVE,XML,JavaScript,Npm file" />
