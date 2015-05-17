@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>getLarl</find>
       <find>status</find>
       <find>copy</find>
       <find>Promise</find>
@@ -31,12 +30,14 @@
       <find>#main</find>
       <find>ticksource</find>
       <find>style</find>
+      <find>class</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
       <replace>spo/spocontracttemplate</replace>
       <replace>spo/sposectiontemplate</replace>
       <replace>Spocontracttemplate</replace>
+      <replace>className</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
