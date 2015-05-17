@@ -50,10 +50,10 @@
       <option name="lastDate" value="1431813600000" />
     </completionStatsTag>
     <fixesStatsTag>
-      <option name="invocations" value="14" />
+      <option name="invocations" value="15" />
       <option name="startDate" value="1411423200000" />
-      <option name="dayCount" value="9" />
-      <option name="lastDate" value="1431468000000" />
+      <option name="dayCount" value="10" />
+      <option name="lastDate" value="1431813600000" />
     </fixesStatsTag>
   </component>
 </application>
