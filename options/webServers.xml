@@ -31,6 +31,9 @@
       <webServer id="9eb2d369-6177-482d-8e76-36ac067afb4b" name="psrmessage.dev" url="http://psrmessage.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="756ef2cc-4646-49e5-8816-da9edf749c80" name="slack.dev" url="http://slack.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
