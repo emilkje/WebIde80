@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>category</find>
       <find>K_PATH_MAIN</find>
       <find>Font</find>
       <find>head</find>
@@ -31,6 +30,7 @@
       <find>btn</find>
       <find>spocontr</find>
       <find>allowRe</find>
+      <find>renew</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
