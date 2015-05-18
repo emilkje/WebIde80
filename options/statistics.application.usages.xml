@@ -85,7 +85,7 @@
       <project id="sponsorportalen" values="Bash,Ini,PLAIN_TEXT,JavaScript,UNKNOWN,Images,JSON,Git file,SourceMap,PHP,CSS,Locale,HTML,XML,LESS,DATASOURCE_STORAGE,ARCHIVE,Markdown,SCSS,SmartyConfig,SQL" />
       <project id="slack" values="Images,JSHint,SourceMap,CSS,Git file,Npm file,YAML,CoffeeScript,JavaScript,Bash,ESLint,PATCH,PHP,Markdown,JSHint file,JSCS,JSON,SmartyConfig,PLAIN_TEXT,C++,UNKNOWN,HTML,XML" />
       <project id="kerbal" values="C++,JSCS,Bash,Npm file,LESS,Images,PLAIN_TEXT,HTML,JSHint,YAML,CSS,CoffeeScript,TypeScript,PATCH,Git file,Markdown,JavaScript,UNKNOWN,JSON,ESLint,JSHint file,XML,SmartyConfig" />
-      <project id="rbasesocket" values="Images,LESS,ESLint,C++,SQL,Bash,JSHint,CoffeeScript,JSON,Git file,SourceMap,Markdown,JavaScript,YAML,ARCHIVE,SCSS,PHP,XML,CSS,TypeScript,SmartyConfig,HTML,Npm file,PATCH,JSCS,UNKNOWN,PLAIN_TEXT,Locale,Ini" />
+      <project id="rbasesocket" values="HTML,Markdown,ESLint,PLAIN_TEXT,JSHint file,Ini,Npm file,Git file,C++,JavaScript,UNKNOWN,YAML,ARCHIVE,CSS,JSHint,SQL,LESS,SCSS,JSON,PHP,SmartyConfig,SourceMap,PATCH,Images,Bash,TypeScript,XML,CoffeeScript,Locale,JSCS" />
       <project id="exchange" values="JSON,UNKNOWN,PHP,PLAIN_TEXT,XML" />
       <project id="PHPGit" values="XML,Markdown,JSON,CSS,YAML,JavaScript,PLAIN_TEXT,PHP,UNKNOWN" />
       <project id="jira-release-notes" values="YAML,XML,PLAIN_TEXT,PHP,JSON,Images,Markdown,SmartyConfig,UNKNOWN" />
