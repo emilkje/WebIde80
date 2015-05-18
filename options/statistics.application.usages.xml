@@ -8,6 +8,7 @@
       <project id="rbase3.0" values="DEFAULT" />
       <project id="ssadmin" values="DEFAULT" />
       <project id="sponsorportalen" values="DEFAULT" />
+      <project id="slack" values="JSX Harmony" />
       <project id="kerbal" values="DEFAULT" />
       <project id="rbasesocket" values="DEFAULT" />
       <project id="exchange" values="DEFAULT" />
@@ -30,6 +31,7 @@
       <project id="rbase3.0" values="WEB_MODULE" />
       <project id="ssadmin" values="WEB_MODULE" />
       <project id="sponsorportalen" values="WEB_MODULE" />
+      <project id="slack" values="WEB_MODULE" />
       <project id="kerbal" values="WEB_MODULE" />
       <project id="rbasesocket" values="WEB_MODULE" />
       <project id="exchange" values="WEB_MODULE" />
@@ -49,19 +51,19 @@
       <project id="untitled" values="WEB_MODULE" />
     </group>
     <group name="vcs">
-      <project id="interfacelift" values="Git" />
+      <project id="rbase3.0" values="svn" />
       <project id="sponsorportalen" values="Git" />
-      <project id="psr-message" values="Git" />
-      <project id="trysil" values="Git" />
-      <project id="ionic-webcadet" values="Git" />
+      <project id="kerbal" values="Git" />
+      <project id="Streetlapse" values="Git" />
+      <project id="PHPGit" values="Git" />
+      <project id="interfacelift" values="Git" />
       <project id="exchange" values="Git" />
       <project id="trunk" values="svn" />
-      <project id="PHPGit" values="Git" />
-      <project id="Streetlapse" values="Git" />
-      <project id="kerbal" values="Git" />
-      <project id="rbase3.0" values="svn" />
-      <project id="starter-project" values="Git" />
       <project id="olkweb3" values="Git" />
+      <project id="ionic-webcadet" values="Git" />
+      <project id="starter-project" values="Git" />
+      <project id="psr-message" values="Git" />
+      <project id="trysil" values="Git" />
     </group>
     <group name="javaScript Frameworks">
       <project id="olkweb3" values="node_modules" />
@@ -81,6 +83,7 @@
       <project id="rbase3.0" values="CSS,SQL,PHP,JSON,YAML,JavaScript,Locale,PLAIN_TEXT,SourceMap,Images,Ini,UNKNOWN,XML,HTML" />
       <project id="ssadmin" values="Ini,YAML,TypeScript,HTML,JSON,htaccess,PLAIN_TEXT,LESS,ReST,UNKNOWN,Images,CSS,PHP,Blade,C++,Locale,ARCHIVE,Cucumber,XML,JavaScript" />
       <project id="sponsorportalen" values="Bash,Ini,PLAIN_TEXT,JavaScript,UNKNOWN,Images,JSON,Git file,SourceMap,PHP,CSS,Locale,HTML,XML,LESS,DATASOURCE_STORAGE,ARCHIVE,Markdown,SCSS,SmartyConfig,SQL" />
+      <project id="slack" values="Images,JSHint,SourceMap,CSS,Git file,Npm file,YAML,CoffeeScript,JavaScript,Bash,ESLint,PATCH,PHP,Markdown,JSHint file,JSCS,JSON,SmartyConfig,PLAIN_TEXT,C++,UNKNOWN,HTML,XML" />
       <project id="kerbal" values="C++,JSCS,Bash,Npm file,LESS,Images,PLAIN_TEXT,HTML,JSHint,YAML,CSS,CoffeeScript,TypeScript,PATCH,Git file,Markdown,JavaScript,UNKNOWN,JSON,ESLint,JSHint file,XML,SmartyConfig" />
       <project id="rbasesocket" values="Images,LESS,ESLint,C++,SQL,Bash,JSHint,CoffeeScript,JSON,Git file,SourceMap,Markdown,JavaScript,YAML,ARCHIVE,SCSS,PHP,XML,CSS,TypeScript,SmartyConfig,HTML,Npm file,PATCH,JSCS,UNKNOWN,PLAIN_TEXT,Locale,Ini" />
       <project id="exchange" values="JSON,UNKNOWN,PHP,PLAIN_TEXT,XML" />
@@ -103,6 +106,7 @@
       <project id="rbase3.0" values="not installed" />
       <project id="ssadmin" values="not installed" />
       <project id="sponsorportalen" values="5.3.28" />
+      <project id="slack" values="not installed" />
       <project id="kerbal" values="not installed" />
       <project id="rbasesocket" values="not installed" />
       <project id="exchange" values="not installed" />
@@ -133,6 +137,7 @@
       <project id="rbase3.0" values="LOCAL" />
       <project id="ssadmin" values="LOCAL" />
       <project id="sponsorportalen" values="LOCAL" />
+      <project id="slack" values="LOCAL" />
       <project id="kerbal" values="LOCAL" />
       <project id="rbasesocket" values="LOCAL" />
       <project id="exchange" values="LOCAL" />
@@ -155,6 +160,7 @@
       <project id="rbase3.0" values="1" />
       <project id="ssadmin" values="1" />
       <project id="sponsorportalen" values="2" />
+      <project id="slack" values="2" />
       <project id="kerbal" values="2" />
       <project id="rbasesocket" values="2" />
       <project id="exchange" values="1" />
@@ -177,6 +183,7 @@
       <project id="rbase3.0" values="Project,Project" />
       <project id="ssadmin" values="Project,Project" />
       <project id="sponsorportalen" values="Project,Project" />
+      <project id="slack" values="Project,Project" />
       <project id="kerbal" values="Project,Directory,Project" />
       <project id="rbasesocket" values="Project,Project" />
       <project id="exchange" values="Project,Project" />
@@ -199,6 +206,7 @@
       <project id="rbase3.0" values="0" />
       <project id="ssadmin" values="0" />
       <project id="sponsorportalen" values="0" />
+      <project id="slack" values="0" />
       <project id="kerbal" values="0" />
       <project id="rbasesocket" values="0" />
       <project id="exchange" values="0" />
@@ -221,6 +229,7 @@
       <project id="rbase3.0" values="0" />
       <project id="ssadmin" values="0" />
       <project id="sponsorportalen" values="1" />
+      <project id="slack" values="0" />
       <project id="kerbal" values="0" />
       <project id="rbasesocket" values="0" />
       <project id="exchange" values="0" />
@@ -243,6 +252,7 @@
       <project id="rbase3.0" values="0" />
       <project id="ssadmin" values="0" />
       <project id="sponsorportalen" values="4" />
+      <project id="slack" values="16" />
       <project id="kerbal" values="0" />
       <project id="rbasesocket" values="0" />
       <project id="exchange" values="1" />
