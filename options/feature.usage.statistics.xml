@@ -27,7 +27,7 @@
     <feature id="codeassists.comment.block" count="1" last-shown="0" last-used="1429614354701" shown-count="0" />
     <feature id="navigation.popup.class" count="25" last-shown="0" last-used="1411548021117" shown-count="0" />
     <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="628" last-shown="0" last-used="1431958010194" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="629" last-shown="0" last-used="1431964335477" shown-count="0" />
     <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.basic" count="7862" last-shown="0" last-used="1431963895337" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="5" last-shown="0" last-used="1411999203975" shown-count="0" />
