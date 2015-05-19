@@ -58,5 +58,7 @@
     <property name="nodejs_index_submodules" value="false" />
     <property name="INTENTION_FILTER_HISTORY" value="Syntax" />
     <property name="AssociationsEditor.dividerProportion" value="0.3" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
   </component>
 </application>
