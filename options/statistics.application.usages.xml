@@ -25,6 +25,7 @@
       <project id="starter-project" values="DEFAULT" />
       <project id="Streetlapse" values="DEFAULT" />
       <project id="trysil" values="DEFAULT" />
+      <project id="replayer" values="JSX Harmony" />
       <project id="untitled" values="DEFAULT" />
     </group>
     <group name="module type">
@@ -48,6 +49,7 @@
       <project id="starter-project" values="WEB_MODULE" />
       <project id="Streetlapse" values="WEB_MODULE" />
       <project id="trysil" values="WEB_MODULE" />
+      <project id="replayer" values="WEB_MODULE" />
       <project id="untitled" values="WEB_MODULE" />
     </group>
     <group name="vcs">
@@ -67,6 +69,7 @@
     </group>
     <group name="javaScript Frameworks">
       <project id="olkweb3" values="node_modules" />
+      <project id="replayer" values="node_modules" />
       <project id="kerbal" values="node_modules" />
     </group>
     <group name="run-configuration-type">
@@ -100,6 +103,7 @@
       <project id="starter-project" values="JavaScript,PLAIN_TEXT,YAML,JSCS,Images,Locale,XML,Ini,JSON,UNKNOWN,CoffeeScript,C++,Npm file,LESS,Git file,SourceMap,DTD,PATCH,JSHint,CSS,ARCHIVE,SmartyConfig,Markdown,PHP,SQL,ESLint,HTML,TypeScript,SCSS" />
       <project id="Streetlapse" values="CoffeeScript,UNKNOWN,JavaScript,Git file,XML,Markdown,Images,HTML,JSON,JSHint,PLAIN_TEXT,CSS,Bash,YAML,ARCHIVE,Npm file" />
       <project id="trysil" values="SQL,Images,CSS,JSON,Cucumber,SmartyConfig,JSHint,PHP,YAML,PLAIN_TEXT,JavaScript,Native,C++,HTML,SilverStripe,LESS,Ini,SCSS,PATCH,htaccess,UNKNOWN,XML,ARCHIVE,CoffeeScript,SourceMap" />
+      <project id="replayer" values="HTML,CSS,Git file,JSON,Markdown,SCSS,Images,XML,JavaScript,ESLint,UNKNOWN,PLAIN_TEXT,SourceMap,JSHint" />
       <project id="untitled" values="XML,UNKNOWN,PLAIN_TEXT,PHP" />
     </group>
     <group name="php-interpreter-version">
@@ -123,6 +127,7 @@
       <project id="starter-project" values="not installed" />
       <project id="Streetlapse" values="not installed" />
       <project id="trysil" values="not installed" />
+      <project id="replayer" values="not installed" />
       <project id="untitled" values="not installed" />
     </group>
     <group name="php-interpreter-debug-ext">
@@ -154,6 +159,7 @@
       <project id="starter-project" values="LOCAL" />
       <project id="Streetlapse" values="LOCAL" />
       <project id="trysil" values="LOCAL" />
+      <project id="replayer" values="LOCAL" />
       <project id="untitled" values="LOCAL" />
     </group>
     <group name="php-interpreters">
@@ -177,6 +183,7 @@
       <project id="starter-project" values="2" />
       <project id="Streetlapse" values="2" />
       <project id="trysil" values="1" />
+      <project id="replayer" values="2" />
       <project id="untitled" values="1" />
     </group>
     <group name="javaScript Scope Usages">
@@ -200,6 +207,7 @@
       <project id="starter-project" values="Project,Project" />
       <project id="Streetlapse" values="Project,Project" />
       <project id="trysil" values="Project,Project" />
+      <project id="replayer" values="Directory,Project,Project" />
       <project id="untitled" values="Project,Project" />
     </group>
     <group name="php-debug-skipped-paths">
@@ -223,6 +231,7 @@
       <project id="starter-project" values="0" />
       <project id="Streetlapse" values="0" />
       <project id="trysil" values="0" />
+      <project id="replayer" values="0" />
       <project id="untitled" values="0" />
     </group>
     <group name="php-servers">
@@ -246,6 +255,7 @@
       <project id="starter-project" values="0" />
       <project id="Streetlapse" values="0" />
       <project id="trysil" values="0" />
+      <project id="replayer" values="0" />
       <project id="untitled" values="0" />
     </group>
     <group name="php-include-path">
@@ -269,12 +279,13 @@
       <project id="starter-project" values="0" />
       <project id="Streetlapse" values="0" />
       <project id="trysil" values="1" />
+      <project id="replayer" values="0" />
       <project id="untitled" values="0" />
     </group>
     <group name="php-server-debug-ext">
       <project id="sponsorportalen" values="xdebug" />
-      <project id="olkweb3" values="xdebug" />
       <project id="trunk" values="xdebug" />
+      <project id="olkweb3" values="xdebug" />
     </group>
   </component>
   <component name="UsageTrigger">
