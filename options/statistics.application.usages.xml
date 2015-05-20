@@ -91,7 +91,7 @@
       <project id="rbasesocket" values="HTML,Markdown,ESLint,PLAIN_TEXT,JSHint file,Ini,Npm file,Git file,C++,JavaScript,UNKNOWN,YAML,ARCHIVE,CSS,JSHint,SQL,LESS,SCSS,JSON,PHP,SmartyConfig,SourceMap,PATCH,Images,Bash,TypeScript,XML,CoffeeScript,Locale,JSCS" />
       <project id="exchange" values="JSON,UNKNOWN,PHP,PLAIN_TEXT,XML" />
       <project id="PHPGit" values="XML,Markdown,JSON,CSS,YAML,JavaScript,PLAIN_TEXT,PHP,UNKNOWN" />
-      <project id="jira-release-notes" values="YAML,XML,PLAIN_TEXT,PHP,JSON,Images,Markdown,SmartyConfig,UNKNOWN" />
+      <project id="jira-release-notes" values="Native,SmartyConfig,UNKNOWN,Markdown,PLAIN_TEXT,Images,YAML,XML,Git file,PHP,JSON" />
       <project id="interfacelift" values="XML,JSON,JavaScript,PLAIN_TEXT,UNKNOWN" />
       <project id="kolsrud" values="PLAIN_TEXT,Blade,UNKNOWN,JSON,Images,YAML,XML,PHP,htaccess" />
       <project id="orchestra" values="Ini,HTML,CSS,JSON,JavaScript,SQL,Markdown,UNKNOWN,SQLite Database,PATCH,htaccess,XML,PLAIN_TEXT,JSHint,ReST,JSCS,Images,YAML,ESLint,CoffeeScript,PHP" />
