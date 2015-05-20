@@ -85,7 +85,7 @@
     <group name="file-type">
       <project id="rbase3.0" values="CSS,SQL,PHP,JSON,YAML,JavaScript,Locale,PLAIN_TEXT,SourceMap,Images,Ini,UNKNOWN,XML,HTML" />
       <project id="ssadmin" values="Ini,YAML,TypeScript,HTML,JSON,htaccess,PLAIN_TEXT,LESS,ReST,UNKNOWN,Images,CSS,PHP,Blade,C++,Locale,ARCHIVE,Cucumber,XML,JavaScript" />
-      <project id="sponsorportalen" values="LESS,JavaScript,Markdown,PHP,PLAIN_TEXT,Ini,SourceMap,Git file,Images,Bash,Locale,HTML,XML,SCSS,DATASOURCE_STORAGE,JSON,SQL,ARCHIVE,SmartyConfig,UNKNOWN,CSS" />
+      <project id="sponsorportalen" values="ARCHIVE,DATASOURCE_STORAGE,PHP,SCSS,SmartyConfig,SourceMap,Bash,Images,Locale,SQL,Git file,Ini,LESS,JavaScript,PLAIN_TEXT,XML,UNKNOWN,HTML,CSS,Markdown,JSON" />
       <project id="slack" values="YAML,PHP,JSCS,Images,UNKNOWN,Npm file,Markdown,CoffeeScript,CSS,SmartyConfig,HTML,JSON,C++,Git file,JSHint file,Bash,PATCH,XML,PLAIN_TEXT,JSHint,ESLint,JavaScript,SourceMap" />
       <project id="kerbal" values="C++,JSCS,Bash,Npm file,LESS,Images,PLAIN_TEXT,HTML,JSHint,YAML,CSS,CoffeeScript,TypeScript,PATCH,Git file,Markdown,JavaScript,UNKNOWN,JSON,ESLint,JSHint file,XML,SmartyConfig" />
       <project id="rbasesocket" values="HTML,Markdown,ESLint,PLAIN_TEXT,JSHint file,Ini,Npm file,Git file,C++,JavaScript,UNKNOWN,YAML,ARCHIVE,CSS,JSHint,SQL,LESS,SCSS,JSON,PHP,SmartyConfig,SourceMap,PATCH,Images,Bash,TypeScript,XML,CoffeeScript,Locale,JSCS" />
