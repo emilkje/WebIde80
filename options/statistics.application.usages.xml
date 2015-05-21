@@ -79,13 +79,13 @@
       <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="sponsorportalen" values="JavascriptDebugType,js.build_tools.gulp" />
+      <project id="sponsorportalen" values="js.build_tools.gulp,JavascriptDebugType" />
       <project id="PHPGit" values="JavascriptDebugType,PHPUnitRunConfigurationType" />
     </group>
     <group name="file-type">
       <project id="rbase3.0" values="JavaScript,JSON,SourceMap,SQL,Ini,UNKNOWN,HTML,YAML,XML,CSS,Images,Locale,PLAIN_TEXT,PHP" />
       <project id="ssadmin" values="Blade,LESS,Ini,htaccess,C++,TypeScript,Images,CSS,Locale,HTML,YAML,ARCHIVE,JSON,Cucumber,JavaScript,XML,PLAIN_TEXT,ReST,PHP,UNKNOWN" />
-      <project id="sponsorportalen" values="Images,Locale,Git file,JSON,UNKNOWN,HTML,SourceMap,SQL,Markdown,LESS,CSS,PLAIN_TEXT,SmartyConfig,XML,JavaScript,DATASOURCE_STORAGE,PHP,ARCHIVE,Bash,Ini,SCSS" />
+      <project id="sponsorportalen" values="SmartyConfig,XML,CSS,JavaScript,PHP,JSON,HTML,Ini,Locale,SourceMap,PLAIN_TEXT,ARCHIVE,SQL,SCSS,Git file,LESS,UNKNOWN,Markdown,DATASOURCE_STORAGE,Bash,Images" />
       <project id="slack" values="XML,HTML,Bash,Npm file,JSON,ESLint,PLAIN_TEXT,SmartyConfig,C++,Markdown,UNKNOWN,PHP,JSHint,Git file,PATCH,Images,SourceMap,CSS,JSCS,YAML,JavaScript,CoffeeScript,JSHint file" />
       <project id="kerbal" values="CSS,TypeScript,CoffeeScript,SmartyConfig,XML,JSCS,YAML,UNKNOWN,Npm file,Images,JSHint file,C++,HTML,LESS,PLAIN_TEXT,JSON,Git file,Markdown,JSHint,ESLint,Bash,PATCH,JavaScript" />
       <project id="rbasesocket" values="Ini,CSS,SourceMap,JSHint,LESS,CoffeeScript,JSHint file,SmartyConfig,Npm file,HTML,YAML,XML,ARCHIVE,Bash,C++,Markdown,Images,ESLint,PATCH,PHP,Git file,JSCS,UNKNOWN,SCSS,JavaScript,SQL,Locale,PLAIN_TEXT,JSON,TypeScript" />
