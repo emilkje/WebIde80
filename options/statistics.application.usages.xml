@@ -96,7 +96,7 @@
       <project id="kolsrud" values="JSON,YAML,UNKNOWN,PLAIN_TEXT,Images,XML,PHP,htaccess,Blade" />
       <project id="orchestra" values="Markdown,ReST,CoffeeScript,XML,SQLite Database,Ini,YAML,Images,PLAIN_TEXT,JSCS,HTML,ESLint,PATCH,SQL,JavaScript,JSHint,CSS,htaccess,JSON,UNKNOWN,PHP" />
       <project id="trunk" values="JSON,Ini,CSS,HTML,Locale,PHP,YAML,SQL,UNKNOWN,Images,PLAIN_TEXT,JavaScript,SmartyConfig,SourceMap,XML,Native" />
-      <project id="olkweb3" values="Ini,JSON,SourceMap,SQL,Images,UNKNOWN,Git file,SCSS,JavaScript,Native,PLAIN_TEXT,PHP,XML,Markdown,CSS,LESS,JSHint,Locale,HTML,Bash,SmartyConfig" />
+      <project id="olkweb3" values="SmartyConfig,Images,SQL,JSHint,SourceMap,PHP,PLAIN_TEXT,JSON,CSS,XML,JavaScript,Bash,UNKNOWN,LESS,Locale,Ini,Markdown,HTML,Native,SCSS,Git file" />
       <project id="psr-message" values="SQL,Images,ESLint,ARCHIVE,JavaScript,Ini,CoffeeScript,PHP,XML,JSCS,CSS,UNKNOWN,HTML,JSON,PLAIN_TEXT,YAML,ReST,JSHint,PATCH,Markdown" />
       <project id="ionic-webcadet" values="Npm file,PLAIN_TEXT,UNKNOWN,LESS,JavaScript,SASS,XML,Git file,JSON,CSS,Images,SourceMap,Markdown,TypeScript,HTML,C#,SCSS,ARCHIVE,C++" />
       <project id="CWKFoto" values="PLAIN_TEXT,XML,JSON,UNKNOWN,PHP" />
@@ -200,7 +200,7 @@
       <project id="kolsrud" values="Project,Project" />
       <project id="orchestra" values="Project,Project" />
       <project id="trunk" values="Project,Project" />
-      <project id="olkweb3" values="Project,Directory,Project" />
+      <project id="olkweb3" values="Directory,Project,Project" />
       <project id="psr-message" values="Project,Project" />
       <project id="ionic-webcadet" values="Project,Project" />
       <project id="CWKFoto" values="Project,Project" />
