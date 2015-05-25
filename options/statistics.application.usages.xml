@@ -20,6 +20,7 @@
       <project id="trunk" values="DEFAULT" />
       <project id="olkweb3" values="JSX Harmony" />
       <project id="untitled" values="DEFAULT" />
+      <project id="handle-it" values="DEFAULT" />
       <project id="Streetlapse" values="DEFAULT" />
       <project id="ionic-webcadet" values="DEFAULT" />
       <project id="starter-project" values="DEFAULT" />
@@ -44,6 +45,7 @@
       <project id="trunk" values="WEB_MODULE" />
       <project id="olkweb3" values="WEB_MODULE" />
       <project id="untitled" values="WEB_MODULE" />
+      <project id="handle-it" values="WEB_MODULE" />
       <project id="Streetlapse" values="WEB_MODULE" />
       <project id="ionic-webcadet" values="WEB_MODULE" />
       <project id="starter-project" values="WEB_MODULE" />
@@ -53,19 +55,20 @@
       <project id="CWKFoto" values="WEB_MODULE" />
     </group>
     <group name="vcs">
-      <project id="interfacelift" values="Git" />
+      <project id="rbase3.0" values="svn" />
       <project id="sponsorportalen" values="Git" />
-      <project id="psr-message" values="Git" />
-      <project id="trysil" values="Git" />
-      <project id="ionic-webcadet" values="Git" />
+      <project id="kerbal" values="Git" />
+      <project id="Streetlapse" values="Git" />
+      <project id="PHPGit" values="Git" />
+      <project id="interfacelift" values="Git" />
       <project id="exchange" values="Git" />
       <project id="trunk" values="svn" />
-      <project id="PHPGit" values="Git" />
-      <project id="Streetlapse" values="Git" />
-      <project id="kerbal" values="Git" />
-      <project id="rbase3.0" values="svn" />
-      <project id="starter-project" values="Git" />
       <project id="olkweb3" values="Git" />
+      <project id="handle-it" values="Git" />
+      <project id="ionic-webcadet" values="Git" />
+      <project id="starter-project" values="Git" />
+      <project id="psr-message" values="Git" />
+      <project id="trysil" values="Git" />
     </group>
     <group name="javaScript Frameworks">
       <project id="olkweb3" values="node_modules" />
@@ -98,6 +101,7 @@
       <project id="trunk" values="PLAIN_TEXT,Native,Ini,PHP,SourceMap,JSON,UNKNOWN,HTML,XML,Locale,SmartyConfig,SQL,CSS,JavaScript,Images,YAML" />
       <project id="olkweb3" values="JavaScript,Git file,UNKNOWN,SmartyConfig,Locale,SCSS,Ini,JSON,Native,SourceMap,PHP,PLAIN_TEXT,XML,HTML,Markdown,Images,JSHint,LESS,CSS,SQL,Bash" />
       <project id="untitled" values="PHP,XML,PLAIN_TEXT,UNKNOWN" />
+      <project id="handle-it" values="PHP,XML,Git file,PLAIN_TEXT,UNKNOWN,Markdown,JSON" />
       <project id="Streetlapse" values="JSHint,Markdown,ARCHIVE,Bash,HTML,YAML,UNKNOWN,XML,Images,Git file,CoffeeScript,CSS,JavaScript,Npm file,PLAIN_TEXT,JSON" />
       <project id="ionic-webcadet" values="JSON,TypeScript,SCSS,Git file,CSS,JavaScript,HTML,PLAIN_TEXT,Markdown,Npm file,SASS,SourceMap,ARCHIVE,C#,UNKNOWN,Images,XML,C++,LESS" />
       <project id="starter-project" values="PLAIN_TEXT,JSCS,ARCHIVE,SQL,Ini,CSS,C++,SCSS,JSON,LESS,DTD,UNKNOWN,SmartyConfig,YAML,JavaScript,SourceMap,ESLint,TypeScript,HTML,Markdown,JSHint,XML,Images,PATCH,PHP,Git file,Locale,Npm file,CoffeeScript" />
@@ -122,6 +126,7 @@
       <project id="trunk" values="not installed" />
       <project id="olkweb3" values="5.3.28" />
       <project id="untitled" values="not installed" />
+      <project id="handle-it" values="not installed" />
       <project id="Streetlapse" values="not installed" />
       <project id="ionic-webcadet" values="not installed" />
       <project id="starter-project" values="not installed" />
@@ -154,6 +159,7 @@
       <project id="trunk" values="LOCAL" />
       <project id="olkweb3" values="LOCAL" />
       <project id="untitled" values="LOCAL" />
+      <project id="handle-it" values="LOCAL" />
       <project id="Streetlapse" values="LOCAL" />
       <project id="ionic-webcadet" values="LOCAL" />
       <project id="starter-project" values="LOCAL" />
@@ -178,6 +184,7 @@
       <project id="trunk" values="1" />
       <project id="olkweb3" values="2" />
       <project id="untitled" values="1" />
+      <project id="handle-it" values="2" />
       <project id="Streetlapse" values="2" />
       <project id="ionic-webcadet" values="2" />
       <project id="starter-project" values="2" />
@@ -202,6 +209,7 @@
       <project id="trunk" values="Project,Project" />
       <project id="olkweb3" values="Project,Directory,Project" />
       <project id="untitled" values="Project,Project" />
+      <project id="handle-it" values="Project,Project" />
       <project id="Streetlapse" values="Project,Project" />
       <project id="ionic-webcadet" values="Project,Project" />
       <project id="starter-project" values="Project,Project" />
@@ -226,6 +234,7 @@
       <project id="trunk" values="0" />
       <project id="olkweb3" values="0" />
       <project id="untitled" values="0" />
+      <project id="handle-it" values="0" />
       <project id="Streetlapse" values="0" />
       <project id="ionic-webcadet" values="0" />
       <project id="starter-project" values="0" />
@@ -250,6 +259,7 @@
       <project id="trunk" values="1" />
       <project id="olkweb3" values="1" />
       <project id="untitled" values="0" />
+      <project id="handle-it" values="0" />
       <project id="Streetlapse" values="0" />
       <project id="ionic-webcadet" values="0" />
       <project id="starter-project" values="0" />
@@ -274,6 +284,7 @@
       <project id="trunk" values="0" />
       <project id="olkweb3" values="0" />
       <project id="untitled" values="0" />
+      <project id="handle-it" values="0" />
       <project id="Streetlapse" values="0" />
       <project id="ionic-webcadet" values="0" />
       <project id="starter-project" values="0" />
@@ -290,7 +301,7 @@
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="302" />
+      <entry feature="CreateFile.CreateFileAction" count="303" />
       <entry feature="NewDirectoryProjectAction.PHP Empty Project" count="1" />
       <entry feature="NewDirectoryProjectAction.empty" count="2" />
       <entry feature="execute.JavascriptDebugType.Debug" count="8" />
