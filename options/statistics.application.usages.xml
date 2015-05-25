@@ -101,7 +101,7 @@
       <project id="trunk" values="PLAIN_TEXT,Native,Ini,PHP,SourceMap,JSON,UNKNOWN,HTML,XML,Locale,SmartyConfig,SQL,CSS,JavaScript,Images,YAML" />
       <project id="olkweb3" values="JavaScript,Git file,UNKNOWN,SmartyConfig,Locale,SCSS,Ini,JSON,Native,SourceMap,PHP,PLAIN_TEXT,XML,HTML,Markdown,Images,JSHint,LESS,CSS,SQL,Bash" />
       <project id="untitled" values="PHP,XML,PLAIN_TEXT,UNKNOWN" />
-      <project id="handle-it" values="PHP,XML,Git file,PLAIN_TEXT,UNKNOWN,Markdown,JSON" />
+      <project id="handle-it" values="Git file,PHP,UNKNOWN,JSON,Markdown,PLAIN_TEXT,XML" />
       <project id="Streetlapse" values="JSHint,Markdown,ARCHIVE,Bash,HTML,YAML,UNKNOWN,XML,Images,Git file,CoffeeScript,CSS,JavaScript,Npm file,PLAIN_TEXT,JSON" />
       <project id="ionic-webcadet" values="JSON,TypeScript,SCSS,Git file,CSS,JavaScript,HTML,PLAIN_TEXT,Markdown,Npm file,SASS,SourceMap,ARCHIVE,C#,UNKNOWN,Images,XML,C++,LESS" />
       <project id="starter-project" values="PLAIN_TEXT,JSCS,ARCHIVE,SQL,Ini,CSS,C++,SCSS,JSON,LESS,DTD,UNKNOWN,SmartyConfig,YAML,JavaScript,SourceMap,ESLint,TypeScript,HTML,Markdown,JSHint,XML,Images,PATCH,PHP,Git file,Locale,Npm file,CoffeeScript" />

@@ -99,6 +99,11 @@
         <option value="$USER_HOME$/www/project/CWKFoto" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/pers/handle-it" />
+      </list>
+    </option>
     <option name="lastPath" value="$USER_HOME$/pers/handle-it" />
   </component>
   <component name="RecentTaskRepositories">
