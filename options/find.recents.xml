@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>withV</find>
       <find>tool</find>
       <find>tin</find>
       <find>tinymc</find>
@@ -31,6 +30,7 @@
       <find>feedb</find>
       <find>feedback</find>
       <find>documentation</find>
+      <find>default_</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
