@@ -101,7 +101,7 @@
       <project id="trunk" values="SQL,Ini,JSON,HTML,Native,XML,Images,UNKNOWN,SmartyConfig,JavaScript,CSS,PHP,PLAIN_TEXT,SourceMap,YAML,Locale" />
       <project id="olkweb3" values="SourceMap,SCSS,XML,LESS,SmartyConfig,JavaScript,PHP,JSHint,Ini,Markdown,Images,PLAIN_TEXT,Locale,SQL,Native,CSS,JSON,HTML,Bash,UNKNOWN,Git file" />
       <project id="psr-message" values="Images,SQL,JSON,YAML,PHP,Ini,UNKNOWN,HTML,ARCHIVE,CSS,ReST,PLAIN_TEXT,Markdown,JSHint,JSCS,ESLint,XML,JavaScript,CoffeeScript,PATCH" />
-      <project id="handle-it" values="XML,Markdown,PLAIN_TEXT,Git file,JSON,UNKNOWN,PHP" />
+      <project id="handle-it" values="Git file,JSON,PLAIN_TEXT,Markdown,PHP,XML,UNKNOWN" />
       <project id="ionic-webcadet" values="Images,HTML,Git file,JavaScript,C#,UNKNOWN,C++,SASS,PLAIN_TEXT,Markdown,CSS,SCSS,SourceMap,JSON,LESS,Npm file,TypeScript,ARCHIVE,XML" />
       <project id="CWKFoto" values="XML,JSON,PHP,UNKNOWN,PLAIN_TEXT" />
       <project id="starter-project" values="Locale,ARCHIVE,SCSS,Git file,Npm file,Ini,CSS,JSHint,JavaScript,PATCH,JSON,TypeScript,PHP,LESS,SourceMap,ESLint,XML,Images,UNKNOWN,HTML,SmartyConfig,YAML,Markdown,JSCS,PLAIN_TEXT,SQL,C++,DTD,CoffeeScript" />
