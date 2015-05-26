@@ -49,8 +49,8 @@
       </ViewImpl>
       <TabImpl>
         <option name="displayName" value="Debugger" />
-        <option name="leftProportion" value="0.23372781" />
-        <option name="rightProportion" value="0.09837278" />
+        <option name="leftProportion" value="0.48690292" />
+        <option name="rightProportion" value="0.20493066" />
       </TabImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
