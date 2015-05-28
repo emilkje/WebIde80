@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>contextual-menu-li-border-radius</find>
       <find>#main</find>
       <find>ticksource</find>
       <find>style</find>
@@ -31,6 +30,7 @@
       <find>modal</find>
       <find>chart</find>
       <find>SpiderC</find>
+      <find>Chart</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
