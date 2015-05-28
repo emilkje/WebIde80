@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>table-con</find>
       <find>url</find>
       <find>default</find>
       <find>contextual-menu-li-border-radius</find>
@@ -31,6 +30,7 @@
       <find>title</find>
       <find>?&gt;</find>
       <find>dash</find>
+      <find>modal</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
