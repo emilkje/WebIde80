@@ -48,7 +48,7 @@
     <location key="FileChooserDialogImpl.0.0.2560.1440" x="1030" y="361" />
     <location key="#com.intellij.ide.macro.MacrosDialog.0.0.2560.1440" x="1030" y="311" />
     <location key="ComposerAddDependencyOutputPopupDimensionServiceKey.0.0.2560.1440" x="1944" y="423" />
-    <location key="PHPComposerAddDependencyDialogDimensionKey.0.0.2560.1440" x="1736" y="297" />
+    <location key="PHPComposerAddDependencyDialogDimensionKey.0.0.2560.1440" x="889" y="307" />
     <location key="#PHP.0.0.2560.1440" x="1740" y="214" />
     <location key="#index.php.0.0.2560.1440" x="1748" y="240" />
     <location key="VCS.ChangeListViewerDialog.0.0.2560.1440" x="1761" y="258" />
@@ -118,7 +118,7 @@
     <size key="GridCell.Tab.1.bottom.0.0.1920.1200" width="813" height="435" />
     <size key="ProcessPopupWindow.0.0.2560.1440" width="768" height="444" />
     <size key="ComposerAddDependencyOutputPopupDimensionServiceKey.0.0.2560.1440" width="234" height="130" />
-    <size key="PHPComposerAddDependencyDialogDimensionKey.0.0.2560.1440" width="651" height="508" />
+    <size key="PHPComposerAddDependencyDialogDimensionKey.0.0.2560.1440" width="1271" height="508" />
     <size key="jetbrains.javascript.buildTools.gulp.0.0.2560.1440" width="250" height="276" />
     <size key="GridCell.Tab.0.left.0.0.1440.900" width="695" height="248" />
     <size key="GridCell.Tab.0.center.0.0.1440.900" width="695" height="248" />
