@@ -26,11 +26,11 @@
       <find>?&gt;</find>
       <find>dash</find>
       <find>modal</find>
-      <find>chart</find>
       <find>SpiderC</find>
       <find>Chart</find>
       <find>isAppr</find>
       <find>children(</find>
+      <find>chart</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
