@@ -99,7 +99,7 @@
       <project id="kolsrud" values="YAML,PLAIN_TEXT,PHP,UNKNOWN,XML,Blade,htaccess,JSON,Images" />
       <project id="orchestra" values="PLAIN_TEXT,JSON,HTML,SQL,JSHint,Markdown,PATCH,ReST,Images,UNKNOWN,JSCS,YAML,SQLite Database,XML,PHP,CSS,CoffeeScript,htaccess,Ini,JavaScript,ESLint" />
       <project id="trunk" values="SQL,Ini,JSON,HTML,Native,XML,Images,UNKNOWN,SmartyConfig,JavaScript,CSS,PHP,PLAIN_TEXT,SourceMap,YAML,Locale" />
-      <project id="olkweb3" values="SourceMap,SCSS,XML,LESS,SmartyConfig,JavaScript,PHP,JSHint,Ini,Markdown,Images,PLAIN_TEXT,Locale,SQL,Native,CSS,JSON,HTML,Bash,UNKNOWN,Git file" />
+      <project id="olkweb3" values="JSHint,SQL,LESS,SmartyConfig,JavaScript,SCSS,CSS,Bash,PHP,Native,PLAIN_TEXT,XML,Markdown,Ini,Images,HTML,SourceMap,Git file,Locale,UNKNOWN,JSON" />
       <project id="psr-message" values="Images,SQL,JSON,YAML,PHP,Ini,UNKNOWN,HTML,ARCHIVE,CSS,ReST,PLAIN_TEXT,Markdown,JSHint,JSCS,ESLint,XML,JavaScript,CoffeeScript,PATCH" />
       <project id="handle-it" values="Git file,JSON,PLAIN_TEXT,Markdown,PHP,XML,UNKNOWN" />
       <project id="ionic-webcadet" values="Images,HTML,Git file,JavaScript,C#,UNKNOWN,C++,SASS,PLAIN_TEXT,Markdown,CSS,SCSS,SourceMap,JSON,LESS,Npm file,TypeScript,ARCHIVE,XML" />
@@ -207,7 +207,7 @@
       <project id="kolsrud" values="Project,Project" />
       <project id="orchestra" values="Project,Project" />
       <project id="trunk" values="Project,Project" />
-      <project id="olkweb3" values="Project,Directory,Project" />
+      <project id="olkweb3" values="Directory,Project,Project" />
       <project id="psr-message" values="Project,Project" />
       <project id="handle-it" values="Project,Project" />
       <project id="ionic-webcadet" values="Project,Project" />
@@ -282,7 +282,7 @@
       <project id="kolsrud" values="0" />
       <project id="orchestra" values="0" />
       <project id="trunk" values="0" />
-      <project id="olkweb3" values="0" />
+      <project id="olkweb3" values="7" />
       <project id="psr-message" values="0" />
       <project id="handle-it" values="0" />
       <project id="ionic-webcadet" values="0" />
