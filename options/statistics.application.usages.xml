@@ -88,7 +88,7 @@
     <group name="file-type">
       <project id="rbase3.0" values="SourceMap,CSS,SQL,XML,PHP,Images,Locale,HTML,UNKNOWN,YAML,JavaScript,Ini,PLAIN_TEXT,JSON" />
       <project id="ssadmin" values="PHP,PLAIN_TEXT,Blade,TypeScript,CSS,Ini,Cucumber,htaccess,Images,JavaScript,C++,Locale,XML,ARCHIVE,YAML,UNKNOWN,JSON,LESS,HTML,ReST" />
-      <project id="sponsorportalen" values="PHP,Ini,SQL,ARCHIVE,Markdown,HTML,UNKNOWN,SCSS,Locale,CSS,JavaScript,Git file,PLAIN_TEXT,SmartyConfig,JSON,LESS,Images,DATASOURCE_STORAGE,SourceMap,Bash,XML" />
+      <project id="sponsorportalen" values="JavaScript,Bash,PLAIN_TEXT,UNKNOWN,LESS,CSS,XML,JSON,SCSS,PHP,SmartyConfig,Git file,SourceMap,DATASOURCE_STORAGE,Markdown,ARCHIVE,SQL,HTML,Ini,Locale,Images" />
       <project id="slack" values="PLAIN_TEXT,CSS,Images,SmartyConfig,C++,Bash,Markdown,JavaScript,XML,PHP,HTML,Npm file,YAML,JSHint file,ESLint,JSCS,UNKNOWN,Git file,JSHint,PATCH,JSON,CoffeeScript,SourceMap" />
       <project id="kerbal" values="JSHint,CSS,Markdown,PATCH,XML,Npm file,LESS,YAML,Images,JSCS,ESLint,PLAIN_TEXT,UNKNOWN,C++,CoffeeScript,Bash,JavaScript,HTML,JSON,JSHint file,TypeScript,Git file,SmartyConfig" />
       <project id="rbasesocket" values="JSCS,SourceMap,ESLint,Git file,JSHint file,LESS,SCSS,Npm file,Ini,PATCH,UNKNOWN,CoffeeScript,Markdown,C++,JSON,PLAIN_TEXT,Locale,JavaScript,SmartyConfig,PHP,Images,JSHint,TypeScript,SQL,YAML,Bash,CSS,ARCHIVE,HTML,XML" />
@@ -311,7 +311,7 @@
       <entry feature="execute.PhpWebAppRunConfigurationType.Debug" count="85" />
       <entry feature="execute.PhpWebAppRunConfigurationType.Run" count="6" />
       <entry feature="execute.js.build_tools.gulp.Debug" count="7" />
-      <entry feature="execute.js.build_tools.gulp.Run" count="199" />
+      <entry feature="execute.js.build_tools.gulp.Run" count="200" />
       <entry feature="ide.settings.Appearance" count="5" />
       <entry feature="ide.settings.CSS" count="4" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="84" />
