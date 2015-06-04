@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>btn</find>
       <find>spocontr</find>
       <find>allowRe</find>
       <find>renew</find>
@@ -31,6 +30,7 @@
       <find>varia</find>
       <find>Amount</find>
       <find>Avtalesum</find>
+      <find>Statist</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
