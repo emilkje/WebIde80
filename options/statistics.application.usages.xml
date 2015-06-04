@@ -88,7 +88,7 @@
     <group name="file-type">
       <project id="rbase3.0" values="JavaScript,SourceMap,YAML,Images,PLAIN_TEXT,CSS,XML,PHP,UNKNOWN,SQL,JSON,HTML,Ini,Locale" />
       <project id="ssadmin" values="ARCHIVE,C++,YAML,PHP,ReST,Blade,Locale,LESS,UNKNOWN,XML,Ini,TypeScript,JavaScript,Images,HTML,PLAIN_TEXT,Cucumber,htaccess,JSON,CSS" />
-      <project id="sponsorportalen" values="UNKNOWN,JavaScript,Bash,JSON,SCSS,DATASOURCE_STORAGE,Ini,HTML,Locale,Markdown,LESS,SQL,SmartyConfig,CSS,PLAIN_TEXT,PHP,XML,Images,SourceMap,ARCHIVE,Git file" />
+      <project id="sponsorportalen" values="Git file,CSS,JSON,UNKNOWN,PLAIN_TEXT,SCSS,PHP,ARCHIVE,HTML,LESS,Markdown,JavaScript,Images,SourceMap,SQL,Locale,Ini,SmartyConfig,DATASOURCE_STORAGE,XML,Bash" />
       <project id="slack" values="YAML,PATCH,SourceMap,ESLint,Markdown,JSHint file,PLAIN_TEXT,UNKNOWN,JSHint,JSCS,C++,HTML,CSS,Images,JavaScript,CoffeeScript,SmartyConfig,Npm file,JSON,PHP,XML,Bash,Git file" />
       <project id="kerbal" values="JSON,HTML,PATCH,C++,UNKNOWN,Npm file,JSCS,Markdown,JSHint file,CoffeeScript,XML,CSS,Bash,YAML,JSHint,JavaScript,ESLint,LESS,Git file,PLAIN_TEXT,TypeScript,Images,SmartyConfig" />
       <project id="rbasesocket" values="SQL,TypeScript,C++,LESS,Ini,Locale,YAML,PHP,XML,ARCHIVE,SourceMap,SmartyConfig,Markdown,UNKNOWN,ESLint,JavaScript,PATCH,PLAIN_TEXT,Git file,JSCS,CSS,Npm file,SCSS,JSHint,Bash,Images,JSHint file,JSON,HTML,CoffeeScript" />
@@ -99,7 +99,7 @@
       <project id="kolsrud" values="UNKNOWN,JSON,PHP,YAML,PLAIN_TEXT,htaccess,Blade,XML,Images" />
       <project id="orchestra" values="PLAIN_TEXT,Ini,JSHint,JavaScript,htaccess,PATCH,PHP,CoffeeScript,SQLite Database,UNKNOWN,Markdown,YAML,CSS,SQL,ESLint,XML,HTML,JSCS,JSON,ReST,Images" />
       <project id="trunk" values="PHP,Locale,SQL,SmartyConfig,XML,JSON,SourceMap,UNKNOWN,Ini,CSS,JavaScript,PLAIN_TEXT,Native,Images,HTML,YAML" />
-      <project id="olkweb3" values="SmartyConfig,Markdown,Locale,LESS,Images,SourceMap,XML,PLAIN_TEXT,JavaScript,Native,Ini,Git file,Bash,JSHint,CSS,JSON,SQL,SCSS,HTML,UNKNOWN,PHP" />
+      <project id="olkweb3" values="XML,PHP,SourceMap,Images,JavaScript,Native,HTML,Git file,UNKNOWN,SmartyConfig,JSHint,SCSS,LESS,Markdown,CSS,PLAIN_TEXT,SQL,Bash,JSON,Ini,Locale" />
       <project id="psr-message" values="ESLint,CoffeeScript,UNKNOWN,XML,JSHint,Ini,PHP,HTML,Images,SQL,CSS,Markdown,PLAIN_TEXT,JavaScript,PATCH,JSON,JSCS,YAML,ARCHIVE,ReST" />
       <project id="handle-it" values="JSON,UNKNOWN,Git file,XML,PLAIN_TEXT,PHP,Markdown" />
       <project id="ionic-webcadet" values="CSS,Markdown,Npm file,TypeScript,JSON,JavaScript,XML,HTML,ARCHIVE,SCSS,Git file,C++,Images,PLAIN_TEXT,UNKNOWN,SASS,C#,LESS,SourceMap" />

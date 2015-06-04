@@ -72,8 +72,8 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/www/project/sponsorportalen" />
         <option value="$USER_HOME$/www/project/olkweb3" />
+        <option value="$USER_HOME$/www/project/sponsorportalen" />
         <option value="$USER_HOME$/pers/handle-it" />
         <option value="$USER_HOME$/pers/jira-release-notes" />
         <option value="$USER_HOME$/pers/replayer" />
@@ -99,12 +99,7 @@
         <option value="$USER_HOME$/www/project/CWKFoto" />
       </list>
     </option>
-    <option name="openPaths">
-      <list>
-        <option value="$USER_HOME$/www/project/sponsorportalen" />
-      </list>
-    </option>
-    <option name="lastPath" value="$USER_HOME$/www/project/sponsorportalen" />
+    <option name="lastPath" value="$USER_HOME$/www/project/olkweb3" />
   </component>
   <component name="RecentTaskRepositories">
     <JIRA shared="false" url="http://jira.innit.no:8081">
