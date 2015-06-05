@@ -1,10 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>months</find>
-      <find>send</find>
-      <find>renew(</find>
-      <find>departmentid</find>
       <find>delete</find>
       <find>feedb</find>
       <find>feedback</find>
@@ -31,6 +27,10 @@
       <find>free</find>
       <find>submitForm</find>
       <find>numb</find>
+      <find>15px</find>
+      <find>panel-t</find>
+      <find>lareplan</find>
+      <find>panel-title</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
@@ -41,7 +41,6 @@
     </replaceStrings>
     <dirStrings>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/employee</dir>
-      <dir>$USER_HOME$/www/project/olkweb3/resource/less/modules</dir>
       <dir>$USER_HOME$/www/project/olkweb3/module/notify</dir>
       <dir>$USER_HOME$/www/project/sponsorportalen/module/template/spo/spotemplate</dir>
       <dir>$USER_HOME$/cordova/ionic-webcadet/www</dir>
@@ -58,6 +57,7 @@
       <dir>$USER_HOME$/pers/kerbal/src/api</dir>
       <dir>$USER_HOME$/www/project/olkweb3/resource/less</dir>
       <dir>$USER_HOME$/www/project/olkweb3/www/js</dir>
+      <dir>$USER_HOME$/www/project/olkweb3/resource/less/modules</dir>
     </dirStrings>
   </component>
 </application>
