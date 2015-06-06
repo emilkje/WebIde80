@@ -99,7 +99,7 @@
       <project id="kolsrud" values="UNKNOWN,JSON,PHP,YAML,PLAIN_TEXT,htaccess,Blade,XML,Images" />
       <project id="orchestra" values="PLAIN_TEXT,Ini,JSHint,JavaScript,htaccess,PATCH,PHP,CoffeeScript,SQLite Database,UNKNOWN,Markdown,YAML,CSS,SQL,ESLint,XML,HTML,JSCS,JSON,ReST,Images" />
       <project id="trunk" values="PHP,Locale,SQL,SmartyConfig,XML,JSON,SourceMap,UNKNOWN,Ini,CSS,JavaScript,PLAIN_TEXT,Native,Images,HTML,YAML" />
-      <project id="olkweb3" values="XML,PHP,SourceMap,Images,JavaScript,Native,HTML,Git file,UNKNOWN,SmartyConfig,JSHint,SCSS,LESS,Markdown,CSS,PLAIN_TEXT,SQL,Bash,JSON,Ini,Locale" />
+      <project id="olkweb3" values="SCSS,CSS,XML,HTML,Git file,Locale,Bash,PHP,JSON,UNKNOWN,JSHint,Native,LESS,Images,SQL,Markdown,SourceMap,JavaScript,PLAIN_TEXT,Ini,SmartyConfig" />
       <project id="psr-message" values="ESLint,CoffeeScript,UNKNOWN,XML,JSHint,Ini,PHP,HTML,Images,SQL,CSS,Markdown,PLAIN_TEXT,JavaScript,PATCH,JSON,JSCS,YAML,ARCHIVE,ReST" />
       <project id="handle-it" values="JSON,UNKNOWN,Git file,XML,PLAIN_TEXT,PHP,Markdown" />
       <project id="ionic-webcadet" values="CSS,Markdown,Npm file,TypeScript,JSON,JavaScript,XML,HTML,ARCHIVE,SCSS,Git file,C++,Images,PLAIN_TEXT,UNKNOWN,SASS,C#,LESS,SourceMap" />
