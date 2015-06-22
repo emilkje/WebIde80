@@ -99,7 +99,7 @@
       <project id="kolsrud" values="JSON,PLAIN_TEXT,PHP,YAML,Images,UNKNOWN,Blade,XML,htaccess" />
       <project id="jira-release-notes" values="UNKNOWN,XML,JSON,SmartyConfig,Images,YAML,PHP,PLAIN_TEXT,Git file,Markdown" />
       <project id="trunk" values="HTML,CSS,SourceMap,PLAIN_TEXT,YAML,UNKNOWN,JSON,XML,Locale,Ini,Native,SmartyConfig,PHP,Images,JavaScript,SQL" />
-      <project id="olkweb3" values="JavaScript,SQL,SourceMap,Locale,UNKNOWN,SCSS,Markdown,HTML,CSS,JSON,Native,SmartyConfig,LESS,PLAIN_TEXT,Images,PHP,Ini,Git file,XML,Bash,JSHint" />
+      <project id="olkweb3" values="Git file,JSHint,PLAIN_TEXT,SQL,Images,PHP,JSON,SmartyConfig,CSS,HTML,LESS,Bash,JavaScript,SCSS,Markdown,Ini,UNKNOWN,Native,XML,Locale,SourceMap" />
       <project id="untitled" values="PHP,UNKNOWN,XML,PLAIN_TEXT" />
       <project id="handle-it" values="Markdown,XML,JSON,PHP,Git file,PLAIN_TEXT,UNKNOWN" />
       <project id="Streetlapse" values="CSS,HTML,YAML,JSHint,JSON,Bash,UNKNOWN,Npm file,Images,XML,Markdown,PLAIN_TEXT,JavaScript,CoffeeScript,Git file,ARCHIVE" />
