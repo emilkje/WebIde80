@@ -24,6 +24,7 @@
       <project id="Streetlapse" values="DEFAULT" />
       <project id="ionic-webcadet" values="DEFAULT" />
       <project id="starter-project" values="DEFAULT" />
+      <project id="DarkStar" values="DEFAULT" />
       <project id="psr-message" values="DEFAULT" />
       <project id="trysil" values="DEFAULT" />
       <project id="replayer" values="JSX Harmony" />
@@ -49,6 +50,7 @@
       <project id="Streetlapse" values="WEB_MODULE" />
       <project id="ionic-webcadet" values="WEB_MODULE" />
       <project id="starter-project" values="WEB_MODULE" />
+      <project id="DarkStar" values="WEB_MODULE" />
       <project id="psr-message" values="WEB_MODULE" />
       <project id="trysil" values="WEB_MODULE" />
       <project id="replayer" values="WEB_MODULE" />
@@ -105,6 +107,7 @@
       <project id="Streetlapse" values="Markdown,Images,HTML,Bash,JavaScript,PLAIN_TEXT,XML,JSON,CSS,ARCHIVE,UNKNOWN,CoffeeScript,JSHint,YAML,Npm file,Git file" />
       <project id="ionic-webcadet" values="HTML,C#,PLAIN_TEXT,JSON,TypeScript,SASS,LESS,UNKNOWN,Git file,SCSS,ARCHIVE,XML,Images,SourceMap,C++,CSS,Npm file,JavaScript,Markdown" />
       <project id="starter-project" values="TypeScript,HTML,SmartyConfig,Images,YAML,SourceMap,UNKNOWN,Locale,JSCS,JSON,DTD,Markdown,PHP,Ini,CoffeeScript,SQL,SCSS,JSHint,C++,Npm file,LESS,PATCH,CSS,PLAIN_TEXT,JavaScript,XML,Git file,ESLint,ARCHIVE" />
+      <project id="DarkStar" values="PHP,PLAIN_TEXT,CSS,XML,UNKNOWN" />
       <project id="psr-message" values="JSCS,ESLint,JavaScript,PATCH,HTML,XML,YAML,PLAIN_TEXT,Markdown,Images,PHP,CSS,JSHint,JSON,SQL,ARCHIVE,UNKNOWN,ReST,CoffeeScript,Ini" />
       <project id="trysil" values="Cucumber,YAML,ARCHIVE,JSON,SCSS,PHP,Images,Ini,UNKNOWN,HTML,SilverStripe,PLAIN_TEXT,XML,CoffeeScript,JavaScript,LESS,htaccess,SmartyConfig,C++,Native,PATCH,SQL,JSHint,CSS,SourceMap" />
       <project id="replayer" values="Images,SourceMap,Markdown,CSS,XML,UNKNOWN,JSON,HTML,PLAIN_TEXT,ESLint,Git file,SCSS,JSHint,JavaScript" />
@@ -130,6 +133,7 @@
       <project id="Streetlapse" values="not installed" />
       <project id="ionic-webcadet" values="not installed" />
       <project id="starter-project" values="not installed" />
+      <project id="DarkStar" values="not installed" />
       <project id="psr-message" values="not installed" />
       <project id="trysil" values="not installed" />
       <project id="replayer" values="not installed" />
@@ -163,6 +167,7 @@
       <project id="Streetlapse" values="LOCAL" />
       <project id="ionic-webcadet" values="LOCAL" />
       <project id="starter-project" values="LOCAL" />
+      <project id="DarkStar" values="LOCAL" />
       <project id="psr-message" values="LOCAL" />
       <project id="trysil" values="LOCAL" />
       <project id="replayer" values="LOCAL" />
@@ -188,6 +193,7 @@
       <project id="Streetlapse" values="2" />
       <project id="ionic-webcadet" values="2" />
       <project id="starter-project" values="2" />
+      <project id="DarkStar" values="2" />
       <project id="psr-message" values="2" />
       <project id="trysil" values="1" />
       <project id="replayer" values="2" />
@@ -213,6 +219,7 @@
       <project id="Streetlapse" values="Project,Project" />
       <project id="ionic-webcadet" values="Project,Project" />
       <project id="starter-project" values="Project,Project" />
+      <project id="DarkStar" values="Project,Project" />
       <project id="psr-message" values="Project,Project" />
       <project id="trysil" values="Project,Project" />
       <project id="replayer" values="Project,Directory,Project" />
@@ -238,6 +245,7 @@
       <project id="Streetlapse" values="0" />
       <project id="ionic-webcadet" values="0" />
       <project id="starter-project" values="0" />
+      <project id="DarkStar" values="0" />
       <project id="psr-message" values="0" />
       <project id="trysil" values="0" />
       <project id="replayer" values="0" />
@@ -263,6 +271,7 @@
       <project id="Streetlapse" values="0" />
       <project id="ionic-webcadet" values="0" />
       <project id="starter-project" values="0" />
+      <project id="DarkStar" values="0" />
       <project id="psr-message" values="0" />
       <project id="trysil" values="0" />
       <project id="replayer" values="0" />
@@ -288,6 +297,7 @@
       <project id="Streetlapse" values="0" />
       <project id="ionic-webcadet" values="0" />
       <project id="starter-project" values="0" />
+      <project id="DarkStar" values="0" />
       <project id="psr-message" values="0" />
       <project id="trysil" values="1" />
       <project id="replayer" values="0" />
