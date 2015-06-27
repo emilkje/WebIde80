@@ -11,23 +11,23 @@
       <project id="slack" values="JSX Harmony" />
       <project id="kerbal" values="DEFAULT" />
       <project id="rbasesocket" values="DEFAULT" />
-      <project id="exchange" values="DEFAULT" />
+      <project id="orchestra" values="DEFAULT" />
       <project id="PHPGit" values="DEFAULT" />
-      <project id="jira-release-notes" values="DEFAULT" />
+      <project id="exchange" values="DEFAULT" />
       <project id="interfacelift" values="DEFAULT" />
       <project id="kolsrud" values="DEFAULT" />
-      <project id="orchestra" values="DEFAULT" />
+      <project id="jira-release-notes" values="DEFAULT" />
       <project id="trunk" values="DEFAULT" />
       <project id="olkweb3" values="JSX Harmony" />
-      <project id="psr-message" values="DEFAULT" />
+      <project id="untitled" values="DEFAULT" />
       <project id="handle-it" values="DEFAULT" />
-      <project id="ionic-webcadet" values="DEFAULT" />
-      <project id="CWKFoto" values="DEFAULT" />
-      <project id="starter-project" values="DEFAULT" />
       <project id="Streetlapse" values="DEFAULT" />
+      <project id="ionic-webcadet" values="DEFAULT" />
+      <project id="starter-project" values="DEFAULT" />
+      <project id="psr-message" values="DEFAULT" />
       <project id="trysil" values="DEFAULT" />
       <project id="replayer" values="JSX Harmony" />
-      <project id="untitled" values="DEFAULT" />
+      <project id="CWKFoto" values="DEFAULT" />
     </group>
     <group name="module type">
       <project id="rbase3.0" values="WEB_MODULE" />
@@ -36,23 +36,23 @@
       <project id="slack" values="WEB_MODULE" />
       <project id="kerbal" values="WEB_MODULE" />
       <project id="rbasesocket" values="WEB_MODULE" />
-      <project id="exchange" values="WEB_MODULE" />
+      <project id="orchestra" values="WEB_MODULE" />
       <project id="PHPGit" values="WEB_MODULE" />
-      <project id="jira-release-notes" values="WEB_MODULE" />
+      <project id="exchange" values="WEB_MODULE" />
       <project id="interfacelift" values="WEB_MODULE" />
       <project id="kolsrud" values="WEB_MODULE" />
-      <project id="orchestra" values="WEB_MODULE" />
+      <project id="jira-release-notes" values="WEB_MODULE" />
       <project id="trunk" values="WEB_MODULE" />
       <project id="olkweb3" values="WEB_MODULE" />
-      <project id="psr-message" values="WEB_MODULE" />
+      <project id="untitled" values="WEB_MODULE" />
       <project id="handle-it" values="WEB_MODULE" />
-      <project id="ionic-webcadet" values="WEB_MODULE" />
-      <project id="CWKFoto" values="WEB_MODULE" />
-      <project id="starter-project" values="WEB_MODULE" />
       <project id="Streetlapse" values="WEB_MODULE" />
+      <project id="ionic-webcadet" values="WEB_MODULE" />
+      <project id="starter-project" values="WEB_MODULE" />
+      <project id="psr-message" values="WEB_MODULE" />
       <project id="trysil" values="WEB_MODULE" />
       <project id="replayer" values="WEB_MODULE" />
-      <project id="untitled" values="WEB_MODULE" />
+      <project id="CWKFoto" values="WEB_MODULE" />
     </group>
     <group name="vcs">
       <project id="rbase3.0" values="svn" />
@@ -77,38 +77,38 @@
     </group>
     <group name="run-configuration-type">
       <project id="sponsorportalen" values="PhpWebAppRunConfigurationType" />
-      <project id="trunk" values="PhpWebAppRunConfigurationType" />
-      <project id="PHPGit" values="PHPUnitRunConfigurationType" />
       <project id="olkweb3" values="PhpWebAppRunConfigurationType" />
+      <project id="PHPGit" values="PHPUnitRunConfigurationType" />
+      <project id="trunk" values="PhpWebAppRunConfigurationType" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="sponsorportalen" values="js.build_tools.gulp,JavascriptDebugType" />
+      <project id="sponsorportalen" values="JavascriptDebugType,js.build_tools.gulp" />
       <project id="PHPGit" values="PHPUnitRunConfigurationType,JavascriptDebugType" />
     </group>
     <group name="file-type">
-      <project id="rbase3.0" values="SQL,Ini,JSON,YAML,HTML,CSS,SourceMap,XML,PHP,Locale,UNKNOWN,PLAIN_TEXT,Images,JavaScript" />
-      <project id="ssadmin" values="Locale,XML,LESS,Cucumber,Blade,Images,PHP,PLAIN_TEXT,CSS,ReST,C++,JSON,UNKNOWN,HTML,TypeScript,htaccess,Ini,ARCHIVE,YAML,JavaScript" />
-      <project id="sponsorportalen" values="LESS,Git file,HTML,PHP,JSON,SmartyConfig,Images,SCSS,JavaScript,SourceMap,UNKNOWN,Bash,SQL,Ini,XML,CSS,Markdown,DATASOURCE_STORAGE,ARCHIVE,Locale,PLAIN_TEXT" />
-      <project id="slack" values="Git file,JSON,JSHint,PLAIN_TEXT,Markdown,Npm file,PATCH,CSS,UNKNOWN,JavaScript,Bash,YAML,CoffeeScript,JSHint file,ESLint,SourceMap,JSCS,PHP,SmartyConfig,XML,HTML,C++,Images" />
-      <project id="kerbal" values="Bash,C++,Npm file,JavaScript,Markdown,JSHint,TypeScript,XML,Git file,JSCS,YAML,JSON,UNKNOWN,CSS,HTML,Images,SmartyConfig,ESLint,CoffeeScript,LESS,PATCH,PLAIN_TEXT,JSHint file" />
-      <project id="rbasesocket" values="Git file,SmartyConfig,ARCHIVE,JavaScript,Ini,CoffeeScript,ESLint,YAML,Images,SQL,LESS,Bash,Locale,Npm file,JSHint,TypeScript,XML,JSHint file,JSON,PHP,HTML,CSS,UNKNOWN,SourceMap,SCSS,PATCH,JSCS,PLAIN_TEXT,Markdown,C++" />
-      <project id="exchange" values="XML,PLAIN_TEXT,UNKNOWN,JSON,PHP" />
-      <project id="PHPGit" values="UNKNOWN,Markdown,PLAIN_TEXT,JSON,CSS,PHP,XML,JavaScript,YAML" />
-      <project id="jira-release-notes" values="Git file,PHP,Images,SmartyConfig,XML,JSON,PLAIN_TEXT,YAML,UNKNOWN,Markdown" />
-      <project id="interfacelift" values="JavaScript,XML,UNKNOWN,JSON,PLAIN_TEXT" />
-      <project id="kolsrud" values="JSON,UNKNOWN,XML,htaccess,Images,PHP,PLAIN_TEXT,YAML,Blade" />
-      <project id="orchestra" values="SQL,XML,CSS,JSCS,Images,Ini,UNKNOWN,JSON,PHP,JSHint,ReST,htaccess,ESLint,PATCH,Markdown,HTML,CoffeeScript,SQLite Database,JavaScript,PLAIN_TEXT,YAML" />
-      <project id="trunk" values="CSS,XML,JSON,UNKNOWN,PLAIN_TEXT,SQL,HTML,JavaScript,PHP,Ini,Images,YAML,SmartyConfig,Native,Locale,SourceMap" />
-      <project id="olkweb3" values="LESS,Locale,JSHint,Native,CSS,Ini,PLAIN_TEXT,SCSS,JSON,SourceMap,HTML,JavaScript,UNKNOWN,Images,PHP,Markdown,SQL,Bash,XML,SmartyConfig,Git file" />
-      <project id="psr-message" values="PLAIN_TEXT,JSCS,JSHint,Markdown,PATCH,YAML,ARCHIVE,Ini,ReST,Images,JavaScript,CoffeeScript,SQL,ESLint,XML,UNKNOWN,CSS,HTML,JSON,PHP" />
-      <project id="handle-it" values="XML,PLAIN_TEXT,PHP,Git file,Markdown,UNKNOWN,JSON" />
-      <project id="ionic-webcadet" values="CSS,HTML,Npm file,PLAIN_TEXT,JSON,JavaScript,C#,SASS,Git file,Markdown,XML,SourceMap,UNKNOWN,TypeScript,SCSS,ARCHIVE,LESS,Images,C++" />
-      <project id="CWKFoto" values="UNKNOWN,PLAIN_TEXT,PHP,JSON,XML" />
-      <project id="starter-project" values="Images,Npm file,Markdown,Git file,Locale,CoffeeScript,PATCH,PHP,TypeScript,ARCHIVE,UNKNOWN,JSHint,SCSS,LESS,SourceMap,DTD,SmartyConfig,YAML,JSON,JavaScript,ESLint,XML,JSCS,SQL,PLAIN_TEXT,HTML,C++,Ini,CSS" />
-      <project id="Streetlapse" values="HTML,PLAIN_TEXT,CSS,Npm file,JSHint,Git file,YAML,Images,JavaScript,UNKNOWN,JSON,ARCHIVE,Bash,CoffeeScript,Markdown,XML" />
-      <project id="trysil" values="UNKNOWN,LESS,Cucumber,htaccess,CSS,Images,CoffeeScript,SmartyConfig,HTML,SCSS,JavaScript,PATCH,Ini,SourceMap,SQL,JSHint,JSON,PLAIN_TEXT,XML,C++,PHP,YAML,ARCHIVE,SilverStripe,Native" />
-      <project id="replayer" values="CSS,XML,JSHint,SCSS,JavaScript,Images,SourceMap,Git file,ESLint,PLAIN_TEXT,Markdown,JSON,UNKNOWN,HTML" />
-      <project id="untitled" values="PHP,UNKNOWN,XML,PLAIN_TEXT" />
+      <project id="rbase3.0" values="JavaScript,CSS,HTML,Ini,PLAIN_TEXT,YAML,SourceMap,XML,UNKNOWN,Locale,Images,PHP,JSON,SQL" />
+      <project id="ssadmin" values="CSS,Cucumber,YAML,ReST,Images,htaccess,ARCHIVE,Locale,XML,TypeScript,Ini,JavaScript,C++,HTML,PHP,Blade,JSON,LESS,UNKNOWN,PLAIN_TEXT" />
+      <project id="sponsorportalen" values="HTML,JavaScript,XML,SCSS,Locale,JSON,DATASOURCE_STORAGE,SourceMap,SmartyConfig,ARCHIVE,PHP,Ini,Markdown,LESS,Git file,SQL,UNKNOWN,Images,Bash,PLAIN_TEXT,CSS" />
+      <project id="slack" values="JSHint file,JSHint,HTML,Bash,JSCS,PHP,SourceMap,JSON,XML,C++,Markdown,PLAIN_TEXT,JavaScript,Images,PATCH,ESLint,SmartyConfig,UNKNOWN,Npm file,CSS,Git file,YAML,CoffeeScript" />
+      <project id="kerbal" values="Bash,TypeScript,LESS,UNKNOWN,CoffeeScript,JSHint,HTML,JSHint file,JSON,ESLint,SmartyConfig,Git file,CSS,JSCS,PLAIN_TEXT,JavaScript,Images,PATCH,Markdown,C++,Npm file,YAML,XML" />
+      <project id="rbasesocket" values="SCSS,SourceMap,Bash,CSS,LESS,PHP,JSCS,UNKNOWN,SQL,Markdown,ARCHIVE,SmartyConfig,HTML,Git file,JSHint file,Images,C++,Locale,YAML,CoffeeScript,JSHint,XML,ESLint,Ini,Npm file,PATCH,JSON,JavaScript,PLAIN_TEXT,TypeScript" />
+      <project id="orchestra" values="ESLint,JSCS,UNKNOWN,JSHint,PHP,CSS,SQL,HTML,SQLite Database,JSON,CoffeeScript,YAML,htaccess,PATCH,Images,XML,Ini,Markdown,JavaScript,PLAIN_TEXT,ReST" />
+      <project id="PHPGit" values="CSS,UNKNOWN,Markdown,PLAIN_TEXT,JSON,YAML,JavaScript,XML,PHP" />
+      <project id="exchange" values="XML,PLAIN_TEXT,PHP,UNKNOWN,JSON" />
+      <project id="interfacelift" values="XML,JavaScript,JSON,PLAIN_TEXT,UNKNOWN" />
+      <project id="kolsrud" values="Images,YAML,JSON,UNKNOWN,PHP,PLAIN_TEXT,XML,Blade,htaccess" />
+      <project id="jira-release-notes" values="PLAIN_TEXT,SmartyConfig,YAML,UNKNOWN,JSON,Markdown,Images,Git file,XML,PHP" />
+      <project id="trunk" values="SQL,XML,PHP,Native,HTML,SmartyConfig,JSON,Images,YAML,JavaScript,CSS,SourceMap,PLAIN_TEXT,Locale,UNKNOWN,Ini" />
+      <project id="olkweb3" values="Bash,SQL,JSON,XML,HTML,Ini,Images,LESS,SourceMap,JSHint,SmartyConfig,SCSS,JavaScript,Native,Git file,Markdown,PLAIN_TEXT,UNKNOWN,CSS,Locale,PHP" />
+      <project id="untitled" values="PHP,XML,PLAIN_TEXT,UNKNOWN" />
+      <project id="handle-it" values="UNKNOWN,JSON,Git file,Markdown,PHP,XML,PLAIN_TEXT" />
+      <project id="Streetlapse" values="Markdown,Images,HTML,Bash,JavaScript,PLAIN_TEXT,XML,JSON,CSS,ARCHIVE,UNKNOWN,CoffeeScript,JSHint,YAML,Npm file,Git file" />
+      <project id="ionic-webcadet" values="HTML,C#,PLAIN_TEXT,JSON,TypeScript,SASS,LESS,UNKNOWN,Git file,SCSS,ARCHIVE,XML,Images,SourceMap,C++,CSS,Npm file,JavaScript,Markdown" />
+      <project id="starter-project" values="TypeScript,HTML,SmartyConfig,Images,YAML,SourceMap,UNKNOWN,Locale,JSCS,JSON,DTD,Markdown,PHP,Ini,CoffeeScript,SQL,SCSS,JSHint,C++,Npm file,LESS,PATCH,CSS,PLAIN_TEXT,JavaScript,XML,Git file,ESLint,ARCHIVE" />
+      <project id="psr-message" values="JSCS,ESLint,JavaScript,PATCH,HTML,XML,YAML,PLAIN_TEXT,Markdown,Images,PHP,CSS,JSHint,JSON,SQL,ARCHIVE,UNKNOWN,ReST,CoffeeScript,Ini" />
+      <project id="trysil" values="Cucumber,YAML,ARCHIVE,JSON,SCSS,PHP,Images,Ini,UNKNOWN,HTML,SilverStripe,PLAIN_TEXT,XML,CoffeeScript,JavaScript,LESS,htaccess,SmartyConfig,C++,Native,PATCH,SQL,JSHint,CSS,SourceMap" />
+      <project id="replayer" values="Images,SourceMap,Markdown,CSS,XML,UNKNOWN,JSON,HTML,PLAIN_TEXT,ESLint,Git file,SCSS,JSHint,JavaScript" />
+      <project id="CWKFoto" values="UNKNOWN,PLAIN_TEXT,XML,PHP,JSON" />
     </group>
     <group name="php-interpreter-version">
       <project id="rbase3.0" values="not installed" />
@@ -117,23 +117,23 @@
       <project id="slack" values="not installed" />
       <project id="kerbal" values="not installed" />
       <project id="rbasesocket" values="not installed" />
-      <project id="exchange" values="not installed" />
+      <project id="orchestra" values="not installed" />
       <project id="PHPGit" values="5.4.34" />
-      <project id="jira-release-notes" values="not installed" />
+      <project id="exchange" values="not installed" />
       <project id="interfacelift" values="not installed" />
       <project id="kolsrud" values="not installed" />
-      <project id="orchestra" values="not installed" />
+      <project id="jira-release-notes" values="not installed" />
       <project id="trunk" values="not installed" />
       <project id="olkweb3" values="5.3.28" />
-      <project id="psr-message" values="not installed" />
+      <project id="untitled" values="not installed" />
       <project id="handle-it" values="not installed" />
-      <project id="ionic-webcadet" values="not installed" />
-      <project id="CWKFoto" values="not installed" />
-      <project id="starter-project" values="not installed" />
       <project id="Streetlapse" values="not installed" />
+      <project id="ionic-webcadet" values="not installed" />
+      <project id="starter-project" values="not installed" />
+      <project id="psr-message" values="not installed" />
       <project id="trysil" values="not installed" />
       <project id="replayer" values="not installed" />
-      <project id="untitled" values="not installed" />
+      <project id="CWKFoto" values="not installed" />
     </group>
     <group name="php-interpreter-debug-ext">
       <project id="sponsorportalen" values="xdebug" />
@@ -150,23 +150,23 @@
       <project id="slack" values="LOCAL" />
       <project id="kerbal" values="LOCAL" />
       <project id="rbasesocket" values="LOCAL" />
-      <project id="exchange" values="LOCAL" />
+      <project id="orchestra" values="LOCAL" />
       <project id="PHPGit" values="LOCAL" />
-      <project id="jira-release-notes" values="LOCAL" />
+      <project id="exchange" values="LOCAL" />
       <project id="interfacelift" values="LOCAL" />
       <project id="kolsrud" values="LOCAL" />
-      <project id="orchestra" values="LOCAL" />
+      <project id="jira-release-notes" values="LOCAL" />
       <project id="trunk" values="LOCAL" />
       <project id="olkweb3" values="LOCAL" />
-      <project id="psr-message" values="LOCAL" />
+      <project id="untitled" values="LOCAL" />
       <project id="handle-it" values="LOCAL" />
-      <project id="ionic-webcadet" values="LOCAL" />
-      <project id="CWKFoto" values="LOCAL" />
-      <project id="starter-project" values="LOCAL" />
       <project id="Streetlapse" values="LOCAL" />
+      <project id="ionic-webcadet" values="LOCAL" />
+      <project id="starter-project" values="LOCAL" />
+      <project id="psr-message" values="LOCAL" />
       <project id="trysil" values="LOCAL" />
       <project id="replayer" values="LOCAL" />
-      <project id="untitled" values="LOCAL" />
+      <project id="CWKFoto" values="LOCAL" />
     </group>
     <group name="php-interpreters">
       <project id="rbase3.0" values="1" />
@@ -175,48 +175,48 @@
       <project id="slack" values="2" />
       <project id="kerbal" values="2" />
       <project id="rbasesocket" values="2" />
-      <project id="exchange" values="1" />
+      <project id="orchestra" values="2" />
       <project id="PHPGit" values="2" />
-      <project id="jira-release-notes" values="2" />
+      <project id="exchange" values="1" />
       <project id="interfacelift" values="1" />
       <project id="kolsrud" values="1" />
-      <project id="orchestra" values="2" />
+      <project id="jira-release-notes" values="2" />
       <project id="trunk" values="1" />
       <project id="olkweb3" values="2" />
-      <project id="psr-message" values="2" />
+      <project id="untitled" values="1" />
       <project id="handle-it" values="2" />
-      <project id="ionic-webcadet" values="2" />
-      <project id="CWKFoto" values="1" />
-      <project id="starter-project" values="2" />
       <project id="Streetlapse" values="2" />
+      <project id="ionic-webcadet" values="2" />
+      <project id="starter-project" values="2" />
+      <project id="psr-message" values="2" />
       <project id="trysil" values="1" />
       <project id="replayer" values="2" />
-      <project id="untitled" values="1" />
+      <project id="CWKFoto" values="1" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="rbase3.0" values="Project,Project" />
       <project id="ssadmin" values="Project,Project" />
       <project id="sponsorportalen" values="Project,Project" />
       <project id="slack" values="Project,Project" />
-      <project id="kerbal" values="Project,Directory,Project" />
+      <project id="kerbal" values="Project,Project,Directory" />
       <project id="rbasesocket" values="Project,Project" />
-      <project id="exchange" values="Project,Project" />
+      <project id="orchestra" values="Project,Project" />
       <project id="PHPGit" values="Project,Project" />
-      <project id="jira-release-notes" values="Project,Project" />
+      <project id="exchange" values="Project,Project" />
       <project id="interfacelift" values="Project,Project" />
       <project id="kolsrud" values="Project,Project" />
-      <project id="orchestra" values="Project,Project" />
+      <project id="jira-release-notes" values="Project,Project" />
       <project id="trunk" values="Project,Project" />
-      <project id="olkweb3" values="Directory,Project,Project" />
-      <project id="psr-message" values="Project,Project" />
+      <project id="olkweb3" values="Project,Directory,Project" />
+      <project id="untitled" values="Project,Project" />
       <project id="handle-it" values="Project,Project" />
-      <project id="ionic-webcadet" values="Project,Project" />
-      <project id="CWKFoto" values="Project,Project" />
-      <project id="starter-project" values="Project,Project" />
       <project id="Streetlapse" values="Project,Project" />
+      <project id="ionic-webcadet" values="Project,Project" />
+      <project id="starter-project" values="Project,Project" />
+      <project id="psr-message" values="Project,Project" />
       <project id="trysil" values="Project,Project" />
       <project id="replayer" values="Project,Directory,Project" />
-      <project id="untitled" values="Project,Project" />
+      <project id="CWKFoto" values="Project,Project" />
     </group>
     <group name="php-debug-skipped-paths">
       <project id="rbase3.0" values="0" />
@@ -225,23 +225,23 @@
       <project id="slack" values="0" />
       <project id="kerbal" values="0" />
       <project id="rbasesocket" values="0" />
-      <project id="exchange" values="0" />
+      <project id="orchestra" values="0" />
       <project id="PHPGit" values="0" />
-      <project id="jira-release-notes" values="0" />
+      <project id="exchange" values="0" />
       <project id="interfacelift" values="0" />
       <project id="kolsrud" values="0" />
-      <project id="orchestra" values="0" />
+      <project id="jira-release-notes" values="0" />
       <project id="trunk" values="0" />
       <project id="olkweb3" values="0" />
-      <project id="psr-message" values="0" />
+      <project id="untitled" values="0" />
       <project id="handle-it" values="0" />
-      <project id="ionic-webcadet" values="0" />
-      <project id="CWKFoto" values="0" />
-      <project id="starter-project" values="0" />
       <project id="Streetlapse" values="0" />
+      <project id="ionic-webcadet" values="0" />
+      <project id="starter-project" values="0" />
+      <project id="psr-message" values="0" />
       <project id="trysil" values="0" />
       <project id="replayer" values="0" />
-      <project id="untitled" values="0" />
+      <project id="CWKFoto" values="0" />
     </group>
     <group name="php-servers">
       <project id="rbase3.0" values="0" />
@@ -250,23 +250,23 @@
       <project id="slack" values="0" />
       <project id="kerbal" values="0" />
       <project id="rbasesocket" values="0" />
-      <project id="exchange" values="0" />
+      <project id="orchestra" values="0" />
       <project id="PHPGit" values="0" />
-      <project id="jira-release-notes" values="0" />
+      <project id="exchange" values="0" />
       <project id="interfacelift" values="0" />
       <project id="kolsrud" values="0" />
-      <project id="orchestra" values="0" />
+      <project id="jira-release-notes" values="0" />
       <project id="trunk" values="1" />
       <project id="olkweb3" values="1" />
-      <project id="psr-message" values="0" />
+      <project id="untitled" values="0" />
       <project id="handle-it" values="0" />
-      <project id="ionic-webcadet" values="0" />
-      <project id="CWKFoto" values="0" />
-      <project id="starter-project" values="0" />
       <project id="Streetlapse" values="0" />
+      <project id="ionic-webcadet" values="0" />
+      <project id="starter-project" values="0" />
+      <project id="psr-message" values="0" />
       <project id="trysil" values="0" />
       <project id="replayer" values="0" />
-      <project id="untitled" values="0" />
+      <project id="CWKFoto" values="0" />
     </group>
     <group name="php-include-path">
       <project id="rbase3.0" values="0" />
@@ -275,28 +275,28 @@
       <project id="slack" values="16" />
       <project id="kerbal" values="0" />
       <project id="rbasesocket" values="0" />
-      <project id="exchange" values="1" />
+      <project id="orchestra" values="0" />
       <project id="PHPGit" values="0" />
-      <project id="jira-release-notes" values="0" />
+      <project id="exchange" values="1" />
       <project id="interfacelift" values="0" />
       <project id="kolsrud" values="0" />
-      <project id="orchestra" values="0" />
+      <project id="jira-release-notes" values="0" />
       <project id="trunk" values="0" />
       <project id="olkweb3" values="7" />
-      <project id="psr-message" values="0" />
+      <project id="untitled" values="0" />
       <project id="handle-it" values="0" />
-      <project id="ionic-webcadet" values="0" />
-      <project id="CWKFoto" values="1" />
-      <project id="starter-project" values="0" />
       <project id="Streetlapse" values="0" />
+      <project id="ionic-webcadet" values="0" />
+      <project id="starter-project" values="0" />
+      <project id="psr-message" values="0" />
       <project id="trysil" values="1" />
       <project id="replayer" values="0" />
-      <project id="untitled" values="0" />
+      <project id="CWKFoto" values="1" />
     </group>
     <group name="php-server-debug-ext">
       <project id="sponsorportalen" values="xdebug" />
-      <project id="trunk" values="xdebug" />
       <project id="olkweb3" values="xdebug" />
+      <project id="trunk" values="xdebug" />
     </group>
   </component>
   <component name="UsageTrigger">
@@ -345,7 +345,7 @@
       <entry feature="ide.settings.Spelling" count="1" />
       <entry feature="ide.settings.Vagrant" count="1" />
       <entry feature="ide.settings.Version_Control" count="3" />
-      <entry feature="ideaapp.started" count="73" />
+      <entry feature="ideaapp.started" count="74" />
       <entry feature="uml.ShowDiagram.DIFF.popup" count="3" />
       <entry feature="uml.ShowDiagram.PHP" count="1" />
     </counts>
