@@ -107,7 +107,7 @@
       <project id="Streetlapse" values="Markdown,Images,HTML,Bash,JavaScript,PLAIN_TEXT,XML,JSON,CSS,ARCHIVE,UNKNOWN,CoffeeScript,JSHint,YAML,Npm file,Git file" />
       <project id="ionic-webcadet" values="HTML,C#,PLAIN_TEXT,JSON,TypeScript,SASS,LESS,UNKNOWN,Git file,SCSS,ARCHIVE,XML,Images,SourceMap,C++,CSS,Npm file,JavaScript,Markdown" />
       <project id="starter-project" values="TypeScript,HTML,SmartyConfig,Images,YAML,SourceMap,UNKNOWN,Locale,JSCS,JSON,DTD,Markdown,PHP,Ini,CoffeeScript,SQL,SCSS,JSHint,C++,Npm file,LESS,PATCH,CSS,PLAIN_TEXT,JavaScript,XML,Git file,ESLint,ARCHIVE" />
-      <project id="DarkStar" values="PHP,XML,CSS,UNKNOWN,PLAIN_TEXT" />
+      <project id="DarkStar" values="PHP,CSS,UNKNOWN,PLAIN_TEXT,XML" />
       <project id="psr-message" values="JSCS,ESLint,JavaScript,PATCH,HTML,XML,YAML,PLAIN_TEXT,Markdown,Images,PHP,CSS,JSHint,JSON,SQL,ARCHIVE,UNKNOWN,ReST,CoffeeScript,Ini" />
       <project id="trysil" values="Cucumber,YAML,ARCHIVE,JSON,SCSS,PHP,Images,Ini,UNKNOWN,HTML,SilverStripe,PLAIN_TEXT,XML,CoffeeScript,JavaScript,LESS,htaccess,SmartyConfig,C++,Native,PATCH,SQL,JSHint,CSS,SourceMap" />
       <project id="replayer" values="Images,SourceMap,Markdown,CSS,XML,UNKNOWN,JSON,HTML,PLAIN_TEXT,ESLint,Git file,SCSS,JSHint,JavaScript" />
