@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>parentse</find>
       <find>parents</find>
       <find>save(</find>
       <find>spoel</find>
@@ -31,6 +30,7 @@
       <find>oImg</find>
       <find>padding</find>
       <find>cell</find>
+      <find>set_tags</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
