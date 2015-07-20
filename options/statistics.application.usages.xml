@@ -8,6 +8,7 @@
       <project id="rbase3.0" values="DEFAULT" />
       <project id="ssadmin" values="DEFAULT" />
       <project id="sponsorportalen" values="DEFAULT" />
+      <project id="andfrem" values="DEFAULT" />
       <project id="slack" values="JSX Harmony" />
       <project id="kerbal" values="DEFAULT" />
       <project id="rbasesocket" values="DEFAULT" />
@@ -34,6 +35,7 @@
       <project id="rbase3.0" values="WEB_MODULE" />
       <project id="ssadmin" values="WEB_MODULE" />
       <project id="sponsorportalen" values="WEB_MODULE" />
+      <project id="andfrem" values="WEB_MODULE" />
       <project id="slack" values="WEB_MODULE" />
       <project id="kerbal" values="WEB_MODULE" />
       <project id="rbasesocket" values="WEB_MODULE" />
@@ -59,6 +61,7 @@
     <group name="vcs">
       <project id="rbase3.0" values="svn" />
       <project id="sponsorportalen" values="Git" />
+      <project id="andfrem" values="Git" />
       <project id="kerbal" values="Git" />
       <project id="Streetlapse" values="Git" />
       <project id="PHPGit" values="Git" />
@@ -91,6 +94,7 @@
       <project id="rbase3.0" values="CSS,PHP,HTML,UNKNOWN,XML,JSON,JavaScript,YAML,PLAIN_TEXT,SQL,Images,Locale,SourceMap,Ini" />
       <project id="ssadmin" values="HTML,JSON,UNKNOWN,PLAIN_TEXT,TypeScript,XML,C++,Images,Blade,ReST,htaccess,Ini,ARCHIVE,CSS,Locale,YAML,Cucumber,LESS,PHP,JavaScript" />
       <project id="sponsorportalen" values="CSS,Images,SCSS,HTML,SQL,Markdown,XML,Ini,Locale,PHP,SourceMap,JavaScript,LESS,Git file,Bash,ARCHIVE,DATASOURCE_STORAGE,PLAIN_TEXT,JSON,UNKNOWN,SmartyConfig" />
+      <project id="andfrem" values="JSON,LESS,JavaScript,JSHint,YAML,Markdown,SCSS,XML,SilverStripe,SourceMap,PHP,htaccess,CSS,Images,UNKNOWN,JSCS,PLAIN_TEXT,Cucumber,HTML,Git file" />
       <project id="slack" values="CSS,SmartyConfig,Npm file,PLAIN_TEXT,JavaScript,SourceMap,JSCS,Images,UNKNOWN,JSON,JSHint file,C++,ESLint,Markdown,Bash,JSHint,XML,Git file,PATCH,PHP,HTML,YAML,CoffeeScript" />
       <project id="kerbal" values="Markdown,HTML,C++,TypeScript,CSS,JSHint,LESS,JSHint file,JSCS,Bash,JSON,XML,YAML,UNKNOWN,PLAIN_TEXT,Images,Npm file,ESLint,CoffeeScript,Git file,PATCH,JavaScript,SmartyConfig" />
       <project id="rbasesocket" values="SQL,YAML,TypeScript,Ini,CoffeeScript,SmartyConfig,JSON,CSS,ESLint,Markdown,XML,PHP,Npm file,Locale,PATCH,C++,ARCHIVE,JSHint,Bash,JSCS,JSHint file,HTML,Images,PLAIN_TEXT,UNKNOWN,SCSS,JavaScript,SourceMap,LESS,Git file" />
@@ -117,6 +121,7 @@
       <project id="rbase3.0" values="not installed" />
       <project id="ssadmin" values="not installed" />
       <project id="sponsorportalen" values="5.3.28" />
+      <project id="andfrem" values="not installed" />
       <project id="slack" values="not installed" />
       <project id="kerbal" values="not installed" />
       <project id="rbasesocket" values="not installed" />
@@ -151,6 +156,7 @@
       <project id="rbase3.0" values="LOCAL" />
       <project id="ssadmin" values="LOCAL" />
       <project id="sponsorportalen" values="LOCAL" />
+      <project id="andfrem" values="LOCAL" />
       <project id="slack" values="LOCAL" />
       <project id="kerbal" values="LOCAL" />
       <project id="rbasesocket" values="LOCAL" />
@@ -177,6 +183,7 @@
       <project id="rbase3.0" values="1" />
       <project id="ssadmin" values="1" />
       <project id="sponsorportalen" values="2" />
+      <project id="andfrem" values="2" />
       <project id="slack" values="2" />
       <project id="kerbal" values="2" />
       <project id="rbasesocket" values="2" />
@@ -203,6 +210,7 @@
       <project id="rbase3.0" values="Project,Project" />
       <project id="ssadmin" values="Project,Project" />
       <project id="sponsorportalen" values="Project,Project" />
+      <project id="andfrem" values="Project,Project" />
       <project id="slack" values="Project,Project" />
       <project id="kerbal" values="Project,Directory,Project" />
       <project id="rbasesocket" values="Project,Project" />
@@ -229,6 +237,7 @@
       <project id="rbase3.0" values="0" />
       <project id="ssadmin" values="0" />
       <project id="sponsorportalen" values="0" />
+      <project id="andfrem" values="0" />
       <project id="slack" values="0" />
       <project id="kerbal" values="0" />
       <project id="rbasesocket" values="0" />
@@ -255,6 +264,7 @@
       <project id="rbase3.0" values="0" />
       <project id="ssadmin" values="0" />
       <project id="sponsorportalen" values="1" />
+      <project id="andfrem" values="0" />
       <project id="slack" values="0" />
       <project id="kerbal" values="0" />
       <project id="rbasesocket" values="0" />
@@ -281,6 +291,7 @@
       <project id="rbase3.0" values="0" />
       <project id="ssadmin" values="0" />
       <project id="sponsorportalen" values="4" />
+      <project id="andfrem" values="1" />
       <project id="slack" values="16" />
       <project id="kerbal" values="0" />
       <project id="rbasesocket" values="0" />
@@ -336,7 +347,7 @@
       <entry feature="ide.settings.Editor_Tabs" count="1" />
       <entry feature="ide.settings.Emmet" count="1" />
       <entry feature="ide.settings.File_Types" count="1" />
-      <entry feature="ide.settings.File_Watchers" count="1" />
+      <entry feature="ide.settings.File_Watchers" count="2" />
       <entry feature="ide.settings.File_and_Code_Templates" count="4" />
       <entry feature="ide.settings.Font" count="45" />
       <entry feature="ide.settings.General" count="13" />
