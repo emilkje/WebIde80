@@ -16,7 +16,7 @@
     <property name="MemberChooser.showClasses" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="ProjectStructure.SecondLevelElements" value="0.2" />
-    <property name="KEYMAP" value="selec&#10;path t" />
+    <property name="KEYMAP" value="select&#10;sele&#10;selec&#10;path t" />
     <property name="FindSplitterProportion" value="0.25" />
     <property name="FileTemplates.CurrentTab" value="Code" />
     <property name="FileTemplates.SelectedTemplate" value="PHP Setter Method" />
