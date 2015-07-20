@@ -94,7 +94,7 @@
       <project id="rbase3.0" values="CSS,PHP,HTML,UNKNOWN,XML,JSON,JavaScript,YAML,PLAIN_TEXT,SQL,Images,Locale,SourceMap,Ini" />
       <project id="ssadmin" values="HTML,JSON,UNKNOWN,PLAIN_TEXT,TypeScript,XML,C++,Images,Blade,ReST,htaccess,Ini,ARCHIVE,CSS,Locale,YAML,Cucumber,LESS,PHP,JavaScript" />
       <project id="sponsorportalen" values="CSS,Images,SCSS,HTML,SQL,Markdown,XML,Ini,Locale,PHP,SourceMap,JavaScript,LESS,Git file,Bash,ARCHIVE,DATASOURCE_STORAGE,PLAIN_TEXT,JSON,UNKNOWN,SmartyConfig" />
-      <project id="andfrem" values="JSON,LESS,JavaScript,JSHint,YAML,Markdown,SCSS,XML,SilverStripe,SourceMap,PHP,htaccess,CSS,Images,UNKNOWN,JSCS,PLAIN_TEXT,Cucumber,HTML,Git file" />
+      <project id="andfrem" values="JavaScript,htaccess,SilverStripe,Images,YAML,JSHint,CSS,UNKNOWN,Ini,JSON,XML,PLAIN_TEXT,CoffeeScript,HTML,LESS,SmartyConfig,SQL,Native,PHP,Markdown,Cucumber,ARCHIVE,SourceMap,Git file,Bash,SCSS,JSCS" />
       <project id="slack" values="CSS,SmartyConfig,Npm file,PLAIN_TEXT,JavaScript,SourceMap,JSCS,Images,UNKNOWN,JSON,JSHint file,C++,ESLint,Markdown,Bash,JSHint,XML,Git file,PATCH,PHP,HTML,YAML,CoffeeScript" />
       <project id="kerbal" values="Markdown,HTML,C++,TypeScript,CSS,JSHint,LESS,JSHint file,JSCS,Bash,JSON,XML,YAML,UNKNOWN,PLAIN_TEXT,Images,Npm file,ESLint,CoffeeScript,Git file,PATCH,JavaScript,SmartyConfig" />
       <project id="rbasesocket" values="SQL,YAML,TypeScript,Ini,CoffeeScript,SmartyConfig,JSON,CSS,ESLint,Markdown,XML,PHP,Npm file,Locale,PATCH,C++,ARCHIVE,JSHint,Bash,JSCS,JSHint file,HTML,Images,PLAIN_TEXT,UNKNOWN,SCSS,JavaScript,SourceMap,LESS,Git file" />
