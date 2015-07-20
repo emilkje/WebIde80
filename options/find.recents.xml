@@ -1,7 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>feedback</find>
       <find>documentation</find>
       <find>default_</find>
       <find>parentse</find>
@@ -31,6 +30,7 @@
       <find>panel-title</find>
       <find>ajaxS</find>
       <find>.text-emphasis-variant</find>
+      <find>oImg</find>
     </findStrings>
     <replaceStrings>
       <replace>$spocontracttemplate</replace>
