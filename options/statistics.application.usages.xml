@@ -336,6 +336,7 @@
       <entry feature="ide.settings.Editor_Tabs" count="1" />
       <entry feature="ide.settings.Emmet" count="1" />
       <entry feature="ide.settings.File_Types" count="1" />
+      <entry feature="ide.settings.File_Watchers" count="1" />
       <entry feature="ide.settings.File_and_Code_Templates" count="4" />
       <entry feature="ide.settings.Font" count="45" />
       <entry feature="ide.settings.General" count="13" />
