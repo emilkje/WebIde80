@@ -34,6 +34,9 @@
       <webServer id="756ef2cc-4646-49e5-8816-da9edf749c80" name="slack.dev" url="http://slack.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="9de885b2-d28a-411e-bad0-929f9463a9e2" name="andfrem.dev" url="http://andfrem.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
