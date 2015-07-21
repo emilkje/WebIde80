@@ -105,7 +105,7 @@
       <project id="kolsrud" values="PHP,Images,UNKNOWN,JSON,XML,PLAIN_TEXT,htaccess,YAML,Blade" />
       <project id="orchestra" values="Images,SQL,SQLite Database,Markdown,JSCS,JSON,JavaScript,YAML,HTML,JSHint,htaccess,UNKNOWN,CoffeeScript,XML,ESLint,PATCH,CSS,PHP,ReST,PLAIN_TEXT,Ini" />
       <project id="trunk" values="SQL,UNKNOWN,Locale,JavaScript,SourceMap,PLAIN_TEXT,CSS,HTML,Ini,Images,YAML,Native,XML,PHP,JSON,SmartyConfig" />
-      <project id="olkweb3" values="PLAIN_TEXT,Bash,Ini,Images,SmartyConfig,LESS,UNKNOWN,JSHint,PHP,JavaScript,CSS,Markdown,Git file,Locale,JSON,SQL,SourceMap,SCSS,Native,XML,HTML" />
+      <project id="olkweb3" values="LESS,Ini,Images,Bash,SCSS,Native,JSHint,PHP,HTML,CSS,PLAIN_TEXT,Git file,SQL,UNKNOWN,Locale,JSON,Markdown,JavaScript,XML,SourceMap,SmartyConfig" />
       <project id="psr-message" values="JSCS,SQL,PHP,UNKNOWN,ESLint,Ini,PLAIN_TEXT,Images,Markdown,ReST,YAML,ARCHIVE,XML,JSHint,JSON,CoffeeScript,PATCH,CSS,HTML,JavaScript" />
       <project id="handle-it" values="XML,PLAIN_TEXT,UNKNOWN,Git file,PHP,Markdown,JSON" />
       <project id="DarkStar" values="XML,CSS,UNKNOWN,PLAIN_TEXT,PHP" />
@@ -221,7 +221,7 @@
       <project id="kolsrud" values="Project,Project" />
       <project id="orchestra" values="Project,Project" />
       <project id="trunk" values="Project,Project" />
-      <project id="olkweb3" values="Directory,Project,Project" />
+      <project id="olkweb3" values="Project,Directory,Project" />
       <project id="psr-message" values="Project,Project" />
       <project id="handle-it" values="Project,Project" />
       <project id="DarkStar" values="Project,Project" />
